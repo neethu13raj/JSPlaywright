@@ -24,3 +24,6 @@ let page = await context.newPage()
     await page.getByText('round trip').click()
     await page.waitForTimeout(2000)
 })
+
+test('onini', async({browser}) => {  
+})
