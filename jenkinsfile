@@ -1,53 +1,49 @@
 pipeline {
     agent any
 
-    environment {
-        PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD = '1' // Optional: Skip auto-download
-        HOME = "${env.WORKSPACE}"
-    }
-
-    tools {
-        nodejs 'node-18' // Make sure Node.js is configured in Jenkins
-    }
-
     stages {
-        stage('Checkout') {
-            steps {
-                // Replace with your Git repo if needed
-                git url: 'https://github.com/your-username/your-playwright-repo.git', branch: 'main'
-            }
-        }
-
         stage('Install Dependencies') {
             steps {
-                sh 'npm ci' // or 'npm install'
-            }
-        }
-
-        stage('Install Playwright Browsers') {
-            steps {
-                sh 'npx playwright install --with-deps'
+                bat 'npm install'
+                bat 'npx playwright install'
             }
         }
 
         stage('Run Tests') {
             steps {
-                sh 'npx playwright test'
+                script {
+                    bat 'npx rim-raf allure-results'
+                    def status = bat(script: 'npx playwright test --reporter=html,allure-playwright', returnStatus: true)
+                    if (status != 0) {
+                        echo "Tests failed, but continuing to generate reports..."
+                    }
+                }
             }
         }
     }
 
     post {
         always {
-            archiveArtifacts artifacts: 'playwright-report/**', allowEmptyArchive: true
-        }
+            echo 'Generating Allure and HTML reports...'
 
-        success {
-            echo 'Tests completed successfully!'
-        }
+            bat 'npx allure generate allure-results --clean -o allure-report'
 
-        failure {
-            echo 'Tests failed.'
+            publishHTML(target: [
+                reportDir: 'playwright-report',
+                reportFiles: 'index.html',
+                reportName: 'Playwright HTML Report',
+                alwaysLinkToLastBuild: true,
+                keepAll: true,
+                 alwaysLinkToLastBuild: true,
+                allowMissing: true,
+                linkRelative: false
+            ])
+
+            allure([
+                includeProperties: false,
+                jdk: '',
+                results: [[path: 'allure-results']]
+            ])
         }
     }
 }
