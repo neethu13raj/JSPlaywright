@@ -15,7 +15,7 @@ test( 'handling single fileupload', async({page}) => {
     await expect(page.locator('//p[@id ="singleFileStatus"]')).toContainText('xpath.docx')
 
     })
-    test.only('handling multiple file uplaod', async({page}) => {
+    test('handling multiple file uplaod', async({page}) => {
           await page.goto('https://testautomationpractice.blogspot.com/')
           await page.locator('//input[@id="multipleFilesInput"]').setInputFiles(
           [path.join(__dirname,'xpath.docx'),path.join(__dirname,'day1.docx')]
