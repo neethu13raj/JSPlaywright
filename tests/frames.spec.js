@@ -28,7 +28,7 @@ test('handling frames', async({page}) => {
 })
 
 //in demo Apps
-test.only('demoapps', async({page}) => {
+test('demoapps', async({page}) => {
     await page.goto("https://demoapps.qspiders.com/ui/frames?sublist=0")
 
     //deafult frame

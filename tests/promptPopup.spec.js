@@ -29,7 +29,7 @@ test('Prompt PopUp', async({page}) =>{
 
 })
 
-test.only('hidden division', async({page}) => {
+test('hidden division', async({page}) => {
 
     await page.goto('https://demoapps.qspiders.com/ui/hidden?sublist=0')
 

@@ -47,7 +47,7 @@ await page.getByText('Login Now').click()
 await page.waitForTimeout(3000)
 
 })
-test.only('disabled', async({page}) => {
+test('disabled', async({page}) => {
   await page.goto('https://demoapps.qspiders.com/ui?scenario=1') 
   
   await page.locator('//aside[@class="poppins w-[100%] relative"]//li[.="Disabled"]').click()

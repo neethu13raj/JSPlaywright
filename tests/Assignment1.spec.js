@@ -19,7 +19,7 @@ test('status of webElements', async({page}) => {
 
 })
 
-test.only('CSS validations', async({page}) => {
+test('CSS validations', async({page}) => {
 
     await page.goto('https://demoapps.qspiders.com/ui/button?sublist=0')
     expect (page.url()).toEqual('https://demoapps.qspiders.com/ui/button?sublist=0')
