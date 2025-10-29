@@ -1,0 +1,1160 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11] [cursor=pointer]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore
+        - generic [ref=e13] [cursor=pointer]: Plus
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e17]:
+      - textbox "Search for products, brands and more" [ref=e19]: Books
+      - button [ref=e20] [cursor=pointer]:
+        - img [ref=e21] [cursor=pointer]
+    - link "Login" [ref=e29] [cursor=pointer]:
+      - /url: /account/login?ret=/search%3Fq%3DBooks%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Don%26as%3Doff%26p%255B%255D%3Dfacets.language%25255B%25255D%253DHindi
+    - link "Become a Seller" [ref=e31] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e32] [cursor=pointer]: Become a Seller
+    - generic [ref=e34] [cursor=pointer]:
+      - generic [ref=e37] [cursor=pointer]: More
+      - img [ref=e38] [cursor=pointer]
+    - link "Cart" [ref=e43] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e44] [cursor=pointer]
+      - generic [ref=e46] [cursor=pointer]: Cart
+  - generic [ref=e51]:
+    - generic [ref=e52] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e53] [cursor=pointer]
+    - generic [ref=e55] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e56] [cursor=pointer]
+    - generic [ref=e58] [cursor=pointer]:
+      - text: Men
+      - img [ref=e59] [cursor=pointer]
+    - generic [ref=e61] [cursor=pointer]:
+      - text: Women
+      - img [ref=e62] [cursor=pointer]
+    - generic [ref=e64] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e65] [cursor=pointer]
+    - generic [ref=e67] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e68] [cursor=pointer]
+    - generic [ref=e70] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e71] [cursor=pointer]
+    - link "Flights" [ref=e73] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e74] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e76]:
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e84]: Filters
+          - generic [ref=e86] [cursor=pointer]: Clear all
+        - generic [ref=e87]:
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]: ✕
+            - generic [ref=e91] [cursor=pointer]: HIndi
+          - generic [ref=e93] [cursor=pointer]: Show more
+      - generic [ref=e95]:
+        - generic [ref=e97]: CATEGORIES
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - img [ref=e101] [cursor=pointer]
+            - link "Books" [ref=e103] [cursor=pointer]:
+              - /url: /books/pr?sid=bks&q=Books&p[]=facets.language%255B%255D%3DHIndi&otracker=categorytree
+          - generic [ref=e104]:
+            - link "Magazines" [ref=e105] [cursor=pointer]:
+              - /url: /books/magazines/pr?sid=bks,wsm&q=Books&p[]=facets.language%255B%255D%3DHIndi&otracker=categorytree
+            - link "Higher Education and Professional Books" [ref=e106] [cursor=pointer]:
+              - /url: /books/higher-education-and-professional-books/pr?sid=bks,f50&q=Books&p[]=facets.language%255B%255D%3DHIndi&otracker=categorytree
+            - link "History and Archaeology Books" [ref=e107] [cursor=pointer]:
+              - /url: /books/history-and-archaeology-books/pr?sid=bks,9xa&q=Books&p[]=facets.language%255B%255D%3DHIndi&otracker=categorytree
+            - link "Lifestyle, Hobby and Sport Books" [ref=e108] [cursor=pointer]:
+              - /url: /books/lifestyle-hobby-and-sport-books/pr?sid=bks,wcr&q=Books&p[]=facets.language%255B%255D%3DHIndi&otracker=categorytree
+            - link "Test Preparation Books" [ref=e109] [cursor=pointer]:
+              - /url: /books/test-preparation-books/pr?sid=bks,4b5&q=Books&p[]=facets.language%255B%255D%3DHIndi&otracker=categorytree
+            - generic [ref=e111] [cursor=pointer]: Show 14 more
+      - generic [ref=e112]:
+        - generic [ref=e115]: Price
+        - generic [ref=e131]:
+          - generic [ref=e132]: .
+          - generic [ref=e133]: .
+          - generic [ref=e134]: .
+          - generic [ref=e135]: .
+          - generic [ref=e136]: .
+          - generic: .
+        - generic [ref=e137]:
+          - combobox [ref=e139]:
+            - option "Min" [selected]
+            - option "₹100"
+            - option "₹200"
+            - option "₹500"
+            - option "₹1000"
+          - generic [ref=e140]: to
+          - combobox [ref=e142]:
+            - option "₹100"
+            - option "₹200"
+            - option "₹500"
+            - option "₹1000"
+            - option "₹1000+" [selected]
+      - generic [ref=e143]:
+        - img [ref=e148] [cursor=pointer]
+        - generic [ref=e150] [cursor=pointer]: "?"
+      - generic [ref=e151]:
+        - generic [ref=e152] [cursor=pointer]:
+          - generic [ref=e153] [cursor=pointer]: Offers
+          - img [ref=e154] [cursor=pointer]
+        - generic [ref=e162] [cursor=pointer]: Special Price
+      - generic [ref=e163]:
+        - generic [ref=e164] [cursor=pointer]:
+          - generic [ref=e165] [cursor=pointer]: Customer Ratings
+          - img [ref=e166] [cursor=pointer]
+        - generic [ref=e169]:
+          - generic [ref=e174] [cursor=pointer]: 4★ & above
+          - generic [ref=e179] [cursor=pointer]: 3★ & above
+      - generic [ref=e181] [cursor=pointer]:
+        - generic [ref=e182] [cursor=pointer]: Availability
+        - img [ref=e183] [cursor=pointer]
+      - generic [ref=e185]:
+        - generic [ref=e186] [cursor=pointer]:
+          - generic [ref=e187] [cursor=pointer]: Language
+          - img [ref=e188] [cursor=pointer]
+        - generic [ref=e190]:
+          - generic [ref=e191]:
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]: ✕
+              - generic [ref=e195] [cursor=pointer]: Clear all
+            - generic [ref=e200] [cursor=pointer]: English
+            - generic [ref=e205] [cursor=pointer]: Hindi
+            - generic [ref=e210] [cursor=pointer]: Marathi
+            - generic [ref=e215] [cursor=pointer]: Bengali
+            - generic [ref=e220] [cursor=pointer]: Telugu
+            - generic [ref=e225] [cursor=pointer]: Tamil
+          - generic [ref=e227] [cursor=pointer]: 22 MORE
+      - generic [ref=e229] [cursor=pointer]:
+        - generic [ref=e230] [cursor=pointer]: Discount
+        - img [ref=e231] [cursor=pointer]
+      - generic [ref=e233]:
+        - generic [ref=e234] [cursor=pointer]:
+          - generic [ref=e235] [cursor=pointer]: Binding
+          - img [ref=e236] [cursor=pointer]
+        - generic [ref=e239]:
+          - generic [ref=e244] [cursor=pointer]: Paperback
+          - generic [ref=e249] [cursor=pointer]: Hardcover
+          - generic [ref=e254] [cursor=pointer]: Board Book
+          - generic [ref=e259] [cursor=pointer]: Leather Bound
+          - generic [ref=e264] [cursor=pointer]: Audiobook
+      - generic [ref=e266] [cursor=pointer]:
+        - generic [ref=e267] [cursor=pointer]: Age Group
+        - img [ref=e268] [cursor=pointer]
+      - generic [ref=e270]:
+        - generic [ref=e271] [cursor=pointer]:
+          - generic [ref=e272] [cursor=pointer]: Latest Arrivals
+          - img [ref=e273] [cursor=pointer]
+        - generic [ref=e276]:
+          - generic [ref=e281] [cursor=pointer]: Last 30 Days
+          - generic [ref=e286] [cursor=pointer]: Last 90 Days
+          - generic [ref=e291] [cursor=pointer]: Last 150 Days
+      - generic [ref=e293] [cursor=pointer]:
+        - generic [ref=e294] [cursor=pointer]: GST Invoice Available
+        - img [ref=e295] [cursor=pointer]
+      - generic [ref=e298] [cursor=pointer]:
+        - generic [ref=e299] [cursor=pointer]: New Arrivals
+        - img [ref=e300] [cursor=pointer]
+      - generic [ref=e303] [cursor=pointer]:
+        - generic [ref=e304] [cursor=pointer]: Book Subcategory
+        - img [ref=e305] [cursor=pointer]
+    - generic [ref=e307]:
+      - generic [ref=e310]:
+        - generic [ref=e311]:
+          - generic [ref=e312]:
+            - link "Home" [ref=e313] [cursor=pointer]:
+              - /url: /
+            - img [ref=e314]
+          - link "Books" [ref=e317] [cursor=pointer]:
+            - /url: /books/pr?sid=bks&marketplace=FLIPKART
+        - generic [ref=e318]:
+          - text: Showing 1 – 40 of 40,655 results for "
+          - generic [ref=e319]: Books
+          - text: "\""
+        - generic [ref=e320]:
+          - generic [ref=e321]: Sort By
+          - generic [ref=e322]: Relevance
+          - generic [ref=e323] [cursor=pointer]: Popularity
+          - generic [ref=e324] [cursor=pointer]: Price -- Low to High
+          - generic [ref=e325] [cursor=pointer]: Price -- High to Low
+          - generic [ref=e326] [cursor=pointer]: Newest First
+      - generic [ref=e328]:
+        - generic [ref=e330]:
+          - link "Adhunik Bharat Ka Etihas | Brief History of Modern India | Spectrum | Rajiv Ahir | UPSC | Civil Services Exam | State Administrative Exams - 2024/edition" [ref=e331] [cursor=pointer]:
+            - /url: /adhunik-bharat-ka-etihas-brief-history-modern-india-spectrum-rajiv-ahir-upsc-civil-services-exam-state-administrative-exams-2024-edition/p/itmfd8958e9497ee?pid=9787561957110&lid=LSTBOK9787561957110VJC8KC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32viqZu5uNLDl9zXZ6nYX8vRRklqXtG4FEOMWge7e4NmYw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Adhunik Bharat Ka Etihas | Brief History of Modern India | Spectrum | Rajiv Ahir | UPSC | Civil Services Exam | State Administrative Exams - 2024/edition" [ref=e335] [cursor=pointer]
+            - img [ref=e338] [cursor=pointer]
+          - img [ref=e341]
+          - link "Adhunik Bharat Ka Etihas | Brief History of Modern Indi..." [ref=e344] [cursor=pointer]:
+            - /url: /adhunik-bharat-ka-etihas-brief-history-modern-india-spectrum-rajiv-ahir-upsc-civil-services-exam-state-administrative-exams-2024-edition/p/itmfd8958e9497ee?pid=9787561957110&lid=LSTBOK9787561957110VJC8KC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32viqZu5uNLDl9zXZ6nYX8vRRklqXtG4FEOMWge7e4NmYw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e345]: Paperback, Rajiv Ahir
+          - generic [ref=e346]:
+            - generic [ref=e348]:
+              - text: "4.1"
+              - img [ref=e349]
+            - generic [ref=e350]: (185)
+          - link "₹414 ₹625 33% off" [ref=e351] [cursor=pointer]:
+            - /url: /adhunik-bharat-ka-etihas-brief-history-modern-india-spectrum-rajiv-ahir-upsc-civil-services-exam-state-administrative-exams-2024-edition/p/itmfd8958e9497ee?pid=9787561957110&lid=LSTBOK9787561957110VJC8KC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32viqZu5uNLDl9zXZ6nYX8vRRklqXtG4FEOMWge7e4NmYw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e352] [cursor=pointer]:
+              - generic [ref=e353] [cursor=pointer]: ₹414
+              - generic [ref=e354] [cursor=pointer]: ₹625
+              - generic [ref=e356] [cursor=pointer]: 33% off
+        - generic [ref=e358]:
+          - link "Hindi Self Help & Motivation Book on Success, Mindset, Habits, Wealth, Leadership, Health & Personal Growth (24 Chapters of Success) by Sonu Sharma" [ref=e359] [cursor=pointer]:
+            - /url: /hindi-self-help-motivation-book-success-mindset-habits-wealth-leadership-health-personal-growth-24-chapters-success-sonu-sharma/p/itm440bd0ceb72bb?pid=9789371868556&lid=LSTBOK9789371868556KAZR8Z&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32vbHOtz-x0Uzez9sgn7CmwJqNtaQm3gc4ug8Lvfsr-ZrA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Hindi Self Help & Motivation Book on Success, Mindset, Habits, Wealth, Leadership, Health & Personal Growth (24 Chapters of Success) by Sonu Sharma" [ref=e363] [cursor=pointer]
+            - img [ref=e366] [cursor=pointer]
+          - img [ref=e369]
+          - link "Hindi Self Help & Motivation Book on Success, Mindset, ..." [ref=e372] [cursor=pointer]:
+            - /url: /hindi-self-help-motivation-book-success-mindset-habits-wealth-leadership-health-personal-growth-24-chapters-success-sonu-sharma/p/itm440bd0ceb72bb?pid=9789371868556&lid=LSTBOK9789371868556KAZR8Z&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32vbHOtz-x0Uzez9sgn7CmwJqNtaQm3gc4ug8Lvfsr-ZrA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e373]: Paperback, Sonu sharma
+          - generic [ref=e374]:
+            - generic [ref=e376]:
+              - text: "5"
+              - img [ref=e377]
+            - generic [ref=e378]: (13)
+          - img [ref=e380]
+          - link "₹383 ₹499 23% off" [ref=e381] [cursor=pointer]:
+            - /url: /hindi-self-help-motivation-book-success-mindset-habits-wealth-leadership-health-personal-growth-24-chapters-success-sonu-sharma/p/itm440bd0ceb72bb?pid=9789371868556&lid=LSTBOK9789371868556KAZR8Z&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32vbHOtz-x0Uzez9sgn7CmwJqNtaQm3gc4ug8Lvfsr-ZrA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e382] [cursor=pointer]:
+              - generic [ref=e383] [cursor=pointer]: ₹383
+              - generic [ref=e384] [cursor=pointer]: ₹499
+              - generic [ref=e386] [cursor=pointer]: 23% off
+        - generic [ref=e388]:
+          - link "UPSI Moolvidhi Book 2025-2026 Exampur by Vivek Sir | UPSI & Competitive Exams Preparation" [ref=e389] [cursor=pointer]:
+            - /url: /upsi-moolvidhi-book-2025-2026-exampur-vivek-sir-competitive-exams-preparation/p/itm559c744291dfa?pid=9788198766847&lid=LSTBOK97881987668475Q27OR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788198766847.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "UPSI Moolvidhi Book 2025-2026 Exampur by Vivek Sir | UPSI & Competitive Exams Preparation" [ref=e393] [cursor=pointer]
+            - img [ref=e396] [cursor=pointer]
+          - link "UPSI Moolvidhi Book 2025-2026 Exampur by Vivek Sir | UP..." [ref=e398] [cursor=pointer]:
+            - /url: /upsi-moolvidhi-book-2025-2026-exampur-vivek-sir-competitive-exams-preparation/p/itm559c744291dfa?pid=9788198766847&lid=LSTBOK97881987668475Q27OR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788198766847.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e399]: Paperback, Vivek Sir
+          - generic [ref=e400]:
+            - generic [ref=e402]:
+              - text: "4.5"
+              - img [ref=e403]
+            - generic [ref=e404]: (433)
+          - img [ref=e406]
+          - link "₹129 ₹249 48% off" [ref=e407] [cursor=pointer]:
+            - /url: /upsi-moolvidhi-book-2025-2026-exampur-vivek-sir-competitive-exams-preparation/p/itm559c744291dfa?pid=9788198766847&lid=LSTBOK97881987668475Q27OR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788198766847.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e408] [cursor=pointer]:
+              - generic [ref=e409] [cursor=pointer]: ₹129
+              - generic [ref=e410] [cursor=pointer]: ₹249
+              - generic [ref=e412] [cursor=pointer]: 48% off
+          - generic [ref=e415]: Only few left
+        - generic [ref=e417]:
+          - link "UP Police Constable GK/GS Special Book Exampur by Vivek Sir | Competitive Exam Preparation" [ref=e418] [cursor=pointer]:
+            - /url: /up-police-constable-gk-gs-special-book-exampur-vivek-sir-competitive-exam-preparation/p/itm50cbe1927e21a?pid=9789391240905&lid=LSTBOK9789391240905JKUTF1&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789391240905.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "UP Police Constable GK/GS Special Book Exampur by Vivek Sir | Competitive Exam Preparation" [ref=e422] [cursor=pointer]
+            - img [ref=e425] [cursor=pointer]
+          - link "UP Police Constable GK/GS Special Book Exampur by Vivek..." [ref=e427] [cursor=pointer]:
+            - /url: /up-police-constable-gk-gs-special-book-exampur-vivek-sir-competitive-exam-preparation/p/itm50cbe1927e21a?pid=9789391240905&lid=LSTBOK9789391240905JKUTF1&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789391240905.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e428]: Paperback, Vivek Sir
+          - generic [ref=e429]:
+            - generic [ref=e431]:
+              - text: "4.4"
+              - img [ref=e432]
+            - generic [ref=e433]: (461)
+          - link "₹129 ₹299 56% off" [ref=e434] [cursor=pointer]:
+            - /url: /up-police-constable-gk-gs-special-book-exampur-vivek-sir-competitive-exam-preparation/p/itm50cbe1927e21a?pid=9789391240905&lid=LSTBOK9789391240905JKUTF1&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789391240905.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e435] [cursor=pointer]:
+              - generic [ref=e436] [cursor=pointer]: ₹129
+              - generic [ref=e437] [cursor=pointer]: ₹299
+              - generic [ref=e439] [cursor=pointer]: 56% off
+          - generic [ref=e442]: Only few left
+      - generic [ref=e444]:
+        - generic [ref=e446]:
+          - link "Updated Bhartiya Moolvidhi Special For UP SI By Jeet Rana Sir | Hindi | For All Competitive Exams" [ref=e447] [cursor=pointer]:
+            - /url: /updated-bhartiya-moolvidhi-special-up-si-jeet-rana-sir-hindi-all-competitive-exams/p/itm6ca8cd6eb7029?pid=RBKHFEGQPGASZFNF&lid=LSTRBKHFEGQPGASZFNFHG9EGV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFEGQPGASZFNF.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Updated Bhartiya Moolvidhi Special For UP SI By Jeet Rana Sir | Hindi | For All Competitive Exams" [ref=e451] [cursor=pointer]
+            - img [ref=e454] [cursor=pointer]
+          - link "Updated Bhartiya Moolvidhi Special For UP SI By Jeet Ra..." [ref=e456] [cursor=pointer]:
+            - /url: /updated-bhartiya-moolvidhi-special-up-si-jeet-rana-sir-hindi-all-competitive-exams/p/itm6ca8cd6eb7029?pid=RBKHFEGQPGASZFNF&lid=LSTRBKHFEGQPGASZFNFHG9EGV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFEGQPGASZFNF.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e457]: Paperback, Hindi, JEET RANA
+          - generic [ref=e458]:
+            - generic [ref=e460]:
+              - text: "4.3"
+              - img [ref=e461]
+            - generic [ref=e462]: (26)
+          - link "₹118 ₹189 37% off" [ref=e463] [cursor=pointer]:
+            - /url: /updated-bhartiya-moolvidhi-special-up-si-jeet-rana-sir-hindi-all-competitive-exams/p/itm6ca8cd6eb7029?pid=RBKHFEGQPGASZFNF&lid=LSTRBKHFEGQPGASZFNFHG9EGV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFEGQPGASZFNF.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e464] [cursor=pointer]:
+              - generic [ref=e465] [cursor=pointer]: ₹118
+              - generic [ref=e466] [cursor=pointer]: ₹189
+              - generic [ref=e468] [cursor=pointer]: 37% off
+          - generic [ref=e471]: Only few left
+        - generic [ref=e473]:
+          - link "Rich Dad Poor Dad - 25th Anniversary Edition (Hindi) + Rahasya (Hindi Edition Of The Secret)" [ref=e474] [cursor=pointer]:
+            - /url: /rich-dad-poor-25th-anniversary-hindi-rahasya-hindi-secret/p/itm09cc33ae2ce24?pid=RBKHBFEWYFG3SZSZ&lid=LSTRBKHBFEWYFG3SZSZ6C5DAB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32ua_S9uuKDIPWjj_qsOHewKBol6CkUXqa8sB9LKGrI2MQ%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Rich Dad Poor Dad - 25th Anniversary Edition (Hindi) + Rahasya (Hindi Edition Of The Secret)" [ref=e478] [cursor=pointer]
+            - img [ref=e481] [cursor=pointer]
+          - img [ref=e484]
+          - link "Rich Dad Poor Dad - 25th Anniversary Edition (Hindi) + ..." [ref=e487] [cursor=pointer]:
+            - /url: /rich-dad-poor-25th-anniversary-hindi-rahasya-hindi-secret/p/itm09cc33ae2ce24?pid=RBKHBFEWYFG3SZSZ&lid=LSTRBKHBFEWYFG3SZSZ6C5DAB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32ua_S9uuKDIPWjj_qsOHewKBol6CkUXqa8sB9LKGrI2MQ%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e488]: Paperback, Hindi, Robert-t.Kiyosaki, RHONDA BYRNE
+          - generic [ref=e489]:
+            - generic [ref=e491]:
+              - text: "4.4"
+              - img [ref=e492]
+            - generic [ref=e493]: (115)
+          - img [ref=e495]
+          - link "₹186 ₹999 81% off" [ref=e496] [cursor=pointer]:
+            - /url: /rich-dad-poor-25th-anniversary-hindi-rahasya-hindi-secret/p/itm09cc33ae2ce24?pid=RBKHBFEWYFG3SZSZ&lid=LSTRBKHBFEWYFG3SZSZ6C5DAB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32ua_S9uuKDIPWjj_qsOHewKBol6CkUXqa8sB9LKGrI2MQ%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e497] [cursor=pointer]:
+              - generic [ref=e498] [cursor=pointer]: ₹186
+              - generic [ref=e499] [cursor=pointer]: ₹999
+              - generic [ref=e501] [cursor=pointer]: 81% off
+        - generic [ref=e503]:
+          - link "Heavy Driver Delhi Police | ITBP | 68 Practice Set | Updated 2026" [ref=e504] [cursor=pointer]:
+            - /url: /heavy-driver-delhi-police-itbp-68-practice-set-updated-2026/p/itm609634704c248?pid=RBKHGFGYHTPVQPSH&lid=LSTRBKHGFGYHTPVQPSH0LOBMK&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHGFGYHTPVQPSH.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Heavy Driver Delhi Police | ITBP | 68 Practice Set | Updated 2026" [ref=e508] [cursor=pointer]
+            - img [ref=e511] [cursor=pointer]
+          - link "Heavy Driver Delhi Police | ITBP | 68 Practice Set | Up..." [ref=e513] [cursor=pointer]:
+            - /url: /heavy-driver-delhi-police-itbp-68-practice-set-updated-2026/p/itm609634704c248?pid=RBKHGFGYHTPVQPSH&lid=LSTRBKHGFGYHTPVQPSH0LOBMK&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHGFGYHTPVQPSH.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e514]: Paperback, Hindi, Sanjeev Insaan Sir
+          - generic [ref=e515]:
+            - generic [ref=e517]:
+              - text: "4.5"
+              - img [ref=e518]
+            - generic [ref=e519]: (127)
+          - link "₹250 ₹440 43% off" [ref=e520] [cursor=pointer]:
+            - /url: /heavy-driver-delhi-police-itbp-68-practice-set-updated-2026/p/itm609634704c248?pid=RBKHGFGYHTPVQPSH&lid=LSTRBKHGFGYHTPVQPSH0LOBMK&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHGFGYHTPVQPSH.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e521] [cursor=pointer]:
+              - generic [ref=e522] [cursor=pointer]: ₹250
+              - generic [ref=e523] [cursor=pointer]: ₹440
+              - generic [ref=e525] [cursor=pointer]: 43% off
+          - generic [ref=e528]: Hot Deal
+        - generic [ref=e530]:
+          - link "BlackBook Of Samanya Jagrukta March 2024 By Nikhil Gupta" [ref=e531] [cursor=pointer]:
+            - /url: /blackbook-samanya-jagrukta-march-2024-nikhil-gupta/p/itm16afc90560bcb?pid=RBKHG3F98TE7MK6S&lid=LSTRBKHG3F98TE7MK6S7KFJFZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHG3F98TE7MK6S.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "BlackBook Of Samanya Jagrukta March 2024 By Nikhil Gupta" [ref=e535] [cursor=pointer]
+            - img [ref=e538] [cursor=pointer]
+          - link "BlackBook Of Samanya Jagrukta March 2024 By Nikhil Gupt..." [ref=e540] [cursor=pointer]:
+            - /url: /blackbook-samanya-jagrukta-march-2024-nikhil-gupta/p/itm16afc90560bcb?pid=RBKHG3F98TE7MK6S&lid=LSTRBKHG3F98TE7MK6S7KFJFZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHG3F98TE7MK6S.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e541]: Paperback, Hindi, Nikhil Gupta
+          - link "₹489 ₹650 24% off" [ref=e542] [cursor=pointer]:
+            - /url: /blackbook-samanya-jagrukta-march-2024-nikhil-gupta/p/itm16afc90560bcb?pid=RBKHG3F98TE7MK6S&lid=LSTRBKHG3F98TE7MK6S7KFJFZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHG3F98TE7MK6S.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e543] [cursor=pointer]:
+              - generic [ref=e544] [cursor=pointer]: ₹489
+              - generic [ref=e545] [cursor=pointer]: ₹650
+              - generic [ref=e547] [cursor=pointer]: 24% off
+      - generic [ref=e549]:
+        - generic [ref=e551]:
+          - link "Delhi Police Pariksha Samanya Adhyan | Delhi Police Gs | Hindi | Shivant Sir Gs | Useful For Delhi Police Exams" [ref=e552] [cursor=pointer]:
+            - /url: /delhi-police-pariksha-samanya-adhyan-gs-hindi-shivant-sir-useful-exams/p/itmc955ec74a5177?pid=RBKHG7S7ZHVRGSHY&lid=LSTRBKHG7S7ZHVRGSHY2IAWHE&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHG7S7ZHVRGSHY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Delhi Police Pariksha Samanya Adhyan | Delhi Police Gs | Hindi | Shivant Sir Gs | Useful For Delhi Police Exams" [ref=e556] [cursor=pointer]
+            - img [ref=e559] [cursor=pointer]
+          - link "Delhi Police Pariksha Samanya Adhyan | Delhi Police Gs ..." [ref=e561] [cursor=pointer]:
+            - /url: /delhi-police-pariksha-samanya-adhyan-gs-hindi-shivant-sir-useful-exams/p/itmc955ec74a5177?pid=RBKHG7S7ZHVRGSHY&lid=LSTRBKHG7S7ZHVRGSHY2IAWHE&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHG7S7ZHVRGSHY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e562]: Paperback, Hindi, SHIVANT SIR
+          - generic [ref=e563]:
+            - generic [ref=e565]:
+              - text: "4.8"
+              - img [ref=e566]
+            - generic [ref=e567]: (108)
+          - link "₹286 ₹299 4% off" [ref=e568] [cursor=pointer]:
+            - /url: /delhi-police-pariksha-samanya-adhyan-gs-hindi-shivant-sir-useful-exams/p/itmc955ec74a5177?pid=RBKHG7S7ZHVRGSHY&lid=LSTRBKHG7S7ZHVRGSHY2IAWHE&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHG7S7ZHVRGSHY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e569] [cursor=pointer]:
+              - generic [ref=e570] [cursor=pointer]: ₹286
+              - generic [ref=e571] [cursor=pointer]: ₹299
+              - generic [ref=e573] [cursor=pointer]: 4% off
+          - generic [ref=e576]: Only few left
+        - generic [ref=e578]:
+          - link "BRAHMASTRA Complete Maths Multicolored Formula Book Third Edition Hindi Bestseller" [ref=e579] [cursor=pointer]:
+            - /url: /brahmastra-complete-maths-multicolored-formula-book-third-hindi/p/itm05c067162da3d?pid=RBKGUFFWD5AFEMUZ&lid=LSTRBKGUFFWD5AFEMUZ9MPOM0&marketplace=FLIPKART&q=Books&store=bks&spotlightTagId=default_BestsellerId_bks&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKGUFFWD5AFEMUZ.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "BRAHMASTRA Complete Maths Multicolored Formula Book Third Edition Hindi" [ref=e583] [cursor=pointer]
+            - generic [ref=e584] [cursor=pointer]: Bestseller
+            - img [ref=e587] [cursor=pointer]
+          - link "BRAHMASTRA Complete Maths Multicolored Formula Book Thi..." [ref=e589] [cursor=pointer]:
+            - /url: /brahmastra-complete-maths-multicolored-formula-book-third-hindi/p/itm05c067162da3d?pid=RBKGUFFWD5AFEMUZ&lid=LSTRBKGUFFWD5AFEMUZ9MPOM0&marketplace=FLIPKART&q=Books&store=bks&spotlightTagId=default_BestsellerId_bks&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKGUFFWD5AFEMUZ.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e590]: Paperback, Hindi, Aditya Ranjan
+          - generic [ref=e591]:
+            - generic [ref=e593]:
+              - text: "4.5"
+              - img [ref=e594]
+            - generic [ref=e595]: (1,59,319)
+          - img [ref=e597]
+          - link "₹178 ₹340 47% off" [ref=e598] [cursor=pointer]:
+            - /url: /brahmastra-complete-maths-multicolored-formula-book-third-hindi/p/itm05c067162da3d?pid=RBKGUFFWD5AFEMUZ&lid=LSTRBKGUFFWD5AFEMUZ9MPOM0&marketplace=FLIPKART&q=Books&store=bks&spotlightTagId=default_BestsellerId_bks&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKGUFFWD5AFEMUZ.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e599] [cursor=pointer]:
+              - generic [ref=e600] [cursor=pointer]: ₹178
+              - generic [ref=e601] [cursor=pointer]: ₹340
+              - generic [ref=e603] [cursor=pointer]: 47% off
+          - generic [ref=e606]: Only few left
+        - generic [ref=e608]:
+          - link "Rice Dad Poor Dad" [ref=e609] [cursor=pointer]:
+            - /url: /rice-dad-poor/p/itm54eaa80845507?pid=RBKGS4JZ4FUNUSWM&lid=LSTRBKGS4JZ4FUNUSWMOV02XD&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32vz5uHRto4vBq05J-NRarYB_5yE35HN82D2mBloieNt-Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Rice Dad Poor Dad" [ref=e613] [cursor=pointer]
+            - img [ref=e616] [cursor=pointer]
+          - img [ref=e619]
+          - link "Rice Dad Poor Dad" [active] [ref=e622] [cursor=pointer]:
+            - /url: /rice-dad-poor/p/itm54eaa80845507?pid=RBKGS4JZ4FUNUSWM&lid=LSTRBKGS4JZ4FUNUSWMOV02XD&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32vz5uHRto4vBq05J-NRarYB_5yE35HN82D2mBloieNt-Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e623]: Paperback, Hindi, Sharon L. Lechter
+          - generic [ref=e624]:
+            - generic [ref=e626]:
+              - text: "4.2"
+              - img [ref=e627]
+            - generic [ref=e628]: (2,380)
+          - img [ref=e630]
+          - link "₹130 ₹499 73% off" [ref=e631] [cursor=pointer]:
+            - /url: /rice-dad-poor/p/itm54eaa80845507?pid=RBKGS4JZ4FUNUSWM&lid=LSTRBKGS4JZ4FUNUSWMOV02XD&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32vz5uHRto4vBq05J-NRarYB_5yE35HN82D2mBloieNt-Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e632] [cursor=pointer]:
+              - generic [ref=e633] [cursor=pointer]: ₹130
+              - generic [ref=e634] [cursor=pointer]: ₹499
+              - generic [ref=e636] [cursor=pointer]: 73% off
+        - generic [ref=e638]:
+          - link "Physics Wallah Pw Neet 13 Years Pyqs" [ref=e639] [cursor=pointer]:
+            - /url: /physics-wallah-pw-neet-13-years-pyqs/p/itm961a419a3e2d3?pid=9789371532259&lid=LSTBOK9789371532259DPAL7W&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32td6mxCGyFJM85nmpa9UMbx7NayHsWIG1bZaR0VUxU4Tw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Physics Wallah Pw Neet 13 Years Pyqs" [ref=e643] [cursor=pointer]
+            - img [ref=e646] [cursor=pointer]
+          - img [ref=e649]
+          - link "Physics Wallah Pw Neet 13 Years Pyqs" [ref=e652] [cursor=pointer]:
+            - /url: /physics-wallah-pw-neet-13-years-pyqs/p/itm961a419a3e2d3?pid=9789371532259&lid=LSTBOK9789371532259DPAL7W&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32td6mxCGyFJM85nmpa9UMbx7NayHsWIG1bZaR0VUxU4Tw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e653]: Hindi, Paperback, unknown
+          - generic [ref=e654]:
+            - generic [ref=e656]:
+              - text: "4.3"
+              - img [ref=e657]
+            - generic [ref=e658]: (538)
+          - img [ref=e660]
+          - link "₹383 ₹549 30% off" [ref=e661] [cursor=pointer]:
+            - /url: /physics-wallah-pw-neet-13-years-pyqs/p/itm961a419a3e2d3?pid=9789371532259&lid=LSTBOK9789371532259DPAL7W&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32td6mxCGyFJM85nmpa9UMbx7NayHsWIG1bZaR0VUxU4Tw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e662] [cursor=pointer]:
+              - generic [ref=e663] [cursor=pointer]: ₹383
+              - generic [ref=e664] [cursor=pointer]: ₹549
+              - generic [ref=e666] [cursor=pointer]: 30% off
+      - generic [ref=e668]:
+        - generic [ref=e670]:
+          - link "UP SI Classnotes (With New Moolvidhi )Complete Syllabus 2025-2026" [ref=e671] [cursor=pointer]:
+            - /url: /up-si-classnotes-with-new-moolvidhi-complete-syllabus-2025-2026/p/itm666cff67facfb?pid=RBKHF9HGFF4JGEZY&lid=LSTRBKHF9HGFF4JGEZYIIDK3U&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF9HGFF4JGEZY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "UP SI Classnotes (With New Moolvidhi )Complete Syllabus 2025-2026" [ref=e675] [cursor=pointer]
+            - img [ref=e678] [cursor=pointer]
+          - link "UP SI Classnotes (With New Moolvidhi )Complete Syllabus..." [ref=e680] [cursor=pointer]:
+            - /url: /up-si-classnotes-with-new-moolvidhi-complete-syllabus-2025-2026/p/itm666cff67facfb?pid=RBKHF9HGFF4JGEZY&lid=LSTRBKHF9HGFF4JGEZYIIDK3U&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF9HGFF4JGEZY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e681]: Paperback, Hindi, Vivek Sir
+          - generic [ref=e682]:
+            - generic [ref=e684]:
+              - text: "3.8"
+              - img [ref=e685]
+            - generic [ref=e686]: (698)
+          - link "₹799 ₹3,999 80% off" [ref=e687] [cursor=pointer]:
+            - /url: /up-si-classnotes-with-new-moolvidhi-complete-syllabus-2025-2026/p/itm666cff67facfb?pid=RBKHF9HGFF4JGEZY&lid=LSTRBKHF9HGFF4JGEZYIIDK3U&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF9HGFF4JGEZY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e688] [cursor=pointer]:
+              - generic [ref=e689] [cursor=pointer]: ₹799
+              - generic [ref=e690] [cursor=pointer]: ₹3,999
+              - generic [ref=e692] [cursor=pointer]: 80% off
+          - generic [ref=e695]: Only few left
+        - generic [ref=e697]:
+          - link "Ek Duniya Samanantar" [ref=e698] [cursor=pointer]:
+            - /url: /ek-duniya-samanantar/p/itmbe7df9a08a666?pid=RBKHF6DRY7DUGGYY&lid=LSTRBKHF6DRY7DUGGYYIN4KE7&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF6DRY7DUGGYY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Ek Duniya Samanantar" [ref=e702] [cursor=pointer]
+            - img [ref=e705] [cursor=pointer]
+          - link "Ek Duniya Samanantar" [ref=e707] [cursor=pointer]:
+            - /url: /ek-duniya-samanantar/p/itmbe7df9a08a666?pid=RBKHF6DRY7DUGGYY&lid=LSTRBKHF6DRY7DUGGYYIN4KE7&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF6DRY7DUGGYY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e708]: Paperback, Hindi, Rajendra Yadav
+          - generic [ref=e709]:
+            - generic [ref=e711]:
+              - text: "4"
+              - img [ref=e712]
+            - generic [ref=e713]: (3)
+          - link "₹200 ₹250 20% off" [ref=e714] [cursor=pointer]:
+            - /url: /ek-duniya-samanantar/p/itmbe7df9a08a666?pid=RBKHF6DRY7DUGGYY&lid=LSTRBKHF6DRY7DUGGYYIN4KE7&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF6DRY7DUGGYY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e715] [cursor=pointer]:
+              - generic [ref=e716] [cursor=pointer]: ₹200
+              - generic [ref=e717] [cursor=pointer]: ₹250
+              - generic [ref=e719] [cursor=pointer]: 20% off
+          - generic [ref=e722]: Only few left
+        - generic [ref=e724]:
+          - link "Complete Reasoning Tark Jyoti Updated 2025 Books By Ankit Bhati Sir & Sandeep Chaudhary Sir Rwa" [ref=e725] [cursor=pointer]:
+            - /url: /complete-reasoning-tark-jyoti-updated-2025-books-ankit-bhati-sir-sandeep-chaudhary-rwa/p/itm2794cef214042?pid=9788198596840&lid=LSTBOK97881985968407BD5GA&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788198596840.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Complete Reasoning Tark Jyoti Updated 2025 Books By Ankit Bhati Sir & Sandeep Chaudhary Sir Rwa" [ref=e729] [cursor=pointer]
+            - img [ref=e732] [cursor=pointer]
+          - link "Complete Reasoning Tark Jyoti Updated 2025 Books By Ank..." [ref=e734] [cursor=pointer]:
+            - /url: /complete-reasoning-tark-jyoti-updated-2025-books-ankit-bhati-sir-sandeep-chaudhary-rwa/p/itm2794cef214042?pid=9788198596840&lid=LSTBOK97881985968407BD5GA&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788198596840.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e735]: Paperback, Ankit Bhati Sir, Sandeep Sir, RWA Team
+          - generic [ref=e736]:
+            - generic [ref=e738]:
+              - text: "4.6"
+              - img [ref=e739]
+            - generic [ref=e740]: (10,400)
+          - img [ref=e742]
+          - link "₹150 ₹249 39% off" [ref=e743] [cursor=pointer]:
+            - /url: /complete-reasoning-tark-jyoti-updated-2025-books-ankit-bhati-sir-sandeep-chaudhary-rwa/p/itm2794cef214042?pid=9788198596840&lid=LSTBOK97881985968407BD5GA&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788198596840.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e744] [cursor=pointer]:
+              - generic [ref=e745] [cursor=pointer]: ₹150
+              - generic [ref=e746] [cursor=pointer]: ₹249
+              - generic [ref=e748] [cursor=pointer]: 39% off
+          - generic [ref=e751]: Only few left
+        - generic [ref=e753]:
+          - link "Khan Sir Pocket GK General Knowledge (Samanya Gyan) By Khan Sir 2nd Revised September 2024 Edition Useful For All Competitive Exams" [ref=e754] [cursor=pointer]:
+            - /url: /khan-sir-pocket-gk-general-knowledge-samanya-gyan-2nd-revised-september-2024-useful-all-competitive-exams/p/itm60064d74cf6ed?pid=RBKH9ZJDNT9YQCYY&lid=LSTRBKH9ZJDNT9YQCYYQ4J3LV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKH9ZJDNT9YQCYY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Khan Sir Pocket GK General Knowledge (Samanya Gyan) By Khan Sir 2nd Revised September 2024 Edition Useful For All Competitive Exams" [ref=e758] [cursor=pointer]
+            - img [ref=e761] [cursor=pointer]
+          - link "Khan Sir Pocket GK General Knowledge (Samanya Gyan) By ..." [ref=e763] [cursor=pointer]:
+            - /url: /khan-sir-pocket-gk-general-knowledge-samanya-gyan-2nd-revised-september-2024-useful-all-competitive-exams/p/itm60064d74cf6ed?pid=RBKH9ZJDNT9YQCYY&lid=LSTRBKH9ZJDNT9YQCYYQ4J3LV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKH9ZJDNT9YQCYY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e764]: Perfect Paperback, Hindi, Khan Sir
+          - generic [ref=e765]:
+            - generic [ref=e767]:
+              - text: "4.3"
+              - img [ref=e768]
+            - generic [ref=e769]: (2,992)
+          - img [ref=e771]
+          - link "₹239 ₹550 56% off" [ref=e772] [cursor=pointer]:
+            - /url: /khan-sir-pocket-gk-general-knowledge-samanya-gyan-2nd-revised-september-2024-useful-all-competitive-exams/p/itm60064d74cf6ed?pid=RBKH9ZJDNT9YQCYY&lid=LSTRBKH9ZJDNT9YQCYYQ4J3LV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKH9ZJDNT9YQCYY.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e773] [cursor=pointer]:
+              - generic [ref=e774] [cursor=pointer]: ₹239
+              - generic [ref=e775] [cursor=pointer]: ₹550
+              - generic [ref=e777] [cursor=pointer]: 56% off
+          - generic [ref=e780]: Only few left
+      - generic [ref=e782]:
+        - generic [ref=e784]:
+          - link "Srimad Bhagavad Gita" [ref=e785] [cursor=pointer]:
+            - /url: /srimad-bhagavad-gita/p/itmfbd333bafdfd0?pid=RBKGFTVYM33GF8VB&lid=LSTRBKGFTVYM33GF8VBOIO9XL&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32s1UNGcHEgqGNkSI_-UqUVeW1ZPGGMtW4vhVZvE-CFwXw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Srimad Bhagavad Gita" [ref=e789] [cursor=pointer]
+            - img [ref=e792] [cursor=pointer]
+          - img [ref=e795]
+          - link "Srimad Bhagavad Gita" [ref=e798] [cursor=pointer]:
+            - /url: /srimad-bhagavad-gita/p/itmfbd333bafdfd0?pid=RBKGFTVYM33GF8VB&lid=LSTRBKGFTVYM33GF8VBOIO9XL&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32s1UNGcHEgqGNkSI_-UqUVeW1ZPGGMtW4vhVZvE-CFwXw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e799]: Hardcover, Hindi, SHRI SHRIMAD A.C BHAKTI VEDANT SWAMI PARBHUPAD
+          - generic [ref=e800]:
+            - generic [ref=e802]:
+              - text: "4.7"
+              - img [ref=e803]
+            - generic [ref=e804]: (1,650)
+          - img [ref=e806]
+          - link "₹260 ₹499 47% off" [ref=e807] [cursor=pointer]:
+            - /url: /srimad-bhagavad-gita/p/itmfbd333bafdfd0?pid=RBKGFTVYM33GF8VB&lid=LSTRBKGFTVYM33GF8VBOIO9XL&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32s1UNGcHEgqGNkSI_-UqUVeW1ZPGGMtW4vhVZvE-CFwXw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e808] [cursor=pointer]:
+              - generic [ref=e809] [cursor=pointer]: ₹260
+              - generic [ref=e810] [cursor=pointer]: ₹499
+              - generic [ref=e812] [cursor=pointer]: 47% off
+        - generic [ref=e814]:
+          - link "Dark Psychology Secrets & Manipulation" [ref=e815] [cursor=pointer]:
+            - /url: /dark-psychology-secrets-manipulation/p/itmf0cbbd36b415f?pid=9789359832517&lid=LSTBOK978935983251749GJXH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32soke-4eOg6HIf4S7_IFejAlBCjjJsZl7AttfmXvUNmEA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Dark Psychology Secrets & Manipulation" [ref=e819] [cursor=pointer]
+            - img [ref=e822] [cursor=pointer]
+          - img [ref=e825]
+          - link "Dark Psychology Secrets & Manipulation" [ref=e828] [cursor=pointer]:
+            - /url: /dark-psychology-secrets-manipulation/p/itmf0cbbd36b415f?pid=9789359832517&lid=LSTBOK978935983251749GJXH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32soke-4eOg6HIf4S7_IFejAlBCjjJsZl7AttfmXvUNmEA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e829]: Hindi, Paperback, Brown? Amy
+          - generic [ref=e830]:
+            - generic [ref=e832]:
+              - text: "4.2"
+              - img [ref=e833]
+            - generic [ref=e834]: (1,522)
+          - img [ref=e836]
+          - link "₹159 ₹199 20% off" [ref=e837] [cursor=pointer]:
+            - /url: /dark-psychology-secrets-manipulation/p/itmf0cbbd36b415f?pid=9789359832517&lid=LSTBOK978935983251749GJXH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32soke-4eOg6HIf4S7_IFejAlBCjjJsZl7AttfmXvUNmEA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e838] [cursor=pointer]:
+              - generic [ref=e839] [cursor=pointer]: ₹159
+              - generic [ref=e840] [cursor=pointer]: ₹199
+              - generic [ref=e842] [cursor=pointer]: 20% off
+        - generic [ref=e844]:
+          - link "Rukmini Bssc Karyalya Parichari Pt With 32 Sets" [ref=e845] [cursor=pointer]:
+            - /url: /rukmini-bssc-karyalya-parichari-pt-32-sets/p/itmddc9232835d78?pid=RBKHFUG7GVNC9HCG&lid=LSTRBKHFUG7GVNC9HCGYNE5OF&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFUG7GVNC9HCG.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Rukmini Bssc Karyalya Parichari Pt With 32 Sets" [ref=e849] [cursor=pointer]
+            - img [ref=e852] [cursor=pointer]
+          - link "Rukmini Bssc Karyalya Parichari Pt With 32 Sets" [ref=e854] [cursor=pointer]:
+            - /url: /rukmini-bssc-karyalya-parichari-pt-32-sets/p/itmddc9232835d78?pid=RBKHFUG7GVNC9HCG&lid=LSTRBKHFUG7GVNC9HCGYNE5OF&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFUG7GVNC9HCG.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e855]: Paperback, Hindi, RUKMINI TEAM
+          - img [ref=e857]
+          - link "₹398 ₹399" [ref=e858] [cursor=pointer]:
+            - /url: /rukmini-bssc-karyalya-parichari-pt-32-sets/p/itmddc9232835d78?pid=RBKHFUG7GVNC9HCG&lid=LSTRBKHFUG7GVNC9HCGYNE5OF&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFUG7GVNC9HCG.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e859] [cursor=pointer]:
+              - generic [ref=e860] [cursor=pointer]: ₹398
+              - generic [ref=e861] [cursor=pointer]: ₹399
+          - generic [ref=e864]: Only few left
+        - generic [ref=e866]:
+          - link "Professor Ki Diary" [ref=e867] [cursor=pointer]:
+            - /url: /professor-ki-diary/p/itm8da3c38c2cb19?pid=9788119745531&lid=LSTBOK9788119745531RDPXVH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788119745531.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Professor Ki Diary" [ref=e871] [cursor=pointer]
+            - img [ref=e874] [cursor=pointer]
+          - link "Professor Ki Diary" [ref=e876] [cursor=pointer]:
+            - /url: /professor-ki-diary/p/itm8da3c38c2cb19?pid=9788119745531&lid=LSTBOK9788119745531RDPXVH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788119745531.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e877]: Hindi, Paperback, Yadav Laxman
+          - generic [ref=e878]:
+            - generic [ref=e880]:
+              - text: "4.6"
+              - img [ref=e881]
+            - generic [ref=e882]: (1,844)
+          - img [ref=e884]
+          - link "₹138 ₹252 45% off" [ref=e885] [cursor=pointer]:
+            - /url: /professor-ki-diary/p/itm8da3c38c2cb19?pid=9788119745531&lid=LSTBOK9788119745531RDPXVH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788119745531.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e886] [cursor=pointer]:
+              - generic [ref=e887] [cursor=pointer]: ₹138
+              - generic [ref=e888] [cursor=pointer]: ₹252
+              - generic [ref=e890] [cursor=pointer]: 45% off
+          - generic [ref=e893]: Lowest price since launch
+      - generic [ref=e895]:
+        - generic [ref=e897]:
+          - link "Sampuran Bhagwat Gita New Edition" [ref=e898] [cursor=pointer]:
+            - /url: /sampuran-bhagwat-gita-new/p/itm6dc03520bdabb?pid=RBKGJERDRQGTY3XW&lid=LSTRBKGJERDRQGTY3XW1SKBFE&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32urt5fpFzKPYzC2vCWZc9GfGAaWDKYSbyJpraWqif4mjw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Sampuran Bhagwat Gita New Edition" [ref=e902] [cursor=pointer]
+            - img [ref=e905] [cursor=pointer]
+          - img [ref=e908]
+          - link "Sampuran Bhagwat Gita New Edition" [ref=e911] [cursor=pointer]:
+            - /url: /sampuran-bhagwat-gita-new/p/itm6dc03520bdabb?pid=RBKGJERDRQGTY3XW&lid=LSTRBKGJERDRQGTY3XW1SKBFE&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32urt5fpFzKPYzC2vCWZc9GfGAaWDKYSbyJpraWqif4mjw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e912]: Hardcover, Hindi, A.C BHAKTIVEDANT SWAMI SHRILA PRABHUPAD
+          - generic [ref=e913]:
+            - generic [ref=e915]:
+              - text: "4.6"
+              - img [ref=e916]
+            - generic [ref=e917]: (4,443)
+          - img [ref=e919]
+          - link "₹259 ₹643 59% off" [ref=e920] [cursor=pointer]:
+            - /url: /sampuran-bhagwat-gita-new/p/itm6dc03520bdabb?pid=RBKGJERDRQGTY3XW&lid=LSTRBKGJERDRQGTY3XW1SKBFE&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32urt5fpFzKPYzC2vCWZc9GfGAaWDKYSbyJpraWqif4mjw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e921] [cursor=pointer]:
+              - generic [ref=e922] [cursor=pointer]: ₹259
+              - generic [ref=e923] [cursor=pointer]: ₹643
+              - generic [ref=e925] [cursor=pointer]: 59% off
+        - generic [ref=e927]:
+          - link "Inspector Chalisa | Mathematics | Calculation Book | Mohit Goyal Sir | 4000+ MCQ'S | 2024" [ref=e928] [cursor=pointer]:
+            - /url: /inspector-chalisa-mathematics-calculation-book-mohit-goyal-sir-4000-mcq-s-2024/p/itmdac50f4bc759f?pid=RBKH5WQAY82DWPRJ&lid=LSTRBKH5WQAY82DWPRJVM1W6A&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32tnxl58ZjvVwnA_ytWNqoBCaOSs68ZfwZdkxEqyqw2O4A%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Inspector Chalisa | Mathematics | Calculation Book | Mohit Goyal Sir | 4000+ MCQ'S | 2024" [ref=e932] [cursor=pointer]
+            - img [ref=e935] [cursor=pointer]
+          - img [ref=e938]
+          - link "Inspector Chalisa | Mathematics | Calculation Book | Mo..." [ref=e941] [cursor=pointer]:
+            - /url: /inspector-chalisa-mathematics-calculation-book-mohit-goyal-sir-4000-mcq-s-2024/p/itmdac50f4bc759f?pid=RBKH5WQAY82DWPRJ&lid=LSTRBKH5WQAY82DWPRJVM1W6A&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32tnxl58ZjvVwnA_ytWNqoBCaOSs68ZfwZdkxEqyqw2O4A%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e942]: Paperback, Hindi, Mohit Goyal
+          - generic [ref=e943]:
+            - generic [ref=e945]:
+              - text: "4.2"
+              - img [ref=e946]
+            - generic [ref=e947]: (73)
+          - img [ref=e949]
+          - link "₹144 ₹250 42% off" [ref=e950] [cursor=pointer]:
+            - /url: /inspector-chalisa-mathematics-calculation-book-mohit-goyal-sir-4000-mcq-s-2024/p/itmdac50f4bc759f?pid=RBKH5WQAY82DWPRJ&lid=LSTRBKH5WQAY82DWPRJVM1W6A&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32tnxl58ZjvVwnA_ytWNqoBCaOSs68ZfwZdkxEqyqw2O4A%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e951] [cursor=pointer]:
+              - generic [ref=e952] [cursor=pointer]: ₹144
+              - generic [ref=e953] [cursor=pointer]: ₹250
+              - generic [ref=e955] [cursor=pointer]: 42% off
+        - generic [ref=e957]:
+          - 'link "Jaun Elia: Ek Ajab Ghazab Shayar - \"Ek Ajab Ghazab Shayari Collection – Jaun Elia Combo\"" [ref=e958] [cursor=pointer]':
+            - /url: /jaun-elia-ek-ajab-ghazab-shayar-ek-shayari-collection-elia-combo/p/itmd42e77981b903?pid=9789384419998&lid=LSTBOK9789384419998DJNAWR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789384419998.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - 'img "Jaun Elia: Ek Ajab Ghazab Shayar - \"Ek Ajab Ghazab Shayari Collection – Jaun Elia Combo\"" [ref=e962] [cursor=pointer]'
+            - img [ref=e965] [cursor=pointer]
+          - 'link "Jaun Elia: Ek Ajab Ghazab Shayar - \"Ek Ajab Ghazab Sha..." [ref=e967] [cursor=pointer]':
+            - /url: /jaun-elia-ek-ajab-ghazab-shayar-ek-shayari-collection-elia-combo/p/itmd42e77981b903?pid=9789384419998&lid=LSTBOK9789384419998DJNAWR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789384419998.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e968]: Hindi, Paperback, unknown
+          - generic [ref=e969]:
+            - generic [ref=e971]:
+              - text: "4.4"
+              - img [ref=e972]
+            - generic [ref=e973]: (5,161)
+          - img [ref=e975]
+          - link "₹207 ₹249 16% off" [ref=e976] [cursor=pointer]:
+            - /url: /jaun-elia-ek-ajab-ghazab-shayar-ek-shayari-collection-elia-combo/p/itmd42e77981b903?pid=9789384419998&lid=LSTBOK9789384419998DJNAWR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789384419998.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e977] [cursor=pointer]:
+              - generic [ref=e978] [cursor=pointer]: ₹207
+              - generic [ref=e979] [cursor=pointer]: ₹249
+              - generic [ref=e981] [cursor=pointer]: 16% off
+          - generic [ref=e984]: Only few left
+        - generic [ref=e986]:
+          - 'link "Bihar STET Paper 1 & 2 : Art of Teaching and Other Skills (Shikshan Kala ewam Anay Dakshta) Book (Hindi + English Bilingual Edition) Complete Theory with 2000+ MCQ/PYQ - Bihar STET Paper 1 & 2 Bilingual Guide: Art of Teaching and Other Skills (Hindi + English) | Theory + 2000+ MCQs/PYQs with 2 Disc" [ref=e987] [cursor=pointer]':
+            - /url: /bihar-stet-paper-1-2-art-teaching-other-skills-shikshan-kala-ewam-anay-dakshta-book-hindi-english-bilingual-edition-complete-theory-2000-mcq-pyq-guide-english-mcqs-pyqs-disc/p/itm7d6aa0f34f74b?pid=9785422160471&lid=LSTBOK9785422160471OMUXMI&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9785422160471.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - 'img "Bihar STET Paper 1 & 2 : Art of Teaching and Other Skills (Shikshan Kala ewam Anay Dakshta) Book (Hindi + English Bilingual Edition) Complete Theory with 2000+ MCQ/PYQ - Bihar STET Paper 1 & 2 Bilingual Guide: Art of Teaching and Other Skills (Hindi + English) | Theory + 2000+ MCQs/PYQs with 2 Disc" [ref=e991] [cursor=pointer]'
+            - img [ref=e994] [cursor=pointer]
+          - 'link "Bihar STET Paper 1 & 2 : Art of Teaching and Other Skil..." [ref=e996] [cursor=pointer]':
+            - /url: /bihar-stet-paper-1-2-art-teaching-other-skills-shikshan-kala-ewam-anay-dakshta-book-hindi-english-bilingual-edition-complete-theory-2000-mcq-pyq-guide-english-mcqs-pyqs-disc/p/itm7d6aa0f34f74b?pid=9785422160471&lid=LSTBOK9785422160471OMUXMI&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9785422160471.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e997]: Perfect Binding, Deepak Himanshu
+          - generic [ref=e998]:
+            - generic [ref=e1000]:
+              - text: "4.4"
+              - img [ref=e1001]
+            - generic [ref=e1002]: (699)
+          - link "₹172 ₹399 56% off" [ref=e1003] [cursor=pointer]:
+            - /url: /bihar-stet-paper-1-2-art-teaching-other-skills-shikshan-kala-ewam-anay-dakshta-book-hindi-english-bilingual-edition-complete-theory-2000-mcq-pyq-guide-english-mcqs-pyqs-disc/p/itm7d6aa0f34f74b?pid=9785422160471&lid=LSTBOK9785422160471OMUXMI&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9785422160471.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1004] [cursor=pointer]:
+              - generic [ref=e1005] [cursor=pointer]: ₹172
+              - generic [ref=e1006] [cursor=pointer]: ₹399
+              - generic [ref=e1008] [cursor=pointer]: 56% off
+          - generic [ref=e1011]: Hot Deal
+      - generic [ref=e1013]:
+        - generic [ref=e1015]:
+          - link "Calculation King | 30 Days Calculation Mastery | Gagan Pratap Sir | Bilingual | Edition - 2025 | Useful For SSC CGL & CHSL (Tier-I & II), CPO, MTS, CDS, GD Selection Post & Other Competitive Exams" [ref=e1016] [cursor=pointer]:
+            - /url: /calculation-king-30-days-mastery-gagan-pratap-sir-bilingual-2025-useful-ssc-cgl-chsl-tier-i-ii-cpo-mts-cds-gd-selection-post-other-competitive-exams/p/itm9d76ea134a56c?pid=9788197808081&lid=LSTBOK9788197808081QGDM66&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788197808081.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Calculation King | 30 Days Calculation Mastery | Gagan Pratap Sir | Bilingual | Edition - 2025 | Useful For SSC CGL & CHSL (Tier-I & II), CPO, MTS, CDS, GD Selection Post & Other Competitive Exams" [ref=e1020] [cursor=pointer]
+            - img [ref=e1023] [cursor=pointer]
+          - link "Calculation King | 30 Days Calculation Mastery | Gagan ..." [ref=e1025] [cursor=pointer]:
+            - /url: /calculation-king-30-days-mastery-gagan-pratap-sir-bilingual-2025-useful-ssc-cgl-chsl-tier-i-ii-cpo-mts-cds-gd-selection-post-other-competitive-exams/p/itm9d76ea134a56c?pid=9788197808081&lid=LSTBOK9788197808081QGDM66&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788197808081.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1026]: Paperback, Gagan Pratap Sir
+          - generic [ref=e1027]:
+            - generic [ref=e1029]:
+              - text: "4.4"
+              - img [ref=e1030]
+            - generic [ref=e1031]: (2,001)
+          - link "₹100 ₹150 33% off" [ref=e1032] [cursor=pointer]:
+            - /url: /calculation-king-30-days-mastery-gagan-pratap-sir-bilingual-2025-useful-ssc-cgl-chsl-tier-i-ii-cpo-mts-cds-gd-selection-post-other-competitive-exams/p/itm9d76ea134a56c?pid=9788197808081&lid=LSTBOK9788197808081QGDM66&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788197808081.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1033] [cursor=pointer]:
+              - generic [ref=e1034] [cursor=pointer]: ₹100
+              - generic [ref=e1035] [cursor=pointer]: ₹150
+              - generic [ref=e1037] [cursor=pointer]: 33% off
+          - generic [ref=e1040]: Only few left
+        - generic [ref=e1042]:
+          - link "BSSC Office Attendant Preliminary Examination 20 Practice Sets" [ref=e1043] [cursor=pointer]:
+            - /url: /bssc-office-attendant-preliminary-examination-20-practice-sets/p/itm55f3514fb4311?pid=RBKHFH9ABMTYDDYU&lid=LSTRBKHFH9ABMTYDDYUZ4SUTR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFH9ABMTYDDYU.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "BSSC Office Attendant Preliminary Examination 20 Practice Sets" [ref=e1047] [cursor=pointer]
+            - img [ref=e1050] [cursor=pointer]
+          - link "BSSC Office Attendant Preliminary Examination 20 Practi..." [ref=e1052] [cursor=pointer]:
+            - /url: /bssc-office-attendant-preliminary-examination-20-practice-sets/p/itm55f3514fb4311?pid=RBKHFH9ABMTYDDYU&lid=LSTRBKHFH9ABMTYDDYUZ4SUTR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFH9ABMTYDDYU.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1053]: Paperback, Hindi, Khan sir
+          - generic [ref=e1054]:
+            - generic [ref=e1056]:
+              - text: "4.3"
+              - img [ref=e1057]
+            - generic [ref=e1058]: (155)
+          - img [ref=e1060]
+          - link "₹136 ₹160 15% off" [ref=e1061] [cursor=pointer]:
+            - /url: /bssc-office-attendant-preliminary-examination-20-practice-sets/p/itm55f3514fb4311?pid=RBKHFH9ABMTYDDYU&lid=LSTRBKHFH9ABMTYDDYUZ4SUTR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFH9ABMTYDDYU.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1062] [cursor=pointer]:
+              - generic [ref=e1063] [cursor=pointer]: ₹136
+              - generic [ref=e1064] [cursor=pointer]: ₹160
+              - generic [ref=e1066] [cursor=pointer]: 15% off
+          - generic [ref=e1069]: Only few left
+        - generic [ref=e1071]:
+          - link "Shrimad Bhagwat Geeta Yathroop In Hindi" [ref=e1072] [cursor=pointer]:
+            - /url: /shrimad-bhagwat-geeta-yathroop-hindi/p/itm8adde4984fd4a?pid=RBKGFZEBMZBVDCBZ&lid=LSTRBKGFZEBMZBVDCBZFRPJOO&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32siexJmMFrzVTzxFp9xp5kWNOhuntMWERRWwSf4V_e-_A%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Shrimad Bhagwat Geeta Yathroop In Hindi" [ref=e1076] [cursor=pointer]
+            - img [ref=e1079] [cursor=pointer]
+          - img [ref=e1082]
+          - link "Shrimad Bhagwat Geeta Yathroop In Hindi" [ref=e1085] [cursor=pointer]:
+            - /url: /shrimad-bhagwat-geeta-yathroop-hindi/p/itm8adde4984fd4a?pid=RBKGFZEBMZBVDCBZ&lid=LSTRBKGFZEBMZBVDCBZFRPJOO&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32siexJmMFrzVTzxFp9xp5kWNOhuntMWERRWwSf4V_e-_A%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1086]: Hardcover, Hindi, A.C BHAKTIVEDANT SWAMI SHRILA PRABHUPAD
+          - generic [ref=e1087]:
+            - generic [ref=e1089]:
+              - text: "4.7"
+              - img [ref=e1090]
+            - generic [ref=e1091]: (12,835)
+          - img [ref=e1093]
+          - link "₹297 ₹550 46% off" [ref=e1094] [cursor=pointer]:
+            - /url: /shrimad-bhagwat-geeta-yathroop-hindi/p/itm8adde4984fd4a?pid=RBKGFZEBMZBVDCBZ&lid=LSTRBKGFZEBMZBVDCBZFRPJOO&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32siexJmMFrzVTzxFp9xp5kWNOhuntMWERRWwSf4V_e-_A%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1095] [cursor=pointer]:
+              - generic [ref=e1096] [cursor=pointer]: ₹297
+              - generic [ref=e1097] [cursor=pointer]: ₹550
+              - generic [ref=e1099] [cursor=pointer]: 46% off
+        - generic [ref=e1101]:
+          - link "Main Nastik Kyon Hoon? (Hindi Translation of Why I Am An Atheist?)" [ref=e1102] [cursor=pointer]:
+            - /url: /main-nastik-kyon-hoon-hindi-translation-am-atheist/p/itm7afdc990aa2fb?pid=9789355219237&lid=LSTBOK9789355219237LHMXOY&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32sLIUeiuugo2U9WRdU0FOcN-1y0n3zaOOUgVp6f_qS5bA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Main Nastik Kyon Hoon? (Hindi Translation of Why I Am An Atheist?)" [ref=e1106] [cursor=pointer]
+            - img [ref=e1109] [cursor=pointer]
+          - img [ref=e1112]
+          - link "Main Nastik Kyon Hoon? (Hindi Translation of Why I Am A..." [ref=e1115] [cursor=pointer]:
+            - /url: /main-nastik-kyon-hoon-hindi-translation-am-atheist/p/itm7afdc990aa2fb?pid=9789355219237&lid=LSTBOK9789355219237LHMXOY&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32sLIUeiuugo2U9WRdU0FOcN-1y0n3zaOOUgVp6f_qS5bA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1116]: Hindi, Paperback, Singh Bhagat
+          - generic [ref=e1117]:
+            - generic [ref=e1119]:
+              - text: "4.5"
+              - img [ref=e1120]
+            - generic [ref=e1121]: (1,010)
+          - img [ref=e1123]
+          - link "₹179 ₹325 44% off" [ref=e1124] [cursor=pointer]:
+            - /url: /main-nastik-kyon-hoon-hindi-translation-am-atheist/p/itm7afdc990aa2fb?pid=9789355219237&lid=LSTBOK9789355219237LHMXOY&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32sLIUeiuugo2U9WRdU0FOcN-1y0n3zaOOUgVp6f_qS5bA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1125] [cursor=pointer]:
+              - generic [ref=e1126] [cursor=pointer]: ₹179
+              - generic [ref=e1127] [cursor=pointer]: ₹325
+              - generic [ref=e1129] [cursor=pointer]: 44% off
+          - generic [ref=e1132]: Hot Deal
+      - generic [ref=e1134]:
+        - generic [ref=e1136]:
+          - link "Godaan & Gaban – Munshi Premchand (2 Books Combo)" [ref=e1137] [cursor=pointer]:
+            - /url: /godaan-gaban-munshi-premchand-2-books-combo/p/itm02f018c0ea632?pid=RBKHFZHAHZZKAF6C&lid=LSTRBKHFZHAHZZKAF6CQVBYQ3&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFZHAHZZKAF6C.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Godaan & Gaban – Munshi Premchand (2 Books Combo)" [ref=e1141] [cursor=pointer]
+            - img [ref=e1144] [cursor=pointer]
+          - link "Godaan & Gaban – Munshi Premchand (2 Books Combo)" [ref=e1146] [cursor=pointer]:
+            - /url: /godaan-gaban-munshi-premchand-2-books-combo/p/itm02f018c0ea632?pid=RBKHFZHAHZZKAF6C&lid=LSTRBKHFZHAHZZKAF6CQVBYQ3&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFZHAHZZKAF6C.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1147]: Paperback, Hindi, Munshi Premchand
+          - link "₹279 ₹999 72% off" [ref=e1148] [cursor=pointer]:
+            - /url: /godaan-gaban-munshi-premchand-2-books-combo/p/itm02f018c0ea632?pid=RBKHFZHAHZZKAF6C&lid=LSTRBKHFZHAHZZKAF6CQVBYQ3&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFZHAHZZKAF6C.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1149] [cursor=pointer]:
+              - generic [ref=e1150] [cursor=pointer]: ₹279
+              - generic [ref=e1151] [cursor=pointer]: ₹999
+              - generic [ref=e1153] [cursor=pointer]: 72% off
+          - generic [ref=e1156]: Only 5 left
+        - generic [ref=e1158]:
+          - link "Tathastu Static Gk Hindi By Jeet Rana Sir | Hindi | For All Competitive Exams" [ref=e1159] [cursor=pointer]:
+            - /url: /tathastu-static-gk-hindi-jeet-rana-sir-all-competitive-exams/p/itm08f4bed39b392?pid=RBKHFEGNXQEJ5ZCV&lid=LSTRBKHFEGNXQEJ5ZCVC0KJWW&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFEGNXQEJ5ZCV.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Tathastu Static Gk Hindi By Jeet Rana Sir | Hindi | For All Competitive Exams" [ref=e1163] [cursor=pointer]
+            - img [ref=e1166] [cursor=pointer]
+          - link "Tathastu Static Gk Hindi By Jeet Rana Sir | Hindi | For..." [ref=e1168] [cursor=pointer]:
+            - /url: /tathastu-static-gk-hindi-jeet-rana-sir-all-competitive-exams/p/itm08f4bed39b392?pid=RBKHFEGNXQEJ5ZCV&lid=LSTRBKHFEGNXQEJ5ZCVC0KJWW&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFEGNXQEJ5ZCV.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1169]: Paperback, Hindi, JEET RANA
+          - generic [ref=e1170]:
+            - generic [ref=e1172]:
+              - text: "4.5"
+              - img [ref=e1173]
+            - generic [ref=e1174]: (37)
+          - link "₹280 ₹299 6% off" [ref=e1175] [cursor=pointer]:
+            - /url: /tathastu-static-gk-hindi-jeet-rana-sir-all-competitive-exams/p/itm08f4bed39b392?pid=RBKHFEGNXQEJ5ZCV&lid=LSTRBKHFEGNXQEJ5ZCVC0KJWW&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHFEGNXQEJ5ZCV.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1176] [cursor=pointer]:
+              - generic [ref=e1177] [cursor=pointer]: ₹280
+              - generic [ref=e1178] [cursor=pointer]: ₹299
+              - generic [ref=e1180] [cursor=pointer]: 6% off
+          - generic [ref=e1183]: Only few left
+        - generic [ref=e1185]:
+          - link "Magic Practice Copybook, Hindi (4 BOOK + 10 REFILL+ 1 Pen +1 Grip)" [ref=e1186] [cursor=pointer]:
+            - /url: /magic-practice-copybook-hindi-4-book-10-refill-1-pen-1-grip/p/itmb0b6444350711?pid=9789334119954&lid=LSTBOK9789334119954XFYRI5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32s8VmgRF9Ww16vfg5FkPyWHjVlFOnV1geNzPu3qEZQN4Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Magic Practice Copybook, Hindi (4 BOOK + 10 REFILL+ 1 Pen +1 Grip)" [ref=e1190] [cursor=pointer]
+            - img [ref=e1193] [cursor=pointer]
+          - img [ref=e1196]
+          - link "Magic Practice Copybook, Hindi (4 BOOK + 10 REFILL+ 1 P..." [ref=e1199] [cursor=pointer]:
+            - /url: /magic-practice-copybook-hindi-4-book-10-refill-1-pen-1-grip/p/itmb0b6444350711?pid=9789334119954&lid=LSTBOK9789334119954XFYRI5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32s8VmgRF9Ww16vfg5FkPyWHjVlFOnV1geNzPu3qEZQN4Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1200]: CNS ENTERPRISE, ZRIYOS
+          - generic [ref=e1201]:
+            - generic [ref=e1203]:
+              - text: "3.8"
+              - img [ref=e1204]
+            - generic [ref=e1205]: (480)
+          - link "₹133 ₹789 83% off" [ref=e1206] [cursor=pointer]:
+            - /url: /magic-practice-copybook-hindi-4-book-10-refill-1-pen-1-grip/p/itmb0b6444350711?pid=9789334119954&lid=LSTBOK9789334119954XFYRI5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32s8VmgRF9Ww16vfg5FkPyWHjVlFOnV1geNzPu3qEZQN4Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1207] [cursor=pointer]:
+              - generic [ref=e1208] [cursor=pointer]: ₹133
+              - generic [ref=e1209] [cursor=pointer]: ₹789
+              - generic [ref=e1211] [cursor=pointer]: 83% off
+          - generic [ref=e1214]: Hot Deal
+        - generic [ref=e1216]:
+          - link "Chikitsa Guide for General Medical Practitioners with 170 Disc" [ref=e1217] [cursor=pointer]:
+            - /url: /chikitsa-guide-general-medical-practitioners-170-disc/p/itm8217dc15a7988?pid=9789385053184&lid=LSTBOK9789385053184QI3XO5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32tpZq9MJf2q1Ewu-LCa4VHJ_aZLHF7smleq7YPn-IVbsw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Chikitsa Guide for General Medical Practitioners with 170 Disc" [ref=e1221] [cursor=pointer]
+            - img [ref=e1224] [cursor=pointer]
+          - img [ref=e1227]
+          - link "Chikitsa Guide for General Medical Practitioners with 1..." [ref=e1230] [cursor=pointer]:
+            - /url: /chikitsa-guide-general-medical-practitioners-170-disc/p/itm8217dc15a7988?pid=9789385053184&lid=LSTBOK9789385053184QI3XO5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32tpZq9MJf2q1Ewu-LCa4VHJ_aZLHF7smleq7YPn-IVbsw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1231]: Hindi, Paperback, Banjara Kailash
+          - generic [ref=e1232]:
+            - generic [ref=e1234]:
+              - text: "4.3"
+              - img [ref=e1235]
+            - generic [ref=e1236]: (12,971)
+          - img [ref=e1238]
+          - link "₹333 ₹395 15% off" [ref=e1239] [cursor=pointer]:
+            - /url: /chikitsa-guide-general-medical-practitioners-170-disc/p/itm8217dc15a7988?pid=9789385053184&lid=LSTBOK9789385053184QI3XO5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32tpZq9MJf2q1Ewu-LCa4VHJ_aZLHF7smleq7YPn-IVbsw%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1240] [cursor=pointer]:
+              - generic [ref=e1241] [cursor=pointer]: ₹333
+              - generic [ref=e1242] [cursor=pointer]: ₹395
+              - generic [ref=e1244] [cursor=pointer]: 15% off
+      - generic [ref=e1246]:
+        - generic [ref=e1248]:
+          - link "RRB/RRC Group D Exam | MATHS | 1300+ Latest MCQs | Chapterwise & Typewise | Best Book For Group D | Latest Questions & Short Tricks | Aditya Ranjan Sir" [ref=e1249] [cursor=pointer]:
+            - /url: /rrb-rrc-group-d-exam-maths-1300-latest-mcqs-chapterwise-typewise-best-book-questions-short-tricks-aditya-ranjan-sir/p/itm647d5477d1977?pid=RBKHDAJXGCGZTKEB&lid=LSTRBKHDAJXGCGZTKEBRHJMJB&marketplace=FLIPKART&q=Books&store=bks&spotlightTagId=default_TrendingId_bks&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHDAJXGCGZTKEB.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "RRB/RRC Group D Exam | MATHS | 1300+ Latest MCQs | Chapterwise & Typewise | Best Book For Group D | Latest Questions & Short Tricks | Aditya Ranjan Sir" [ref=e1253] [cursor=pointer]
+            - img [ref=e1256] [cursor=pointer]
+          - link "RRB/RRC Group D Exam | MATHS | 1300+ Latest MCQs | Chap..." [ref=e1258] [cursor=pointer]:
+            - /url: /rrb-rrc-group-d-exam-maths-1300-latest-mcqs-chapterwise-typewise-best-book-questions-short-tricks-aditya-ranjan-sir/p/itm647d5477d1977?pid=RBKHDAJXGCGZTKEB&lid=LSTRBKHDAJXGCGZTKEBRHJMJB&marketplace=FLIPKART&q=Books&store=bks&spotlightTagId=default_TrendingId_bks&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHDAJXGCGZTKEB.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1259]: Paperback, Hindi, Aditya Ranjan Sir
+          - generic [ref=e1260]:
+            - generic [ref=e1262]:
+              - text: "4.5"
+              - img [ref=e1263]
+            - generic [ref=e1264]: (532)
+          - link "₹135 ₹160 15% off" [ref=e1265] [cursor=pointer]:
+            - /url: /rrb-rrc-group-d-exam-maths-1300-latest-mcqs-chapterwise-typewise-best-book-questions-short-tricks-aditya-ranjan-sir/p/itm647d5477d1977?pid=RBKHDAJXGCGZTKEB&lid=LSTRBKHDAJXGCGZTKEBRHJMJB&marketplace=FLIPKART&q=Books&store=bks&spotlightTagId=default_TrendingId_bks&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHDAJXGCGZTKEB.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1266] [cursor=pointer]:
+              - generic [ref=e1267] [cursor=pointer]: ₹135
+              - generic [ref=e1268] [cursor=pointer]: ₹160
+              - generic [ref=e1270] [cursor=pointer]: 15% off
+          - generic [ref=e1273]: Only few left
+        - generic [ref=e1275]:
+          - link "A To Z Formula By Abhinay Sharma" [ref=e1276] [cursor=pointer]:
+            - /url: /z-formula-abhinay-sharma/p/itm6db8d2abb5cd1?pid=RBKHF5SFHZZDNY5Z&lid=LSTRBKHF5SFHZZDNY5ZDE9MQY&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF5SFHZZDNY5Z.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "A To Z Formula By Abhinay Sharma" [ref=e1280] [cursor=pointer]
+            - img [ref=e1283] [cursor=pointer]
+          - link "A To Z Formula By Abhinay Sharma" [ref=e1285] [cursor=pointer]:
+            - /url: /z-formula-abhinay-sharma/p/itm6db8d2abb5cd1?pid=RBKHF5SFHZZDNY5Z&lid=LSTRBKHF5SFHZZDNY5ZDE9MQY&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF5SFHZZDNY5Z.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1286]: Paperback, Hindi, Abhinay Sharma
+          - generic [ref=e1287]:
+            - generic [ref=e1289]:
+              - text: "4.3"
+              - img [ref=e1290]
+            - generic [ref=e1291]: (274)
+          - link "₹179 ₹205 12% off" [ref=e1292] [cursor=pointer]:
+            - /url: /z-formula-abhinay-sharma/p/itm6db8d2abb5cd1?pid=RBKHF5SFHZZDNY5Z&lid=LSTRBKHF5SFHZZDNY5ZDE9MQY&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHF5SFHZZDNY5Z.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1293] [cursor=pointer]:
+              - generic [ref=e1294] [cursor=pointer]: ₹179
+              - generic [ref=e1295] [cursor=pointer]: ₹205
+              - generic [ref=e1297] [cursor=pointer]: 12% off
+          - generic [ref=e1300]: Only few left
+        - generic [ref=e1302]:
+          - link "Rajasthan GK Revision Book \"Ramban\" For All Competitive Exams" [ref=e1303] [cursor=pointer]:
+            - /url: /rajasthan-gk-revision-book-ramban-all-competitive-exams/p/itma624fc50c6c73?pid=RBKHGDZNGJUVGPZG&lid=LSTRBKHGDZNGJUVGPZGUESEUB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHGDZNGJUVGPZG.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Rajasthan GK Revision Book \"Ramban\" For All Competitive Exams" [ref=e1307] [cursor=pointer]
+            - img [ref=e1310] [cursor=pointer]
+          - link "Rajasthan GK Revision Book \"Ramban\" For All Competitive..." [ref=e1312] [cursor=pointer]:
+            - /url: /rajasthan-gk-revision-book-ramban-all-competitive-exams/p/itma624fc50c6c73?pid=RBKHGDZNGJUVGPZG&lid=LSTRBKHGDZNGJUVGPZGUESEUB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHGDZNGJUVGPZG.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1313]: Paperback, Hindi, Er. Mahendra Pindel, Ankit Sir
+          - link "₹189 ₹200 5% off" [ref=e1314] [cursor=pointer]:
+            - /url: /rajasthan-gk-revision-book-ramban-all-competitive-exams/p/itma624fc50c6c73?pid=RBKHGDZNGJUVGPZG&lid=LSTRBKHGDZNGJUVGPZGUESEUB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKHGDZNGJUVGPZG.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1315] [cursor=pointer]:
+              - generic [ref=e1316] [cursor=pointer]: ₹189
+              - generic [ref=e1317] [cursor=pointer]: ₹200
+              - generic [ref=e1319] [cursor=pointer]: 5% off
+          - generic [ref=e1322]: Only few left
+        - generic [ref=e1324]:
+          - link "Vidyarthi Jeevan" [ref=e1325] [cursor=pointer]:
+            - /url: /vidyarthi-jeevan/p/itmcc1b1bd757733?pid=9788194794547&lid=LSTBOK9788194794547BCV0QX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788194794547.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Vidyarthi Jeevan" [ref=e1329] [cursor=pointer]
+            - img [ref=e1332] [cursor=pointer]
+          - link "Vidyarthi Jeevan" [ref=e1334] [cursor=pointer]:
+            - /url: /vidyarthi-jeevan/p/itmcc1b1bd757733?pid=9788194794547&lid=LSTBOK9788194794547BCV0QX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788194794547.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1335]: Hindi, Paperback, Prashant Acharya
+          - generic [ref=e1336]:
+            - generic [ref=e1338]:
+              - text: "4.6"
+              - img [ref=e1339]
+            - generic [ref=e1340]: (801)
+          - img [ref=e1342]
+          - link "₹189 ₹280 32% off" [ref=e1343] [cursor=pointer]:
+            - /url: /vidyarthi-jeevan/p/itmcc1b1bd757733?pid=9788194794547&lid=LSTBOK9788194794547BCV0QX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9788194794547.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1344] [cursor=pointer]:
+              - generic [ref=e1345] [cursor=pointer]: ₹189
+              - generic [ref=e1346] [cursor=pointer]: ₹280
+              - generic [ref=e1348] [cursor=pointer]: 32% off
+          - generic [ref=e1351]: Hot Deal
+      - generic [ref=e1353]:
+        - generic [ref=e1355]:
+          - link "Madhyakalin Bharat ( Medieval India ) In Hindi 384 Pages" [ref=e1356] [cursor=pointer]:
+            - /url: /madhyakalin-bharat-medieval-india-hindi-384-pages/p/itm7377bc1a6bbc9?pid=RBKFW5E9ET8KMQNG&lid=LSTRBKFW5E9ET8KMQNGTAJ6GB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32uGxT25Ho0Ufqz_nJzaiW2moKKVNBT0V_UCobHnep2dlA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Madhyakalin Bharat ( Medieval India ) In Hindi 384 Pages" [ref=e1360] [cursor=pointer]
+            - img [ref=e1363] [cursor=pointer]
+          - img [ref=e1366]
+          - link "Madhyakalin Bharat ( Medieval India ) In Hindi 384 Page..." [ref=e1369] [cursor=pointer]:
+            - /url: /madhyakalin-bharat-medieval-india-hindi-384-pages/p/itm7377bc1a6bbc9?pid=RBKFW5E9ET8KMQNG&lid=LSTRBKFW5E9ET8KMQNGTAJ6GB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32uGxT25Ho0Ufqz_nJzaiW2moKKVNBT0V_UCobHnep2dlA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1370]: Paperbook, Hindi, Satish Chandra
+          - generic [ref=e1371]:
+            - generic [ref=e1373]:
+              - text: "4.3"
+              - img [ref=e1374]
+            - generic [ref=e1375]: (4,068)
+          - img [ref=e1377]
+          - link "₹139 ₹637 78% off" [ref=e1378] [cursor=pointer]:
+            - /url: /madhyakalin-bharat-medieval-india-hindi-384-pages/p/itm7377bc1a6bbc9?pid=RBKFW5E9ET8KMQNG&lid=LSTRBKFW5E9ET8KMQNGTAJ6GB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32uGxT25Ho0Ufqz_nJzaiW2moKKVNBT0V_UCobHnep2dlA%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1379] [cursor=pointer]:
+              - generic [ref=e1380] [cursor=pointer]: ₹139
+              - generic [ref=e1381] [cursor=pointer]: ₹637
+              - generic [ref=e1383] [cursor=pointer]: 78% off
+          - generic [ref=e1386]: Hot Deal
+        - generic [ref=e1388]:
+          - 'link "Trading Chart Pattern & Candlestick Book for Beginners - Trading Chart Patterns: Mastering Stock Market Analysis with Technical Insights, Candlestick Patterns, and Comprehensive Books with 1 Disc" [ref=e1389] [cursor=pointer]':
+            - /url: /trading-chart-pattern-candlestick-book-beginners-patterns-mastering-stock-market-analysis-technical-insights-patterns-comprehensive-books-1-disc/p/itm070756bfa24fd?pid=9789357599290&lid=LSTBOK9789357599290ZI10CX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32sEkvkNJiClhyC-Up59JCapdaZeoNq9q_8CiY6F2RlE2Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - 'img "Trading Chart Pattern & Candlestick Book for Beginners - Trading Chart Patterns: Mastering Stock Market Analysis with Technical Insights, Candlestick Patterns, and Comprehensive Books with 1 Disc" [ref=e1393] [cursor=pointer]'
+            - img [ref=e1396] [cursor=pointer]
+          - img [ref=e1399]
+          - link "Trading Chart Pattern & Candlestick Book for Beginners ..." [ref=e1402] [cursor=pointer]:
+            - /url: /trading-chart-pattern-candlestick-book-beginners-patterns-mastering-stock-market-analysis-technical-insights-patterns-comprehensive-books-1-disc/p/itm070756bfa24fd?pid=9789357599290&lid=LSTBOK9789357599290ZI10CX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32sEkvkNJiClhyC-Up59JCapdaZeoNq9q_8CiY6F2RlE2Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1403]: Hindi, Paperback, Kundur Akash
+          - generic [ref=e1404]:
+            - generic [ref=e1406]:
+              - text: "4.3"
+              - img [ref=e1407]
+            - generic [ref=e1408]: (16,895)
+          - img [ref=e1410]
+          - link "₹153 ₹299 48% off" [ref=e1411] [cursor=pointer]:
+            - /url: /trading-chart-pattern-candlestick-book-beginners-patterns-mastering-stock-market-analysis-technical-insights-patterns-comprehensive-books-1-disc/p/itm070756bfa24fd?pid=9789357599290&lid=LSTBOK9789357599290ZI10CX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_0CwxLi9dWRqhDqrd0jwYGVOTnKsgKMBgkjraf9rU32sEkvkNJiClhyC-Up59JCapdaZeoNq9q_8CiY6F2RlE2Q%3D%3D&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1412] [cursor=pointer]:
+              - generic [ref=e1413] [cursor=pointer]: ₹153
+              - generic [ref=e1414] [cursor=pointer]: ₹299
+              - generic [ref=e1416] [cursor=pointer]: 48% off
+          - generic [ref=e1419]: Hot Deal
+        - generic [ref=e1421]:
+          - link "Gulamgiri" [ref=e1422] [cursor=pointer]:
+            - /url: /gulamgiri/p/itmfd0bc3e1bea14?pid=RBKFXCBM3JF54UEW&lid=LSTRBKFXCBM3JF54UEWYNGXPZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKFXCBM3JF54UEW.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "Gulamgiri" [ref=e1426] [cursor=pointer]
+            - img [ref=e1429] [cursor=pointer]
+          - link "Gulamgiri" [ref=e1431] [cursor=pointer]:
+            - /url: /gulamgiri/p/itmfd0bc3e1bea14?pid=RBKFXCBM3JF54UEW&lid=LSTRBKFXCBM3JF54UEWYNGXPZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKFXCBM3JF54UEW.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1432]: Paperback, Hindi, Mahatma Jyotiba Phule
+          - generic [ref=e1433]:
+            - generic [ref=e1435]:
+              - text: "4.5"
+              - img [ref=e1436]
+            - generic [ref=e1437]: (5,372)
+          - img [ref=e1439]
+          - link "₹120 ₹320 62% off" [ref=e1440] [cursor=pointer]:
+            - /url: /gulamgiri/p/itmfd0bc3e1bea14?pid=RBKFXCBM3JF54UEW&lid=LSTRBKFXCBM3JF54UEWYNGXPZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.RBKFXCBM3JF54UEW.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1441] [cursor=pointer]:
+              - generic [ref=e1442] [cursor=pointer]: ₹120
+              - generic [ref=e1443] [cursor=pointer]: ₹320
+              - generic [ref=e1445] [cursor=pointer]: 62% off
+          - generic [ref=e1448]: Hot Deal
+        - generic [ref=e1450]:
+          - link "The Story of My Experiments with Truth; Mahatma Gandhi, an Autobiography" [ref=e1451] [cursor=pointer]:
+            - /url: /story-my-experiments-truth-mahatma-gandhi-autobiography/p/itm3a975134545b7?pid=9789390183500&lid=LSTBOK9789390183500T94GTC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789390183500.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - img "The Story of My Experiments with Truth; Mahatma Gandhi, an Autobiography" [ref=e1455] [cursor=pointer]
+            - img [ref=e1458] [cursor=pointer]
+          - link "The Story of My Experiments with Truth; Mahatma Gandhi,..." [ref=e1460] [cursor=pointer]:
+            - /url: /story-my-experiments-truth-mahatma-gandhi-autobiography/p/itm3a975134545b7?pid=9789390183500&lid=LSTBOK9789390183500T94GTC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789390183500.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+          - generic [ref=e1461]: Hindi, Paperback, Gandhi Mahatma
+          - generic [ref=e1462]:
+            - generic [ref=e1464]:
+              - text: "4.5"
+              - img [ref=e1465]
+            - generic [ref=e1466]: (5,223)
+          - link "₹185 ₹259 28% off" [ref=e1467] [cursor=pointer]:
+            - /url: /story-my-experiments-truth-mahatma-gandhi-autobiography/p/itm3a975134545b7?pid=9789390183500&lid=LSTBOK9789390183500T94GTC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=4c03b1b2-7b94-40e6-8523-5732024555bf.9789390183500.SEARCH&ppt=sp&ppn=sp&ssid=svzg1k37o00000001760090472629&qH=6225eb5bf8a031f7
+            - generic [ref=e1468] [cursor=pointer]:
+              - generic [ref=e1469] [cursor=pointer]: ₹185
+              - generic [ref=e1470] [cursor=pointer]: ₹259
+              - generic [ref=e1472] [cursor=pointer]: 28% off
+          - generic [ref=e1475]: Hot Deal
+      - generic [ref=e1478]:
+        - generic [ref=e1479]: Page 1 of 1,017
+        - navigation [ref=e1480]:
+          - link "1" [ref=e1481] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=1
+          - link "2" [ref=e1482] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=2
+          - link "3" [ref=e1483] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=3
+          - link "4" [ref=e1484] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=4
+          - link "5" [ref=e1485] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=5
+          - link "6" [ref=e1486] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=6
+          - link "7" [ref=e1487] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=7
+          - link "8" [ref=e1488] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=8
+          - link "9" [ref=e1489] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=9
+          - link "10" [ref=e1490] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=10
+          - link "Next" [ref=e1491] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.language%255B%255D%3DHindi&page=2
+            - generic [ref=e1492] [cursor=pointer]: Next
+      - generic [ref=e1494]:
+        - generic [ref=e1495]: Did you find what you were looking for?
+        - generic [ref=e1496]:
+          - generic [ref=e1497] [cursor=pointer]: "Yes"
+          - generic [ref=e1498] [cursor=pointer]: "No"
+  - contentinfo [ref=e1499]:
+    - generic [ref=e1501]:
+      - generic [ref=e1502]:
+        - generic [ref=e1503]:
+          - generic [ref=e1504]: ABOUT
+          - link "Contact Us" [ref=e1505] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e1506] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e1507] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e1508] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e1509] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e1510] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e1511]:
+          - generic [ref=e1512]: GROUP COMPANIES
+          - link "Myntra" [ref=e1513] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e1514] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e1515] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e1516]:
+          - generic [ref=e1517]: HELP
+          - link "Payments" [ref=e1518] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e1519] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e1520] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e1521] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e1522]:
+          - generic [ref=e1523]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e1524] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e1525] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e1526] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e1527] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e1528] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e1529] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e1530] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+        - generic [ref=e1532]:
+          - generic [ref=e1534]: "Mail Us:"
+          - generic [ref=e1537]:
+            - paragraph [ref=e1538]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1539]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1540]: Clove Embassy Tech Village,
+            - paragraph [ref=e1541]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1542]: Bengaluru, 560103,
+            - paragraph [ref=e1543]: Karnataka, India
+          - generic [ref=e1544]: Social
+          - generic [ref=e1545]:
+            - link [ref=e1547] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e1548] [cursor=pointer]
+            - link [ref=e1550] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e1551] [cursor=pointer]
+            - link [ref=e1553] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e1554] [cursor=pointer]
+            - link [ref=e1556] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e1557] [cursor=pointer]
+        - generic [ref=e1559]:
+          - generic [ref=e1561]: "Registered Office Address:"
+          - generic [ref=e1564]:
+            - paragraph [ref=e1565]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1566]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1567]: Clove Embassy Tech Village,
+            - paragraph [ref=e1568]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1569]: Bengaluru, 560103,
+            - paragraph [ref=e1570]: Karnataka, India
+            - paragraph [ref=e1571]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e1572]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e1573] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e1574] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e1576]:
+        - generic [ref=e1577]:
+          - img [ref=e1578]
+          - link "Become a Seller" [ref=e1579] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+            - generic [ref=e1580] [cursor=pointer]: Become a Seller
+        - generic [ref=e1581]:
+          - img [ref=e1582]
+          - link "Advertise" [ref=e1583] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+            - generic [ref=e1584] [cursor=pointer]: Advertise
+        - generic [ref=e1585]:
+          - img [ref=e1586]
+          - link "Gift Cards" [ref=e1587] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+            - generic [ref=e1588] [cursor=pointer]: Gift Cards
+        - generic [ref=e1589]:
+          - img [ref=e1590]
+          - link "Help Center" [ref=e1591] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+            - generic [ref=e1592] [cursor=pointer]: Help Center
+        - generic [ref=e1593]:
+          - text: © 2007-2025
+          - generic [ref=e1594]: Flipkart.com
+        - img [ref=e1595]
+```

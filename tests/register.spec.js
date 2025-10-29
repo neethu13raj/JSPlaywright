@@ -1,14 +1,22 @@
 import {test} from '@playwright/test'
 import { Register } from ".././POM/Register.page.js";
-import tdata from "../testdata/readData.json";
+import tdata from "../testdata/registerdata.json";
+import configdata from "../playwright.config copy.js"
 
-test('oinn', async({page}) => {
-    await page.goto(tdata.url)
+tdata.forEach(({username,password},index) => {
+
+
+    test(`login for ${username}`, async({page}) => {
+     //await page.goto(tdata.url)
+     await page.goto(configdata.use.baseURL)
 
     let reg = new Register(page);
-    await reg.register(tdata.username,tdata.email,tdata.password)
-    
+    await reg.register(username,password)
+}) 
 })
+
+
+
 
 
 

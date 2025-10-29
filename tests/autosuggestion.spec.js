@@ -7,6 +7,7 @@ test('autosuggestion', async({page}) => {
     //await page.locator('//div[@role="row"]').last().waitFor({state: 'visible'})
     await page.waitForSelector('//div[@role="row"]')
     
+    
    const search = await page.locator('//div[@role="row"]').all()
     //console.log(search);
 

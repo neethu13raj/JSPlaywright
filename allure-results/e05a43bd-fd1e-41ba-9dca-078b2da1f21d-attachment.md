@@ -1,0 +1,1283 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11] [cursor=pointer]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore
+        - generic [ref=e13] [cursor=pointer]: Plus
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e17]:
+      - textbox "Search for products, brands and more" [ref=e19]: Shoes
+      - button [ref=e20] [cursor=pointer]:
+        - img [ref=e21] [cursor=pointer]
+    - generic [ref=e27] [cursor=pointer]:
+      - link "Login" [ref=e29] [cursor=pointer]:
+        - /url: /account/login?ret=/search%3Fq%3DShoes%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff
+      - generic [ref=e34] [cursor=pointer]:
+        - button "LOGIN" [ref=e35] [cursor=pointer]
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37] [cursor=pointer]: New customer?
+          - generic [ref=e38] [cursor=pointer]: Sign Up
+    - link "Become a Seller" [ref=e40] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e41] [cursor=pointer]: Become a Seller
+    - generic [ref=e43] [cursor=pointer]:
+      - generic [ref=e46] [cursor=pointer]: More
+      - img [ref=e47] [cursor=pointer]
+    - link "Cart" [ref=e52] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e53] [cursor=pointer]
+      - generic [ref=e55] [cursor=pointer]: Cart
+  - generic [ref=e60]:
+    - generic [ref=e61] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e62] [cursor=pointer]
+    - generic [ref=e64] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e65] [cursor=pointer]
+    - generic [ref=e67] [cursor=pointer]:
+      - text: Men
+      - img [ref=e68] [cursor=pointer]
+    - generic [ref=e70] [cursor=pointer]:
+      - text: Women
+      - img [ref=e71] [cursor=pointer]
+    - generic [ref=e73] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e74] [cursor=pointer]
+    - generic [ref=e76] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e77] [cursor=pointer]
+    - generic [ref=e79] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e80] [cursor=pointer]
+    - link "Flights" [ref=e82] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e83] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e84]:
+    - generic [ref=e85]:
+      - generic [ref=e89]:
+        - generic [ref=e93]: Filters
+        - generic [ref=e95]:
+          - generic [ref=e97]: CATEGORIES
+          - generic [ref=e98]:
+            - generic [ref=e99]:
+              - img [ref=e101] [cursor=pointer]
+              - link "Footwear" [ref=e103] [cursor=pointer]:
+                - /url: /footwear/pr?sid=osp&q=Shoes&otracker=categorytree
+            - generic [ref=e104]:
+              - link "Women's Footwear" [ref=e105] [cursor=pointer]:
+                - /url: /footwear/womens-footwear/pr?sid=osp,iko&q=Shoes&otracker=categorytree
+              - link "Kids' & Infant Footwear" [ref=e106] [cursor=pointer]:
+                - /url: /footwear/kids-infant-footwear/pr?sid=osp,mba&q=Shoes&otracker=categorytree
+              - link "Men's Footwear" [ref=e107] [cursor=pointer]:
+                - /url: /footwear/mens-footwear/pr?sid=osp,cil&q=Shoes&otracker=categorytree
+        - generic [ref=e108]:
+          - generic [ref=e109] [cursor=pointer]:
+            - generic [ref=e110] [cursor=pointer]: Brand
+            - img [ref=e111] [cursor=pointer]
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - generic [ref=e115]:
+                - img [ref=e116]
+                - textbox "Search Brand" [ref=e120]
+              - generic [ref=e125] [cursor=pointer]: ADIDAS
+              - generic [ref=e130] [cursor=pointer]: NIKE
+              - generic [ref=e135] [cursor=pointer]: PUMA
+              - generic [ref=e140] [cursor=pointer]: Skechers
+              - generic [ref=e145] [cursor=pointer]: RED TAPE
+              - generic [ref=e150] [cursor=pointer]: REEBOK
+            - generic [ref=e152] [cursor=pointer]: 2919 MORE
+        - generic [ref=e154] [cursor=pointer]:
+          - generic [ref=e155] [cursor=pointer]: Gender
+          - img [ref=e156] [cursor=pointer]
+        - generic [ref=e158]:
+          - generic [ref=e159] [cursor=pointer]:
+            - generic [ref=e160] [cursor=pointer]: Discount
+            - img [ref=e161] [cursor=pointer]
+          - generic [ref=e164]:
+            - generic [ref=e169] [cursor=pointer]: 30% or more
+            - generic [ref=e174] [cursor=pointer]: 40% or more
+            - generic [ref=e179] [cursor=pointer]: 50% or more
+            - generic [ref=e184] [cursor=pointer]: 60% or more
+            - generic [ref=e189] [cursor=pointer]: 70% or more
+        - generic [ref=e190]:
+          - generic [ref=e193]: Price
+          - generic [ref=e211]:
+            - generic [ref=e212]: .
+            - generic [ref=e213]: .
+            - generic [ref=e214]: .
+            - generic [ref=e215]: .
+            - generic [ref=e216]: .
+            - generic [ref=e217]: .
+            - generic [ref=e218]: .
+            - generic: .
+          - generic [ref=e219]:
+            - combobox [ref=e221]:
+              - option "Min" [selected]
+              - option "₹500"
+              - option "₹500"
+              - option "₹1000"
+              - option "₹1500"
+              - option "₹2000"
+              - option "₹3000"
+            - generic [ref=e222]: to
+            - combobox [ref=e224]:
+              - option "₹500"
+              - option "₹500"
+              - option "₹1000"
+              - option "₹1500"
+              - option "₹2000"
+              - option "₹3000"
+              - option "₹3000+" [selected]
+        - generic [ref=e226] [cursor=pointer]:
+          - generic [ref=e227] [cursor=pointer]: Size
+          - img [ref=e228] [cursor=pointer]
+        - generic [ref=e230]:
+          - generic [ref=e231] [cursor=pointer]:
+            - generic [ref=e232] [cursor=pointer]: Color
+            - img [ref=e233] [cursor=pointer]
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - img [ref=e238]
+                - textbox "Search Color" [ref=e242]
+              - generic [ref=e250] [cursor=pointer]: Beige
+              - generic [ref=e258] [cursor=pointer]: Black
+              - generic [ref=e266] [cursor=pointer]: Blue
+              - generic [ref=e274] [cursor=pointer]: Bronze
+              - generic [ref=e282] [cursor=pointer]: Brown
+              - generic [ref=e290] [cursor=pointer]: Burgundy
+            - generic [ref=e292] [cursor=pointer]: 26 MORE
+        - generic [ref=e294] [cursor=pointer]:
+          - generic [ref=e295] [cursor=pointer]: Size - UK/India
+          - img [ref=e296] [cursor=pointer]
+        - generic [ref=e298]:
+          - generic [ref=e299] [cursor=pointer]:
+            - generic [ref=e300] [cursor=pointer]: Customer Ratings
+            - img [ref=e301] [cursor=pointer]
+          - generic [ref=e304]:
+            - generic [ref=e309] [cursor=pointer]: 4★ & above
+            - generic [ref=e314] [cursor=pointer]: 3★ & above
+        - generic [ref=e315]:
+          - img [ref=e320] [cursor=pointer]
+          - generic [ref=e322] [cursor=pointer]: "?"
+        - generic [ref=e323]:
+          - generic [ref=e324] [cursor=pointer]:
+            - generic [ref=e325] [cursor=pointer]: Offers
+            - img [ref=e326] [cursor=pointer]
+          - generic [ref=e329]:
+            - generic [ref=e334] [cursor=pointer]: Special Price
+            - generic [ref=e339] [cursor=pointer]: Buy More, Save More
+        - generic [ref=e341] [cursor=pointer]:
+          - generic [ref=e342] [cursor=pointer]: New Arrivals
+          - img [ref=e343] [cursor=pointer]
+        - generic [ref=e346] [cursor=pointer]:
+          - generic [ref=e347] [cursor=pointer]: Age Group
+          - img [ref=e348] [cursor=pointer]
+        - generic [ref=e351] [cursor=pointer]:
+          - generic [ref=e352] [cursor=pointer]: Availability
+          - img [ref=e353] [cursor=pointer]
+      - generic [ref=e355]:
+        - generic [ref=e358]:
+          - generic [ref=e359]:
+            - generic [ref=e360]:
+              - link "Home" [ref=e361] [cursor=pointer]:
+                - /url: /
+              - img [ref=e362]
+            - link "Footwear" [ref=e365] [cursor=pointer]:
+              - /url: /footwear/pr?sid=osp&marketplace=FLIPKART
+          - generic [ref=e366]:
+            - text: Showing 1 – 40 of 10,40,895 results for "
+            - generic [ref=e367]: Shoes
+            - text: "\""
+          - generic [ref=e368]:
+            - generic [ref=e369]: Sort By
+            - generic [ref=e370]: Relevance
+            - generic [ref=e371] [cursor=pointer]: Popularity
+            - generic [ref=e372] [cursor=pointer]: Price -- Low to High
+            - generic [ref=e373] [cursor=pointer]: Price -- High to Low
+            - generic [ref=e374] [cursor=pointer]: Newest First
+        - generic [ref=e376]:
+          - generic [ref=e378]:
+            - link [ref=e379] [cursor=pointer]:
+              - /url: /liberty-fortune-classik-1e-formal-slip-on-shoes-eva-sole-comfortable-office-wear-loafers-men/p/itmf502ba85012c1?pid=SHOHBCU4UZFHYB9Q&lid=LSTSHOHBCU4UZFHYB9QPJHTJA&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnO2COClpOVUnrRvl5-0aPIAzMHM9Bdty81GUYZg44lAU4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e386] [cursor=pointer]
+            - generic [ref=e388]:
+              - img [ref=e390]
+              - generic [ref=e393]: LIBERTY
+              - link "Fortune CLASSIK-1E Formal Slip-on Shoes With EVA Sole |..." [ref=e394] [cursor=pointer]:
+                - /url: /liberty-fortune-classik-1e-formal-slip-on-shoes-eva-sole-comfortable-office-wear-loafers-men/p/itmf502ba85012c1?pid=SHOHBCU4UZFHYB9Q&lid=LSTSHOHBCU4UZFHYB9QPJHTJA&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnO2COClpOVUnrRvl5-0aPIAzMHM9Bdty81GUYZg44lAU4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e396]
+              - link "₹588 ₹1,699 65% off" [ref=e397] [cursor=pointer]:
+                - /url: /liberty-fortune-classik-1e-formal-slip-on-shoes-eva-sole-comfortable-office-wear-loafers-men/p/itmf502ba85012c1?pid=SHOHBCU4UZFHYB9Q&lid=LSTSHOHBCU4UZFHYB9QPJHTJA&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnO2COClpOVUnrRvl5-0aPIAzMHM9Bdty81GUYZg44lAU4IsYyWu-Pj9cxFjFAoaLk%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e398] [cursor=pointer]:
+                  - generic [ref=e399] [cursor=pointer]: ₹588
+                  - generic [ref=e400] [cursor=pointer]: ₹1,699
+                  - generic [ref=e402] [cursor=pointer]: 65% off
+          - generic [ref=e404]:
+            - link [ref=e405] [cursor=pointer]:
+              - /url: /urbanbox-sneakers-men/p/itmb3e2c6aa2ae94?pid=SHOH4VYKTGDU6P4X&lid=LSTSHOH4VYKTGDU6P4XOW2N1O&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUki7dy4wWI6C41kFX-KjZg3Dzr3tURmNp2Hj6bbKEKWiA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e412] [cursor=pointer]
+            - generic [ref=e414]:
+              - img [ref=e416]
+              - generic [ref=e419]: URBANBOX
+              - link "Sneakers For Men" [ref=e420] [cursor=pointer]:
+                - /url: /urbanbox-sneakers-men/p/itmb3e2c6aa2ae94?pid=SHOH4VYKTGDU6P4X&lid=LSTSHOH4VYKTGDU6P4XOW2N1O&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUki7dy4wWI6C41kFX-KjZg3Dzr3tURmNp2Hj6bbKEKWiA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹370 ₹999 62% off" [ref=e421] [cursor=pointer]:
+                - /url: /urbanbox-sneakers-men/p/itmb3e2c6aa2ae94?pid=SHOH4VYKTGDU6P4X&lid=LSTSHOH4VYKTGDU6P4XOW2N1O&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_2&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUki7dy4wWI6C41kFX-KjZg3Dzr3tURmNp2Hj6bbKEKWiA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e422] [cursor=pointer]:
+                  - generic [ref=e423] [cursor=pointer]: ₹370
+                  - generic [ref=e424] [cursor=pointer]: ₹999
+                  - generic [ref=e426] [cursor=pointer]: 62% off
+              - generic [ref=e429]: Top Discount of the Sale
+          - generic [ref=e431]:
+            - link [ref=e432] [cursor=pointer]:
+              - /url: /hotstyle-smoke-grey-8-sneakers-men/p/itm743f20aa27b4e?pid=SHOHFY3PCUYDDPMS&lid=LSTSHOHFY3PCUYDDPMSB5BWO0&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFY3PCUYDDPMS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e439] [cursor=pointer]
+            - generic [ref=e441]:
+              - generic [ref=e442]: HOTSTYLE
+              - link "SMOKE-GREY-8 Sneakers For Men" [ref=e443] [cursor=pointer]:
+                - /url: /hotstyle-smoke-grey-8-sneakers-men/p/itm743f20aa27b4e?pid=SHOHFY3PCUYDDPMS&lid=LSTSHOHFY3PCUYDDPMSB5BWO0&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFY3PCUYDDPMS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e445]
+              - link "₹377 ₹2,249 83% off" [ref=e446] [cursor=pointer]:
+                - /url: /hotstyle-smoke-grey-8-sneakers-men/p/itm743f20aa27b4e?pid=SHOHFY3PCUYDDPMS&lid=LSTSHOHFY3PCUYDDPMSB5BWO0&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_3&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFY3PCUYDDPMS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e447] [cursor=pointer]:
+                  - generic [ref=e448] [cursor=pointer]: ₹377
+                  - generic [ref=e449] [cursor=pointer]: ₹2,249
+                  - generic [ref=e451] [cursor=pointer]: 83% off
+              - generic [ref=e454]: Top Discount of the Sale
+          - generic [ref=e456]:
+            - link [ref=e457] [cursor=pointer]:
+              - /url: /souled-store-urban-blaze-latte-sneakers-men/p/itm5ea3abc0c7165?pid=SHOH2NFFDJQURDTV&lid=LSTSHOH2NFFDJQURDTVZSU23A&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2NFFDJQURDTV.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e464] [cursor=pointer]
+            - generic [ref=e466]:
+              - generic [ref=e467]: The Souled Store
+              - 'link "Urban Blaze: Latte Sneakers For Men" [ref=e468] [cursor=pointer]':
+                - /url: /souled-store-urban-blaze-latte-sneakers-men/p/itm5ea3abc0c7165?pid=SHOH2NFFDJQURDTV&lid=LSTSHOH2NFFDJQURDTVZSU23A&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2NFFDJQURDTV.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e470]
+              - link "₹2,499 ₹2,799 10% off" [ref=e471] [cursor=pointer]:
+                - /url: /souled-store-urban-blaze-latte-sneakers-men/p/itm5ea3abc0c7165?pid=SHOH2NFFDJQURDTV&lid=LSTSHOH2NFFDJQURDTVZSU23A&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_4&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2NFFDJQURDTV.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e472] [cursor=pointer]:
+                  - generic [ref=e473] [cursor=pointer]: ₹2,499
+                  - generic [ref=e474] [cursor=pointer]: ₹2,799
+                  - generic [ref=e476] [cursor=pointer]: 10% off
+              - generic [ref=e479]: Saver Deal
+        - generic [ref=e481]:
+          - generic [ref=e483]:
+            - link [ref=e484] [cursor=pointer]:
+              - /url: /lejano-sneakers-men/p/itm2fc7b732fcb8f?pid=SHOH4KJMAGD2UZUS&lid=LSTSHOH4KJMAGD2UZUSJIMHPZ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUkxVpPBuouyUsbDraYckecFaBDN1AmByYF61CfH2azUrg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e491] [cursor=pointer]
+            - generic [ref=e493]:
+              - img [ref=e495]
+              - generic [ref=e498]: lejano
+              - link "Sneakers For Men" [ref=e499] [cursor=pointer]:
+                - /url: /lejano-sneakers-men/p/itm2fc7b732fcb8f?pid=SHOH4KJMAGD2UZUS&lid=LSTSHOH4KJMAGD2UZUSJIMHPZ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUkxVpPBuouyUsbDraYckecFaBDN1AmByYF61CfH2azUrg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹495 ₹1,499 66% off" [ref=e500] [cursor=pointer]:
+                - /url: /lejano-sneakers-men/p/itm2fc7b732fcb8f?pid=SHOH4KJMAGD2UZUS&lid=LSTSHOH4KJMAGD2UZUSJIMHPZ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_5&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUkxVpPBuouyUsbDraYckecFaBDN1AmByYF61CfH2azUrg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e501] [cursor=pointer]:
+                  - generic [ref=e502] [cursor=pointer]: ₹495
+                  - generic [ref=e503] [cursor=pointer]: ₹1,499
+                  - generic [ref=e505] [cursor=pointer]: 66% off
+          - generic [ref=e507]:
+            - link [ref=e508] [cursor=pointer]:
+              - /url: /urbanbox-trending-stylish-casual-outdoor-sneakers-shoes-men/p/itm20f1e7caa80e8?pid=SHOGP8QHAVHFZ6BV&lid=LSTSHOGP8QHAVHFZ6BVZ5TUQV&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnlXOfU_YySMoJKhlOhhkAxQ8Zwq-_EkqbIu4Tk6kHlig%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e515] [cursor=pointer]
+            - generic [ref=e517]:
+              - img [ref=e519]
+              - generic [ref=e522]: URBANBOX
+              - link "Trending Stylish Casual Outdoor Sneakers Shoes For Men ..." [ref=e523] [cursor=pointer]:
+                - /url: /urbanbox-trending-stylish-casual-outdoor-sneakers-shoes-men/p/itm20f1e7caa80e8?pid=SHOGP8QHAVHFZ6BV&lid=LSTSHOGP8QHAVHFZ6BVZ5TUQV&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnlXOfU_YySMoJKhlOhhkAxQ8Zwq-_EkqbIu4Tk6kHlig%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e525]
+              - link "₹335 ₹999 66% off" [ref=e526] [cursor=pointer]:
+                - /url: /urbanbox-trending-stylish-casual-outdoor-sneakers-shoes-men/p/itm20f1e7caa80e8?pid=SHOGP8QHAVHFZ6BV&lid=LSTSHOGP8QHAVHFZ6BVZ5TUQV&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_6&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnlXOfU_YySMoJKhlOhhkAxQ8Zwq-_EkqbIu4Tk6kHlig%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e527] [cursor=pointer]:
+                  - generic [ref=e528] [cursor=pointer]: ₹335
+                  - generic [ref=e529] [cursor=pointer]: ₹999
+                  - generic [ref=e531] [cursor=pointer]: 66% off
+              - generic [ref=e534]: Top Discount of the Sale
+          - generic [ref=e536]:
+            - link [ref=e537] [cursor=pointer]:
+              - /url: /viruformal-lf-b1-stylish-black-loafers-men/p/itm31da0647a9239?pid=SHOHGF39RMUHP2FE&lid=LSTSHOHGF39RMUHP2FEHA6ICR&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHGF39RMUHP2FE.SEARCH&ppt=sp&ppn=sp&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e544] [cursor=pointer]
+            - generic [ref=e546]:
+              - generic [ref=e547]: viruformal
+              - link "LF-B1 Stylish Black Loafers For Men" [ref=e548] [cursor=pointer]:
+                - /url: /viruformal-lf-b1-stylish-black-loafers-men/p/itm31da0647a9239?pid=SHOHGF39RMUHP2FE&lid=LSTSHOHGF39RMUHP2FEHA6ICR&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHGF39RMUHP2FE.SEARCH&ppt=sp&ppn=sp&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹436 ₹999 56% off" [ref=e549] [cursor=pointer]:
+                - /url: /viruformal-lf-b1-stylish-black-loafers-men/p/itm31da0647a9239?pid=SHOHGF39RMUHP2FE&lid=LSTSHOHGF39RMUHP2FEHA6ICR&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHGF39RMUHP2FE.SEARCH&ppt=sp&ppn=sp&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e550] [cursor=pointer]:
+                  - generic [ref=e551] [cursor=pointer]: ₹436
+                  - generic [ref=e552] [cursor=pointer]: ₹999
+                  - generic [ref=e554] [cursor=pointer]: 56% off
+              - generic [ref=e557]: Only few left
+          - generic [ref=e559]:
+            - link [ref=e560] [cursor=pointer]:
+              - /url: /bokzzon-shoes-women-sneakers-korean-women-sports-running/p/itm88157a0ccc495?pid=SHOHG4NYHG8GVETF&lid=LSTSHOHG4NYHG8GVETFZ2WLBZ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHG4NYHG8GVETF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e567] [cursor=pointer]
+            - generic [ref=e569]:
+              - generic [ref=e570]: BOKZZON
+              - link "shoes for women sneakers, korean shoes for women, shoes..." [ref=e571] [cursor=pointer]:
+                - /url: /bokzzon-shoes-women-sneakers-korean-women-sports-running/p/itm88157a0ccc495?pid=SHOHG4NYHG8GVETF&lid=LSTSHOHG4NYHG8GVETFZ2WLBZ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHG4NYHG8GVETF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹499 ₹999 50% off" [ref=e572] [cursor=pointer]:
+                - /url: /bokzzon-shoes-women-sneakers-korean-women-sports-running/p/itm88157a0ccc495?pid=SHOHG4NYHG8GVETF&lid=LSTSHOHG4NYHG8GVETFZ2WLBZ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_8&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHG4NYHG8GVETF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e573] [cursor=pointer]:
+                  - generic [ref=e574] [cursor=pointer]: ₹499
+                  - generic [ref=e575] [cursor=pointer]: ₹999
+                  - generic [ref=e577] [cursor=pointer]: 50% off
+              - generic [ref=e580]: Only few left
+        - generic [ref=e582]:
+          - generic [ref=e584]:
+            - link [ref=e585] [cursor=pointer]:
+              - /url: /killer-mens-sneaker-loafers-lightweight-eva-sole-stylish-comfortable-shoes-men/p/itm3fae070dba02a?pid=SHOH8VKFWRZFK7GS&lid=LSTSHOH8VKFWRZFK7GSGGIJNC&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8VKFWRZFK7GS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e592] [cursor=pointer]
+            - generic [ref=e594]:
+              - generic [ref=e595]: KILLER
+              - link "Men’s Sneaker Loafers with Lightweight EVA Sole | Styli..." [ref=e596] [cursor=pointer]:
+                - /url: /killer-mens-sneaker-loafers-lightweight-eva-sole-stylish-comfortable-shoes-men/p/itm3fae070dba02a?pid=SHOH8VKFWRZFK7GS&lid=LSTSHOH8VKFWRZFK7GSGGIJNC&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8VKFWRZFK7GS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e598]
+              - link "₹944 ₹2,999 68% off" [ref=e599] [cursor=pointer]:
+                - /url: /killer-mens-sneaker-loafers-lightweight-eva-sole-stylish-comfortable-shoes-men/p/itm3fae070dba02a?pid=SHOH8VKFWRZFK7GS&lid=LSTSHOH8VKFWRZFK7GSGGIJNC&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_9&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8VKFWRZFK7GS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e600] [cursor=pointer]:
+                  - generic [ref=e601] [cursor=pointer]: ₹944
+                  - generic [ref=e602] [cursor=pointer]: ₹2,999
+                  - generic [ref=e604] [cursor=pointer]: 68% off
+              - generic [ref=e607]: Only 3 left
+          - generic [ref=e609]:
+            - link [ref=e610] [cursor=pointer]:
+              - /url: /onmac-enterprises-sneakers-men/p/itm9ee602395e1c4?pid=SHOH8SZWZSFVCQWF&lid=LSTSHOH8SZWZSFVCQWFWS0MUO&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8SZWZSFVCQWF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e617] [cursor=pointer]
+            - generic [ref=e619]:
+              - generic [ref=e620]: Onmac enterprises
+              - link "sneakers for men Sneakers For Men" [ref=e621] [cursor=pointer]:
+                - /url: /onmac-enterprises-sneakers-men/p/itm9ee602395e1c4?pid=SHOH8SZWZSFVCQWF&lid=LSTSHOH8SZWZSFVCQWFWS0MUO&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8SZWZSFVCQWF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e623]
+              - link "₹498 ₹1,600 68% off" [ref=e624] [cursor=pointer]:
+                - /url: /onmac-enterprises-sneakers-men/p/itm9ee602395e1c4?pid=SHOH8SZWZSFVCQWF&lid=LSTSHOH8SZWZSFVCQWFWS0MUO&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_10&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8SZWZSFVCQWF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e625] [cursor=pointer]:
+                  - generic [ref=e626] [cursor=pointer]: ₹498
+                  - generic [ref=e627] [cursor=pointer]: ₹1,600
+                  - generic [ref=e629] [cursor=pointer]: 68% off
+              - generic [ref=e632]: Top Discount of the Sale
+          - generic [ref=e634]:
+            - link [ref=e635] [cursor=pointer]:
+              - /url: /lejano-high-tops-men/p/itm94ecf715b17be?pid=SHOH7MXAHFR7MGUX&lid=LSTSHOH7MXAHFR7MGUX7PEUVR&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmZ9LG_OMV7596N1RxnLLqzfypfbBEOK21hQMuCUVHR9Oo15S0a61Wzzbg3qNOknKY%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e642] [cursor=pointer]
+            - generic [ref=e644]:
+              - img [ref=e646]
+              - generic [ref=e649]: lejano
+              - link "High Tops For Men" [ref=e650] [cursor=pointer]:
+                - /url: /lejano-high-tops-men/p/itm94ecf715b17be?pid=SHOH7MXAHFR7MGUX&lid=LSTSHOH7MXAHFR7MGUX7PEUVR&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmZ9LG_OMV7596N1RxnLLqzfypfbBEOK21hQMuCUVHR9Oo15S0a61Wzzbg3qNOknKY%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹495 ₹1,599 69% off" [ref=e651] [cursor=pointer]:
+                - /url: /lejano-high-tops-men/p/itm94ecf715b17be?pid=SHOH7MXAHFR7MGUX&lid=LSTSHOH7MXAHFR7MGUX7PEUVR&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_11&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmZ9LG_OMV7596N1RxnLLqzfypfbBEOK21hQMuCUVHR9Oo15S0a61Wzzbg3qNOknKY%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e652] [cursor=pointer]:
+                  - generic [ref=e653] [cursor=pointer]: ₹495
+                  - generic [ref=e654] [cursor=pointer]: ₹1,599
+                  - generic [ref=e656] [cursor=pointer]: 69% off
+              - generic [ref=e659]: Top Discount of the Sale
+          - generic [ref=e661]:
+            - link [ref=e662] [cursor=pointer]:
+              - /url: /lejano-sneakers-men/p/itm72ef35cda404f?pid=SHOH4J89B3MGPSM9&lid=LSTSHOH4J89B3MGPSM923XDSE&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUkjoD9O9hVeHDt4RAAPJ_5rEVzjHqeaG8gpv5ngBRlZqA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e669] [cursor=pointer]
+            - generic [ref=e671]:
+              - img [ref=e673]
+              - generic [ref=e676]: lejano
+              - link "Sneakers For Men" [ref=e677] [cursor=pointer]:
+                - /url: /lejano-sneakers-men/p/itm72ef35cda404f?pid=SHOH4J89B3MGPSM9&lid=LSTSHOH4J89B3MGPSM923XDSE&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUkjoD9O9hVeHDt4RAAPJ_5rEVzjHqeaG8gpv5ngBRlZqA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e679]
+              - link "₹495 ₹1,499 66% off" [ref=e680] [cursor=pointer]:
+                - /url: /lejano-sneakers-men/p/itm72ef35cda404f?pid=SHOH4J89B3MGPSM9&lid=LSTSHOH4J89B3MGPSM923XDSE&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUkjoD9O9hVeHDt4RAAPJ_5rEVzjHqeaG8gpv5ngBRlZqA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e681] [cursor=pointer]:
+                  - generic [ref=e682] [cursor=pointer]: ₹495
+                  - generic [ref=e683] [cursor=pointer]: ₹1,499
+                  - generic [ref=e685] [cursor=pointer]: 66% off
+              - generic [ref=e688]: Top Discount of the Sale
+        - generic [ref=e690]:
+          - generic [ref=e692]:
+            - link [ref=e693] [cursor=pointer]:
+              - /url: /campus-mike-n-running-shoes-men/p/itm27c989f1e20c6?pid=SHOG4G3YHSXK65GV&lid=LSTSHOG4G3YHSXK65GV4UHWIH&marketplace=FLIPKART&q=Shoes&store=osp&spotlightTagId=default_BestsellerId_osp&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOG4G3YHSXK65GV.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e700] [cursor=pointer]
+            - generic [ref=e702]:
+              - generic [ref=e703]: CAMPUS
+              - link "MIKE (N) Running Shoes For Men" [ref=e704] [cursor=pointer]:
+                - /url: /campus-mike-n-running-shoes-men/p/itm27c989f1e20c6?pid=SHOG4G3YHSXK65GV&lid=LSTSHOG4G3YHSXK65GV4UHWIH&marketplace=FLIPKART&q=Shoes&store=osp&spotlightTagId=default_BestsellerId_osp&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOG4G3YHSXK65GV.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e706]
+              - link "₹887 ₹1,999 55% off" [ref=e707] [cursor=pointer]:
+                - /url: /campus-mike-n-running-shoes-men/p/itm27c989f1e20c6?pid=SHOG4G3YHSXK65GV&lid=LSTSHOG4G3YHSXK65GV4UHWIH&marketplace=FLIPKART&q=Shoes&store=osp&spotlightTagId=default_BestsellerId_osp&srno=s_1_13&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOG4G3YHSXK65GV.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e708] [cursor=pointer]:
+                  - generic [ref=e709] [cursor=pointer]: ₹887
+                  - generic [ref=e710] [cursor=pointer]: ₹1,999
+                  - generic [ref=e712] [cursor=pointer]: 55% off
+              - generic [ref=e715]: Top Discount of the Sale
+          - generic [ref=e717]:
+            - link [ref=e718] [cursor=pointer]:
+              - /url: /aeonik-white-high-premium-quality-running-shoes-men/p/itmb4f254c716e7d?pid=SHOH2TRH2B9YFXGF&lid=LSTSHOH2TRH2B9YFXGFN3J3B2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2TRH2B9YFXGF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e725] [cursor=pointer]
+            - generic [ref=e727]:
+              - generic [ref=e728]: Aeonik
+              - link "WHITE HIGH PREMIUM QUALITY Running Shoes For Men" [ref=e729] [cursor=pointer]:
+                - /url: /aeonik-white-high-premium-quality-running-shoes-men/p/itmb4f254c716e7d?pid=SHOH2TRH2B9YFXGF&lid=LSTSHOH2TRH2B9YFXGFN3J3B2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2TRH2B9YFXGF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹412 ₹1,999 79% off" [ref=e730] [cursor=pointer]:
+                - /url: /aeonik-white-high-premium-quality-running-shoes-men/p/itmb4f254c716e7d?pid=SHOH2TRH2B9YFXGF&lid=LSTSHOH2TRH2B9YFXGFN3J3B2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_14&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2TRH2B9YFXGF.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e731] [cursor=pointer]:
+                  - generic [ref=e732] [cursor=pointer]: ₹412
+                  - generic [ref=e733] [cursor=pointer]: ₹1,999
+                  - generic [ref=e735] [cursor=pointer]: 79% off
+              - generic [ref=e738]: Top Discount of the Sale
+          - generic [ref=e740]:
+            - link [ref=e741] [cursor=pointer]:
+              - /url: /all-way-classic-women-chelsea-boots/p/itmac65d47b852d1?pid=SHOHG4TPM8ZZ8HBW&lid=LSTSHOHG4TPM8ZZ8HBWPNTSIA&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHG4TPM8ZZ8HBW.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e748] [cursor=pointer]
+            - generic [ref=e750]:
+              - generic [ref=e751]: THE ALL WAY
+              - link "Classic Women Chelsea Boots Boots For Women" [ref=e752] [cursor=pointer]:
+                - /url: /all-way-classic-women-chelsea-boots/p/itmac65d47b852d1?pid=SHOHG4TPM8ZZ8HBW&lid=LSTSHOHG4TPM8ZZ8HBWPNTSIA&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHG4TPM8ZZ8HBW.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e754]
+              - link "₹757 ₹999 24% off" [ref=e755] [cursor=pointer]:
+                - /url: /all-way-classic-women-chelsea-boots/p/itmac65d47b852d1?pid=SHOHG4TPM8ZZ8HBW&lid=LSTSHOHG4TPM8ZZ8HBWPNTSIA&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_15&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHG4TPM8ZZ8HBW.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e756] [cursor=pointer]:
+                  - generic [ref=e757] [cursor=pointer]: ₹757
+                  - generic [ref=e758] [cursor=pointer]: ₹999
+                  - generic [ref=e760] [cursor=pointer]: 24% off
+              - generic [ref=e763]: Only few left
+          - generic [ref=e765]:
+            - link [ref=e766] [cursor=pointer]:
+              - /url: /campus-crysta-pro-running-shoes-men/p/itmb72d8c0261dc5?pid=SHOGANAANZMZJHQJ&lid=LSTSHOGANAANZMZJHQJNFGIED&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGANAANZMZJHQJ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e773] [cursor=pointer]
+            - generic [ref=e775]:
+              - generic [ref=e776]: CAMPUS
+              - link "CRYSTA PRO Running Shoes For Men" [ref=e777] [cursor=pointer]:
+                - /url: /campus-crysta-pro-running-shoes-men/p/itmb72d8c0261dc5?pid=SHOGANAANZMZJHQJ&lid=LSTSHOGANAANZMZJHQJNFGIED&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGANAANZMZJHQJ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e779]
+              - link "₹569 ₹1,499 62% off" [ref=e780] [cursor=pointer]:
+                - /url: /campus-crysta-pro-running-shoes-men/p/itmb72d8c0261dc5?pid=SHOGANAANZMZJHQJ&lid=LSTSHOGANAANZMZJHQJNFGIED&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_16&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGANAANZMZJHQJ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e781] [cursor=pointer]:
+                  - generic [ref=e782] [cursor=pointer]: ₹569
+                  - generic [ref=e783] [cursor=pointer]: ₹1,499
+                  - generic [ref=e785] [cursor=pointer]: 62% off
+              - generic [ref=e788]: Top Discount of the Sale
+        - generic [ref=e790]:
+          - generic [ref=e792]:
+            - link [ref=e793] [cursor=pointer]:
+              - /url: /clymb-prime-walking-outdoor-sports-running-shoes-men/p/itm6ee835c5e37cc?pid=SHOGCVGCYQZSES5M&lid=LSTSHOGCVGCYQZSES5MMXNWPY&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUlyfafIzxJr0MX7EoLwrhX8HhPAfVxbFrqAzE6jbmyT8g%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e800] [cursor=pointer]
+            - generic [ref=e802]:
+              - img [ref=e804]
+              - generic [ref=e807]: CLYMB
+              - link "PRIME Walking/Outdoor/Sports Running Shoes For Men" [ref=e808] [cursor=pointer]:
+                - /url: /clymb-prime-walking-outdoor-sports-running-shoes-men/p/itm6ee835c5e37cc?pid=SHOGCVGCYQZSES5M&lid=LSTSHOGCVGCYQZSES5MMXNWPY&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUlyfafIzxJr0MX7EoLwrhX8HhPAfVxbFrqAzE6jbmyT8g%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹371 ₹999 62% off" [ref=e809] [cursor=pointer]:
+                - /url: /clymb-prime-walking-outdoor-sports-running-shoes-men/p/itm6ee835c5e37cc?pid=SHOGCVGCYQZSES5M&lid=LSTSHOGCVGCYQZSES5MMXNWPY&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_17&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUlyfafIzxJr0MX7EoLwrhX8HhPAfVxbFrqAzE6jbmyT8g%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e810] [cursor=pointer]:
+                  - generic [ref=e811] [cursor=pointer]: ₹371
+                  - generic [ref=e812] [cursor=pointer]: ₹999
+                  - generic [ref=e814] [cursor=pointer]: 62% off
+              - generic [ref=e817]: Top Discount of the Sale
+          - generic [ref=e819]:
+            - link [ref=e820] [cursor=pointer]:
+              - /url: /aadi-synthetic-leather-lightweight-comfort-summer-trendy-walking-outdoor-daily-use-high-tops-men/p/itm4328ff9836c98?pid=SHOGDFYGSJ9WENM4&lid=LSTSHOGDFYGSJ9WENM4FR610V&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUlEyJ2wjgvKM2nZqRw2QmhyMxhFuRLjhyRuZOplc3LsUw%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e827] [cursor=pointer]
+            - generic [ref=e829]:
+              - img [ref=e831]
+              - generic [ref=e834]: aadi
+              - link "Synthetic Leather |Lightweight|Comfort|Summer|Trendy|Wa..." [ref=e835] [cursor=pointer]:
+                - /url: /aadi-synthetic-leather-lightweight-comfort-summer-trendy-walking-outdoor-daily-use-high-tops-men/p/itm4328ff9836c98?pid=SHOGDFYGSJ9WENM4&lid=LSTSHOGDFYGSJ9WENM4FR610V&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUlEyJ2wjgvKM2nZqRw2QmhyMxhFuRLjhyRuZOplc3LsUw%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e837]
+              - link "₹355 ₹1,999 82% off" [ref=e838] [cursor=pointer]:
+                - /url: /aadi-synthetic-leather-lightweight-comfort-summer-trendy-walking-outdoor-daily-use-high-tops-men/p/itm4328ff9836c98?pid=SHOGDFYGSJ9WENM4&lid=LSTSHOGDFYGSJ9WENM4FR610V&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_18&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUlEyJ2wjgvKM2nZqRw2QmhyMxhFuRLjhyRuZOplc3LsUw%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e839] [cursor=pointer]:
+                  - generic [ref=e840] [cursor=pointer]: ₹355
+                  - generic [ref=e841] [cursor=pointer]: ₹1,999
+                  - generic [ref=e843] [cursor=pointer]: 82% off
+              - generic [ref=e846]: Top Discount of the Sale
+          - generic [ref=e848]:
+            - link [ref=e849] [cursor=pointer]:
+              - /url: /density-ultra-lightweight-breathable-walking-running-gyming-casual-athletic-walking-shoes-men/p/itm6ee8aeb658450?pid=SHOGRSZWUHVNFNKW&lid=LSTSHOGRSZWUHVNFNKWVRJR18&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGRSZWUHVNFNKW.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e856] [cursor=pointer]
+            - generic [ref=e858]:
+              - generic [ref=e859]: density
+              - link "Ultra-Lightweight, Breathable, Walking, Running,Gyming ..." [ref=e860] [cursor=pointer]:
+                - /url: /density-ultra-lightweight-breathable-walking-running-gyming-casual-athletic-walking-shoes-men/p/itm6ee8aeb658450?pid=SHOGRSZWUHVNFNKW&lid=LSTSHOGRSZWUHVNFNKWVRJR18&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGRSZWUHVNFNKW.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e862]
+              - link "₹327 ₹999 67% off" [ref=e863] [cursor=pointer]:
+                - /url: /density-ultra-lightweight-breathable-walking-running-gyming-casual-athletic-walking-shoes-men/p/itm6ee8aeb658450?pid=SHOGRSZWUHVNFNKW&lid=LSTSHOGRSZWUHVNFNKWVRJR18&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_19&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGRSZWUHVNFNKW.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e864] [cursor=pointer]:
+                  - generic [ref=e865] [cursor=pointer]: ₹327
+                  - generic [ref=e866] [cursor=pointer]: ₹999
+                  - generic [ref=e868] [cursor=pointer]: 67% off
+              - generic [ref=e871]: Top Discount of the Sale
+          - generic [ref=e873]:
+            - link [ref=e874] [cursor=pointer]:
+              - /url: /killer-mens-sneaker-loafers-lightweight-eva-sole-stylish-comfortable-shoes-men/p/itma3d52957abb3b?pid=SHOH8VKFYK7HM5DP&lid=LSTSHOH8VKFYK7HM5DPW7ODIT&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8VKFYK7HM5DP.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e881] [cursor=pointer]
+            - generic [ref=e883]:
+              - generic [ref=e884]: KILLER
+              - link "Men’s Sneaker Loafers with Lightweight EVA Sole | Styli..." [ref=e885] [cursor=pointer]:
+                - /url: /killer-mens-sneaker-loafers-lightweight-eva-sole-stylish-comfortable-shoes-men/p/itma3d52957abb3b?pid=SHOH8VKFYK7HM5DP&lid=LSTSHOH8VKFYK7HM5DPW7ODIT&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8VKFYK7HM5DP.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹943 ₹2,999 68% off" [ref=e886] [cursor=pointer]:
+                - /url: /killer-mens-sneaker-loafers-lightweight-eva-sole-stylish-comfortable-shoes-men/p/itma3d52957abb3b?pid=SHOH8VKFYK7HM5DP&lid=LSTSHOH8VKFYK7HM5DPW7ODIT&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_20&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH8VKFYK7HM5DP.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e887] [cursor=pointer]:
+                  - generic [ref=e888] [cursor=pointer]: ₹943
+                  - generic [ref=e889] [cursor=pointer]: ₹2,999
+                  - generic [ref=e891] [cursor=pointer]: 68% off
+              - generic [ref=e894]: Only 4 left
+        - generic [ref=e896]:
+          - generic [ref=e898]:
+            - link [ref=e899] [cursor=pointer]:
+              - /url: /stranger-brothers-sneakers-men-casual-shoes-white-trendy/p/itma3e460a703ae6?pid=SHOHESYNGWHTWWXP&lid=LSTSHOHESYNGWHTWWXPOLBCZI&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmLGSNL3M3GCcvwFzd1UFmoI-v5NcYqX9y_2FKEeRaHUw%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e906] [cursor=pointer]
+            - generic [ref=e908]:
+              - img [ref=e910]
+              - generic [ref=e913]: STRANGER BROTHERS
+              - link "Sneakers For Men | Casual Shoes For Men | White Trendy ..." [ref=e914] [cursor=pointer]:
+                - /url: /stranger-brothers-sneakers-men-casual-shoes-white-trendy/p/itma3e460a703ae6?pid=SHOHESYNGWHTWWXP&lid=LSTSHOHESYNGWHTWWXPOLBCZI&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmLGSNL3M3GCcvwFzd1UFmoI-v5NcYqX9y_2FKEeRaHUw%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹459 ₹999 54% off" [ref=e915] [cursor=pointer]:
+                - /url: /stranger-brothers-sneakers-men-casual-shoes-white-trendy/p/itma3e460a703ae6?pid=SHOHESYNGWHTWWXP&lid=LSTSHOHESYNGWHTWWXPOLBCZI&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_21&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmLGSNL3M3GCcvwFzd1UFmoI-v5NcYqX9y_2FKEeRaHUw%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e916] [cursor=pointer]:
+                  - generic [ref=e917] [cursor=pointer]: ₹459
+                  - generic [ref=e918] [cursor=pointer]: ₹999
+                  - generic [ref=e920] [cursor=pointer]: 54% off
+          - generic [ref=e922]:
+            - link [ref=e923] [cursor=pointer]:
+              - /url: /clymb-walking-outdoor-sports-running-shoes-men/p/itma6838a0e2619a?pid=SHOGCVGBQREPBGYF&lid=LSTSHOGCVGBQREPBGYF8WX5SB&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmr5U4UV3ViUdeJUYhVUQUy8yu1LoV_EKM3l1RW3f99MA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e930] [cursor=pointer]
+            - generic [ref=e932]:
+              - img [ref=e934]
+              - generic [ref=e937]: CLYMB
+              - link "Walking/Outdoor/Sports Running Shoes For Men" [ref=e938] [cursor=pointer]:
+                - /url: /clymb-walking-outdoor-sports-running-shoes-men/p/itma6838a0e2619a?pid=SHOGCVGBQREPBGYF&lid=LSTSHOGCVGBQREPBGYF8WX5SB&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmr5U4UV3ViUdeJUYhVUQUy8yu1LoV_EKM3l1RW3f99MA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e940]
+              - link "₹377 ₹2,499 84% off" [ref=e941] [cursor=pointer]:
+                - /url: /clymb-walking-outdoor-sports-running-shoes-men/p/itma6838a0e2619a?pid=SHOGCVGBQREPBGYF&lid=LSTSHOGCVGBQREPBGYF8WX5SB&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_22&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmr5U4UV3ViUdeJUYhVUQUy8yu1LoV_EKM3l1RW3f99MA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e942] [cursor=pointer]:
+                  - generic [ref=e943] [cursor=pointer]: ₹377
+                  - generic [ref=e944] [cursor=pointer]: ₹2,499
+                  - generic [ref=e946] [cursor=pointer]: 84% off
+              - generic [ref=e949]: Top Discount of the Sale
+          - generic [ref=e951]:
+            - link [ref=e952] [cursor=pointer]:
+              - /url: /adidas-fuseo-m-running-shoes-men/p/itm666a9bdf84c85?pid=SHOGZT65HZ2QYMFJ&lid=LSTSHOGZT65HZ2QYMFJOTA3MY&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGZT65HZ2QYMFJ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e959] [cursor=pointer]
+            - generic [ref=e961]:
+              - generic [ref=e962]: ADIDAS
+              - link "Fuseo M Running Shoes For Men" [ref=e963] [cursor=pointer]:
+                - /url: /adidas-fuseo-m-running-shoes-men/p/itm666a9bdf84c85?pid=SHOGZT65HZ2QYMFJ&lid=LSTSHOGZT65HZ2QYMFJOTA3MY&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGZT65HZ2QYMFJ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e965]
+              - link "₹1,043 ₹3,599 71% off" [ref=e966] [cursor=pointer]:
+                - /url: /adidas-fuseo-m-running-shoes-men/p/itm666a9bdf84c85?pid=SHOGZT65HZ2QYMFJ&lid=LSTSHOGZT65HZ2QYMFJOTA3MY&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_23&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGZT65HZ2QYMFJ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e967] [cursor=pointer]:
+                  - generic [ref=e968] [cursor=pointer]: ₹1,043
+                  - generic [ref=e969] [cursor=pointer]: ₹3,599
+                  - generic [ref=e971] [cursor=pointer]: 71% off
+              - generic [ref=e974]: Top Discount of the Sale
+          - generic [ref=e976]:
+            - link [ref=e977] [cursor=pointer]:
+              - /url: /urbanbox-sneakers-men/p/itmb3e2c6aa2ae94?pid=SHOH4V5UYEU8FMFS&lid=LSTSHOH4V5UYEU8FMFSQJUVRK&marketplace=FLIPKART&q=Shoes&store=osp&spotlightTagId=default_BestsellerId_osp&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH4V5UYEU8FMFS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e984] [cursor=pointer]
+            - generic [ref=e986]:
+              - generic [ref=e987]: URBANBOX
+              - link "Sneakers For Men" [ref=e988] [cursor=pointer]:
+                - /url: /urbanbox-sneakers-men/p/itmb3e2c6aa2ae94?pid=SHOH4V5UYEU8FMFS&lid=LSTSHOH4V5UYEU8FMFSQJUVRK&marketplace=FLIPKART&q=Shoes&store=osp&spotlightTagId=default_BestsellerId_osp&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH4V5UYEU8FMFS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹370 ₹999 62% off" [ref=e989] [cursor=pointer]:
+                - /url: /urbanbox-sneakers-men/p/itmb3e2c6aa2ae94?pid=SHOH4V5UYEU8FMFS&lid=LSTSHOH4V5UYEU8FMFSQJUVRK&marketplace=FLIPKART&q=Shoes&store=osp&spotlightTagId=default_BestsellerId_osp&srno=s_1_24&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH4V5UYEU8FMFS.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e990] [cursor=pointer]:
+                  - generic [ref=e991] [cursor=pointer]: ₹370
+                  - generic [ref=e992] [cursor=pointer]: ₹999
+                  - generic [ref=e994] [cursor=pointer]: 62% off
+              - generic [ref=e997]: Top Discount of the Sale
+        - generic [ref=e999]:
+          - generic [ref=e1001]:
+            - link [ref=e1002] [cursor=pointer]:
+              - /url: /campus-mike-n-running-shoes-men/p/itmf8ff8f65cc63f?pid=SHOG2EYZPCPDTR8T&lid=LSTSHOG2EYZPCPDTR8TOWRDXU&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_25&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOG2EYZPCPDTR8T.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1009] [cursor=pointer]
+            - generic [ref=e1011]:
+              - generic [ref=e1012]: CAMPUS
+              - link "MIKE (N) Running Shoes For Men" [ref=e1013] [cursor=pointer]:
+                - /url: /campus-mike-n-running-shoes-men/p/itmf8ff8f65cc63f?pid=SHOG2EYZPCPDTR8T&lid=LSTSHOG2EYZPCPDTR8TOWRDXU&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_25&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOG2EYZPCPDTR8T.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1015]
+              - link "₹823 ₹1,999 58% off" [ref=e1016] [cursor=pointer]:
+                - /url: /campus-mike-n-running-shoes-men/p/itmf8ff8f65cc63f?pid=SHOG2EYZPCPDTR8T&lid=LSTSHOG2EYZPCPDTR8TOWRDXU&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_25&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOG2EYZPCPDTR8T.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1017] [cursor=pointer]:
+                  - generic [ref=e1018] [cursor=pointer]: ₹823
+                  - generic [ref=e1019] [cursor=pointer]: ₹1,999
+                  - generic [ref=e1021] [cursor=pointer]: 58% off
+              - generic [ref=e1024]: Top Discount of the Sale
+          - generic [ref=e1026]:
+            - link [ref=e1027] [cursor=pointer]:
+              - /url: /kardam-sons-luxury-fashionable-stylish-light-weight-sneakers-white-men/p/itm822d21fdd94c5?pid=SHOH2292TGSQNJR4&lid=LSTSHOH2292TGSQNJR45TSXSK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_26&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2292TGSQNJR4.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1034] [cursor=pointer]
+            - generic [ref=e1036]:
+              - generic [ref=e1037]: kardam&sons
+              - link "kardam&sons luxury fashionable Stylish Light Weight Sne..." [ref=e1038] [cursor=pointer]:
+                - /url: /kardam-sons-luxury-fashionable-stylish-light-weight-sneakers-white-men/p/itm822d21fdd94c5?pid=SHOH2292TGSQNJR4&lid=LSTSHOH2292TGSQNJR45TSXSK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_26&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2292TGSQNJR4.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹366 ₹2,999 87% off" [ref=e1039] [cursor=pointer]:
+                - /url: /kardam-sons-luxury-fashionable-stylish-light-weight-sneakers-white-men/p/itm822d21fdd94c5?pid=SHOH2292TGSQNJR4&lid=LSTSHOH2292TGSQNJR45TSXSK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_26&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH2292TGSQNJR4.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1040] [cursor=pointer]:
+                  - generic [ref=e1041] [cursor=pointer]: ₹366
+                  - generic [ref=e1042] [cursor=pointer]: ₹2,999
+                  - generic [ref=e1044] [cursor=pointer]: 87% off
+              - generic [ref=e1047]: Top Discount of the Sale
+          - generic [ref=e1049]:
+            - link [ref=e1050] [cursor=pointer]:
+              - /url: /bruton-hockey-931-sports-running-shoes-men/p/itmf38ca3d6109fb?pid=SHOH9SXYZKZJ7YSK&lid=LSTSHOH9SXYZKZJ7YSKOXPA1I&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_27&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUldlUblrD4jYpvOKQraOFp_SHO6rdPBJW8smT8M5l0GcA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1057] [cursor=pointer]
+            - generic [ref=e1059]:
+              - img [ref=e1061]
+              - generic [ref=e1064]: BRUTON
+              - link "HOCKEY-931 | Sports Running Shoes For Men" [ref=e1065] [cursor=pointer]:
+                - /url: /bruton-hockey-931-sports-running-shoes-men/p/itmf38ca3d6109fb?pid=SHOH9SXYZKZJ7YSK&lid=LSTSHOH9SXYZKZJ7YSKOXPA1I&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_27&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUldlUblrD4jYpvOKQraOFp_SHO6rdPBJW8smT8M5l0GcA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1067]
+              - link "₹369 ₹2,499 85% off" [ref=e1068] [cursor=pointer]:
+                - /url: /bruton-hockey-931-sports-running-shoes-men/p/itmf38ca3d6109fb?pid=SHOH9SXYZKZJ7YSK&lid=LSTSHOH9SXYZKZJ7YSKOXPA1I&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_27&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUldlUblrD4jYpvOKQraOFp_SHO6rdPBJW8smT8M5l0GcA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1069] [cursor=pointer]:
+                  - generic [ref=e1070] [cursor=pointer]: ₹369
+                  - generic [ref=e1071] [cursor=pointer]: ₹2,499
+                  - generic [ref=e1073] [cursor=pointer]: 85% off
+              - generic [ref=e1076]: Top Discount of the Sale
+          - generic [ref=e1078]:
+            - link [ref=e1079] [cursor=pointer]:
+              - /url: /ajanta-casual-pvc-waterproof-loafers-men/p/itm22a6d44868c72?pid=SHOGFQGG5CH8SE5B&lid=LSTSHOGFQGG5CH8SE5BNYLYGL&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_28&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUldaZtCmd_AzQTC9g5_PDU-6ukD18MTQmpo7hpTCjMdOg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1086] [cursor=pointer]
+            - generic [ref=e1088]:
+              - img [ref=e1090]
+              - generic [ref=e1093]: AJANTA
+              - link "Casual PVC Waterproof Loafers For Men" [ref=e1094] [cursor=pointer]:
+                - /url: /ajanta-casual-pvc-waterproof-loafers-men/p/itm22a6d44868c72?pid=SHOGFQGG5CH8SE5B&lid=LSTSHOGFQGG5CH8SE5BNYLYGL&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_28&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUldaZtCmd_AzQTC9g5_PDU-6ukD18MTQmpo7hpTCjMdOg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1096]
+              - link "₹269 ₹699 61% off" [ref=e1097] [cursor=pointer]:
+                - /url: /ajanta-casual-pvc-waterproof-loafers-men/p/itm22a6d44868c72?pid=SHOGFQGG5CH8SE5B&lid=LSTSHOGFQGG5CH8SE5BNYLYGL&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_28&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUldaZtCmd_AzQTC9g5_PDU-6ukD18MTQmpo7hpTCjMdOg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1098] [cursor=pointer]:
+                  - generic [ref=e1099] [cursor=pointer]: ₹269
+                  - generic [ref=e1100] [cursor=pointer]: ₹699
+                  - generic [ref=e1102] [cursor=pointer]: 61% off
+              - generic [ref=e1105]: Top Discount of the Sale
+        - generic [ref=e1107]:
+          - generic [ref=e1109]:
+            - link [ref=e1110] [cursor=pointer]:
+              - /url: /layasa-new-fashion-sneakers-men/p/itm575dc09f53704?pid=SHOHBHYX9UD9JZHZ&lid=LSTSHOHBHYX9UD9JZHZG33ZUI&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_29&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHBHYX9UD9JZHZ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1117] [cursor=pointer]
+            - generic [ref=e1119]:
+              - generic [ref=e1120]: Layasa
+              - link "Layasa New Fashion Sneakers For Men" [ref=e1121] [cursor=pointer]:
+                - /url: /layasa-new-fashion-sneakers-men/p/itm575dc09f53704?pid=SHOHBHYX9UD9JZHZ&lid=LSTSHOHBHYX9UD9JZHZG33ZUI&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_29&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHBHYX9UD9JZHZ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1123]
+              - link "₹500 ₹999 49% off" [ref=e1124] [cursor=pointer]:
+                - /url: /layasa-new-fashion-sneakers-men/p/itm575dc09f53704?pid=SHOHBHYX9UD9JZHZ&lid=LSTSHOHBHYX9UD9JZHZG33ZUI&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_29&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHBHYX9UD9JZHZ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1125] [cursor=pointer]:
+                  - generic [ref=e1126] [cursor=pointer]: ₹500
+                  - generic [ref=e1127] [cursor=pointer]: ₹999
+                  - generic [ref=e1129] [cursor=pointer]: 49% off
+              - generic [ref=e1132]: Top Discount of the Sale
+          - generic [ref=e1134]:
+            - link [ref=e1135] [cursor=pointer]:
+              - /url: /heels-county-causal-loafers-men/p/itm779a2a786f813?pid=SHOH5Z8QHEV2GDEE&lid=LSTSHOH5Z8QHEV2GDEEGFFAR2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_30&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH5Z8QHEV2GDEE.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1142] [cursor=pointer]
+            - generic [ref=e1144]:
+              - generic [ref=e1145]: Heels County
+              - link "Causal Loafers For Men" [ref=e1146] [cursor=pointer]:
+                - /url: /heels-county-causal-loafers-men/p/itm779a2a786f813?pid=SHOH5Z8QHEV2GDEE&lid=LSTSHOH5Z8QHEV2GDEEGFFAR2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_30&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH5Z8QHEV2GDEE.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹847 ₹4,999 83% off" [ref=e1147] [cursor=pointer]:
+                - /url: /heels-county-causal-loafers-men/p/itm779a2a786f813?pid=SHOH5Z8QHEV2GDEE&lid=LSTSHOH5Z8QHEV2GDEEGFFAR2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_30&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH5Z8QHEV2GDEE.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1148] [cursor=pointer]:
+                  - generic [ref=e1149] [cursor=pointer]: ₹847
+                  - generic [ref=e1150] [cursor=pointer]: ₹4,999
+                  - generic [ref=e1152] [cursor=pointer]: 83% off
+              - generic [ref=e1155]: Top Discount of the Sale
+          - generic [ref=e1157]:
+            - link [ref=e1158] [cursor=pointer]:
+              - /url: /clymb-es-21-hockey-walking-outdoor-gym-traning-running-shoes-men/p/itmc8c6664334d1c?pid=SHOGRH5CHNGN3B5X&lid=LSTSHOGRH5CHNGN3B5XB00IFK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_31&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmGhr2hOpBeF7yclrkEYWrHCjGBP6NXDu6Spbm0JYTUvA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1165] [cursor=pointer]
+            - generic [ref=e1167]:
+              - img [ref=e1169]
+              - generic [ref=e1172]: CLYMB
+              - link "ES-21 Hockey Walking/Outdoor/Gym & Traning Running Shoe..." [ref=e1173] [cursor=pointer]:
+                - /url: /clymb-es-21-hockey-walking-outdoor-gym-traning-running-shoes-men/p/itmc8c6664334d1c?pid=SHOGRH5CHNGN3B5X&lid=LSTSHOGRH5CHNGN3B5XB00IFK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_31&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmGhr2hOpBeF7yclrkEYWrHCjGBP6NXDu6Spbm0JYTUvA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1175]
+              - link "₹377 ₹1,999 81% off" [ref=e1176] [cursor=pointer]:
+                - /url: /clymb-es-21-hockey-walking-outdoor-gym-traning-running-shoes-men/p/itmc8c6664334d1c?pid=SHOGRH5CHNGN3B5X&lid=LSTSHOGRH5CHNGN3B5XB00IFK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_31&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUmGhr2hOpBeF7yclrkEYWrHCjGBP6NXDu6Spbm0JYTUvA%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1177] [cursor=pointer]:
+                  - generic [ref=e1178] [cursor=pointer]: ₹377
+                  - generic [ref=e1179] [cursor=pointer]: ₹1,999
+                  - generic [ref=e1181] [cursor=pointer]: 81% off
+              - generic [ref=e1184]: Top Discount of the Sale
+          - generic [ref=e1186]:
+            - link [ref=e1187] [cursor=pointer]:
+              - /url: /action-athleo-atg-496-comfortable-lightweight-breathable-sports-lace-up-running-shoes-men/p/itm90d871abea385?pid=SHOGE95CM58GQ7XK&lid=LSTSHOGE95CM58GQ7XK54HBNS&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_32&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUm-j3r18lTKiRgbGWXx6EdfAtBVRNC_mX6exVaVOGES8EKsf8s6I2Oz2HOgbXTo_9U%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1194] [cursor=pointer]
+            - generic [ref=e1196]:
+              - img [ref=e1198]
+              - generic [ref=e1201]: action
+              - link "Athleo ATG 496 Comfortable Lightweight Breathable Sport..." [ref=e1202] [cursor=pointer]:
+                - /url: /action-athleo-atg-496-comfortable-lightweight-breathable-sports-lace-up-running-shoes-men/p/itm90d871abea385?pid=SHOGE95CM58GQ7XK&lid=LSTSHOGE95CM58GQ7XK54HBNS&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_32&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUm-j3r18lTKiRgbGWXx6EdfAtBVRNC_mX6exVaVOGES8EKsf8s6I2Oz2HOgbXTo_9U%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1204]
+              - link "₹778 ₹2,799 72% off" [ref=e1205] [cursor=pointer]:
+                - /url: /action-athleo-atg-496-comfortable-lightweight-breathable-sports-lace-up-running-shoes-men/p/itm90d871abea385?pid=SHOGE95CM58GQ7XK&lid=LSTSHOGE95CM58GQ7XK54HBNS&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_32&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUm-j3r18lTKiRgbGWXx6EdfAtBVRNC_mX6exVaVOGES8EKsf8s6I2Oz2HOgbXTo_9U%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1206] [cursor=pointer]:
+                  - generic [ref=e1207] [cursor=pointer]: ₹778
+                  - generic [ref=e1208] [cursor=pointer]: ₹2,799
+                  - generic [ref=e1210] [cursor=pointer]: 72% off
+              - generic [ref=e1213]: Top Discount of the Sale
+        - generic [ref=e1215]:
+          - generic [ref=e1217]:
+            - link [ref=e1218] [cursor=pointer]:
+              - /url: /birde-zeng-stylish-memory-foam-soft-comfortable-lightweight-regular-wear-walking-shoes-men/p/itmf3b3e0f339a49?pid=SHOH83WFUZPFGBC8&lid=LSTSHOH83WFUZPFGBC83LK2VO&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_33&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH83WFUZPFGBC8.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1225] [cursor=pointer]
+            - generic [ref=e1227]:
+              - generic [ref=e1228]: Birde
+              - link "ZenG Stylish Memory Foam Soft Comfortable LightWeight R..." [ref=e1229] [cursor=pointer]:
+                - /url: /birde-zeng-stylish-memory-foam-soft-comfortable-lightweight-regular-wear-walking-shoes-men/p/itmf3b3e0f339a49?pid=SHOH83WFUZPFGBC8&lid=LSTSHOH83WFUZPFGBC83LK2VO&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_33&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH83WFUZPFGBC8.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1231]
+              - link "₹377 ₹999 62% off" [ref=e1232] [cursor=pointer]:
+                - /url: /birde-zeng-stylish-memory-foam-soft-comfortable-lightweight-regular-wear-walking-shoes-men/p/itmf3b3e0f339a49?pid=SHOH83WFUZPFGBC8&lid=LSTSHOH83WFUZPFGBC83LK2VO&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_33&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH83WFUZPFGBC8.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1233] [cursor=pointer]:
+                  - generic [ref=e1234] [cursor=pointer]: ₹377
+                  - generic [ref=e1235] [cursor=pointer]: ₹999
+                  - generic [ref=e1237] [cursor=pointer]: 62% off
+              - generic [ref=e1240]: Top Discount of the Sale
+          - generic [ref=e1242]:
+            - link [ref=e1243] [cursor=pointer]:
+              - /url: /bruton-lite-sports-shoes-running-men/p/itm6a11d96a24e7f?pid=SHOGZHWZEHR9HBQB&lid=LSTSHOGZHWZEHR9HBQBKKFJHM&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_34&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGZHWZEHR9HBQB.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1250] [cursor=pointer]
+            - generic [ref=e1252]:
+              - generic [ref=e1253]: BRUTON
+              - link "Lite Sports Shoes Running Shoes For Men" [ref=e1254] [cursor=pointer]:
+                - /url: /bruton-lite-sports-shoes-running-men/p/itm6a11d96a24e7f?pid=SHOGZHWZEHR9HBQB&lid=LSTSHOGZHWZEHR9HBQBKKFJHM&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_34&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGZHWZEHR9HBQB.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1256]
+              - link "₹400 ₹2,499 83% off" [ref=e1257] [cursor=pointer]:
+                - /url: /bruton-lite-sports-shoes-running-men/p/itm6a11d96a24e7f?pid=SHOGZHWZEHR9HBQB&lid=LSTSHOGZHWZEHR9HBQBKKFJHM&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_34&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGZHWZEHR9HBQB.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1258] [cursor=pointer]:
+                  - generic [ref=e1259] [cursor=pointer]: ₹400
+                  - generic [ref=e1260] [cursor=pointer]: ₹2,499
+                  - generic [ref=e1262] [cursor=pointer]: 83% off
+              - generic [ref=e1265]: Top Discount of the Sale
+          - generic [ref=e1267]:
+            - link [ref=e1268] [cursor=pointer]:
+              - /url: /hotstyle-smoke-grey-10-training-gym-shoes-men/p/itmdc25aa4057765?pid=SHOHFY3P9A7BZM5Z&lid=LSTSHOHFY3P9A7BZM5ZAZAGZ7&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_35&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFY3P9A7BZM5Z.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1275] [cursor=pointer]
+            - generic [ref=e1277]:
+              - generic [ref=e1278]: HOTSTYLE
+              - link "SMOKE-GREY-10 Training & Gym Shoes For Men" [ref=e1279] [cursor=pointer]:
+                - /url: /hotstyle-smoke-grey-10-training-gym-shoes-men/p/itmdc25aa4057765?pid=SHOHFY3P9A7BZM5Z&lid=LSTSHOHFY3P9A7BZM5ZAZAGZ7&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_35&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFY3P9A7BZM5Z.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1281]
+              - link "₹377 ₹2,249 83% off" [ref=e1282] [cursor=pointer]:
+                - /url: /hotstyle-smoke-grey-10-training-gym-shoes-men/p/itmdc25aa4057765?pid=SHOHFY3P9A7BZM5Z&lid=LSTSHOHFY3P9A7BZM5ZAZAGZ7&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_35&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFY3P9A7BZM5Z.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1283] [cursor=pointer]:
+                  - generic [ref=e1284] [cursor=pointer]: ₹377
+                  - generic [ref=e1285] [cursor=pointer]: ₹2,249
+                  - generic [ref=e1287] [cursor=pointer]: 83% off
+              - generic [ref=e1290]: Top Discount of the Sale
+          - generic [ref=e1292]:
+            - link [ref=e1293] [cursor=pointer]:
+              - /url: /roadster-sneakers-men/p/itm1f5697e63a596?pid=SHOHFBHN2JAY7FFZ&lid=LSTSHOHFBHN2JAY7FFZOPAZPT&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_36&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFBHN2JAY7FFZ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1300] [cursor=pointer]
+            - generic [ref=e1302]:
+              - generic [ref=e1303]: Roadster
+              - link "Sneakers For Men" [ref=e1304] [cursor=pointer]:
+                - /url: /roadster-sneakers-men/p/itm1f5697e63a596?pid=SHOHFBHN2JAY7FFZ&lid=LSTSHOHFBHN2JAY7FFZOPAZPT&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_36&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFBHN2JAY7FFZ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - link "₹1,036 ₹3,699 71% off" [ref=e1305] [cursor=pointer]:
+                - /url: /roadster-sneakers-men/p/itm1f5697e63a596?pid=SHOHFBHN2JAY7FFZ&lid=LSTSHOHFBHN2JAY7FFZOPAZPT&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_36&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOHFBHN2JAY7FFZ.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1306] [cursor=pointer]:
+                  - generic [ref=e1307] [cursor=pointer]: ₹1,036
+                  - generic [ref=e1308] [cursor=pointer]: ₹3,699
+                  - generic [ref=e1310] [cursor=pointer]: 71% off
+              - generic [ref=e1313]: Only few left
+        - generic [ref=e1315]:
+          - generic [ref=e1317]:
+            - link [ref=e1318] [cursor=pointer]:
+              - /url: /jactooz-new-attractive-casual-loafer-shoes-men-s-loafers-men/p/itmdbf7e9cd99063?pid=SHOGXHFPFZFUPXS5&lid=LSTSHOGXHFPFZFUPXS59YVVU2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_37&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnQnpHrGUQLBO30RjDGmOEMTy9L_o76v0odLLXZEZBNhg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1325] [cursor=pointer]
+            - generic [ref=e1327]:
+              - img [ref=e1329]
+              - generic [ref=e1332]: Jactooz
+              - link "JACTOOZ New Attractive Casual Loafer Shoes For Men's Lo..." [ref=e1333] [cursor=pointer]:
+                - /url: /jactooz-new-attractive-casual-loafer-shoes-men-s-loafers-men/p/itmdbf7e9cd99063?pid=SHOGXHFPFZFUPXS5&lid=LSTSHOGXHFPFZFUPXS59YVVU2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_37&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnQnpHrGUQLBO30RjDGmOEMTy9L_o76v0odLLXZEZBNhg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1335]
+              - link "₹492 ₹999 50% off" [ref=e1336] [cursor=pointer]:
+                - /url: /jactooz-new-attractive-casual-loafer-shoes-men-s-loafers-men/p/itmdbf7e9cd99063?pid=SHOGXHFPFZFUPXS5&lid=LSTSHOGXHFPFZFUPXS59YVVU2&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_37&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUnQnpHrGUQLBO30RjDGmOEMTy9L_o76v0odLLXZEZBNhg%3D%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1337] [cursor=pointer]:
+                  - generic [ref=e1338] [cursor=pointer]: ₹492
+                  - generic [ref=e1339] [cursor=pointer]: ₹999
+                  - generic [ref=e1341] [cursor=pointer]: 50% off
+              - generic [ref=e1344]: Top Discount of the Sale
+          - generic [ref=e1346]:
+            - link [ref=e1347] [cursor=pointer]:
+              - /url: /atom-spring-edge-alpha-1-sneakers-men/p/itma9a531f57a35b?pid=SHOGHYV7YS48HV4D&lid=LSTSHOGHYV7YS48HV4DOAFS7K&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_38&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUl5Etde8VVrsY8g1rNkEqPn2mW7H8QgCr-U9RamjqIrL0hz9c-MSIoFe8xMxkfU6dM%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1354] [cursor=pointer]
+            - generic [ref=e1356]:
+              - img [ref=e1358]
+              - generic [ref=e1361]: ATOM
+              - link "Spring Edge Alpha 1 Sneakers For Men" [ref=e1362] [cursor=pointer]:
+                - /url: /atom-spring-edge-alpha-1-sneakers-men/p/itma9a531f57a35b?pid=SHOGHYV7YS48HV4D&lid=LSTSHOGHYV7YS48HV4DOAFS7K&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_38&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUl5Etde8VVrsY8g1rNkEqPn2mW7H8QgCr-U9RamjqIrL0hz9c-MSIoFe8xMxkfU6dM%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1364]
+              - link "₹1,099 ₹3,495 68% off" [ref=e1365] [cursor=pointer]:
+                - /url: /atom-spring-edge-alpha-1-sneakers-men/p/itma9a531f57a35b?pid=SHOGHYV7YS48HV4D&lid=LSTSHOGHYV7YS48HV4DOAFS7K&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_38&otracker=search&otracker1=search&fm=organic&iid=en_j0EbavfNwWbpksC7qRvKMcCwXKqo2cPlOay5hBQbhUl5Etde8VVrsY8g1rNkEqPn2mW7H8QgCr-U9RamjqIrL0hz9c-MSIoFe8xMxkfU6dM%3D&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1366] [cursor=pointer]:
+                  - generic [ref=e1367] [cursor=pointer]: ₹1,099
+                  - generic [ref=e1368] [cursor=pointer]: ₹3,495
+                  - generic [ref=e1370] [cursor=pointer]: 68% off
+              - generic [ref=e1373]: Top Discount of the Sale
+          - generic [ref=e1375]:
+            - link [ref=e1376] [cursor=pointer]:
+              - /url: /skechers-go-run-consistent-running-shoes-men/p/itm1f24dfa3df456?pid=SHOH4EJAVMHWVDEB&lid=LSTSHOH4EJAVMHWVDEB7BBHTK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_39&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH4EJAVMHWVDEB.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1383] [cursor=pointer]
+            - generic [ref=e1385]:
+              - generic [ref=e1386]: Skechers
+              - link "GO RUN CONSISTENT Running Shoes For Men" [ref=e1387] [cursor=pointer]:
+                - /url: /skechers-go-run-consistent-running-shoes-men/p/itm1f24dfa3df456?pid=SHOH4EJAVMHWVDEB&lid=LSTSHOH4EJAVMHWVDEB7BBHTK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_39&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH4EJAVMHWVDEB.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1389]
+              - link "₹2,502 ₹6,499 61% off" [ref=e1390] [cursor=pointer]:
+                - /url: /skechers-go-run-consistent-running-shoes-men/p/itm1f24dfa3df456?pid=SHOH4EJAVMHWVDEB&lid=LSTSHOH4EJAVMHWVDEB7BBHTK&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_39&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOH4EJAVMHWVDEB.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1391] [cursor=pointer]:
+                  - generic [ref=e1392] [cursor=pointer]: ₹2,502
+                  - generic [ref=e1393] [cursor=pointer]: ₹6,499
+                  - generic [ref=e1395] [cursor=pointer]: 61% off
+          - generic [ref=e1397]:
+            - link [ref=e1398] [cursor=pointer]:
+              - /url: /bersache-premium-sports-gym-trending-stylish-running-shoes-men/p/itmaca6912b14ab9?pid=SHOGM859X9GP86BH&lid=LSTSHOGM859X9GP86BH6HPGMQ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_40&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGM859X9GP86BH.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1405] [cursor=pointer]
+            - generic [ref=e1407]:
+              - generic [ref=e1408]: BERSACHE
+              - link "Premium Sports ,Gym, Trending, Stylish Running Shoes Fo..." [ref=e1409] [cursor=pointer]:
+                - /url: /bersache-premium-sports-gym-trending-stylish-running-shoes-men/p/itmaca6912b14ab9?pid=SHOGM859X9GP86BH&lid=LSTSHOGM859X9GP86BH6HPGMQ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_40&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGM859X9GP86BH.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+              - img [ref=e1411]
+              - link "₹574 ₹4,999 88% off" [ref=e1412] [cursor=pointer]:
+                - /url: /bersache-premium-sports-gym-trending-stylish-running-shoes-men/p/itmaca6912b14ab9?pid=SHOGM859X9GP86BH&lid=LSTSHOGM859X9GP86BH6HPGMQ&marketplace=FLIPKART&q=Shoes&store=osp&srno=s_1_40&otracker=search&otracker1=search&fm=organic&iid=adeb133a-7e03-4309-bfb5-ad83edf10ca3.SHOGM859X9GP86BH.SEARCH&ppt=None&ppn=None&ssid=4v9tia700w0000001761027453099&qH=a60ba1a7a56c9e00
+                - generic [ref=e1413] [cursor=pointer]:
+                  - generic [ref=e1414] [cursor=pointer]: ₹574
+                  - generic [ref=e1415] [cursor=pointer]: ₹4,999
+                  - generic [ref=e1417] [cursor=pointer]: 88% off
+              - generic [ref=e1420]: Top Discount of the Sale
+        - generic [ref=e1423]:
+          - generic [ref=e1424]: Page 1 of 26,023
+          - navigation [ref=e1425]:
+            - link "1" [ref=e1426] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=1
+            - link "2" [ref=e1427] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+            - link "3" [ref=e1428] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=3
+            - link "4" [ref=e1429] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=4
+            - link "5" [ref=e1430] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=5
+            - link "6" [ref=e1431] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=6
+            - link "7" [ref=e1432] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=7
+            - link "8" [ref=e1433] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=8
+            - link "9" [ref=e1434] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=9
+            - link "10" [ref=e1435] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=10
+            - link "Next" [ref=e1436] [cursor=pointer]:
+              - /url: /search?q=Shoes&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&page=2
+              - generic [ref=e1437] [cursor=pointer]: Next
+        - generic [ref=e1439]:
+          - generic [ref=e1440]: Did you find what you were looking for?
+          - generic [ref=e1441]:
+            - generic [ref=e1442] [cursor=pointer]: "Yes"
+            - generic [ref=e1443] [cursor=pointer]: "No"
+    - generic [ref=e1445]:
+      - generic [ref=e1446]: Reviews for Popular Footwear
+      - generic [ref=e1447]:
+        - generic [ref=e1448]:
+          - generic [ref=e1450]:
+            - img "aadi Synthetic Leather |Lightweight|Comfort|Summer|Trendy|Walking|Outdoor|Daily Use High Tops For Men"
+          - generic [ref=e1451]:
+            - link "1. aadi Synthetic Leather |Lig... 3.9 80,309 Ratings&5,190 Reviews ₹355 82% off" [ref=e1452] [cursor=pointer]:
+              - /url: /aadi-synthetic-leather-lightweight-comfort-summer-trendy-walking-outdoor-daily-use-high-tops-men/p/itm4328ff9836c98?pid=SHOGDFYGSJ9WENM4&marketplace=FLIPKART
+              - generic [ref=e1454] [cursor=pointer]: 1. aadi Synthetic Leather |Lig...
+              - generic [ref=e1455] [cursor=pointer]:
+                - generic [ref=e1456] [cursor=pointer]:
+                  - text: "3.9"
+                  - img [ref=e1457] [cursor=pointer]
+                - generic [ref=e1458] [cursor=pointer]:
+                  - generic [ref=e1459] [cursor=pointer]: 80,309 Ratings
+                  - generic [ref=e1460] [cursor=pointer]:
+                    - generic [ref=e1461] [cursor=pointer]: "&"
+                    - generic [ref=e1462] [cursor=pointer]: 5,190 Reviews
+              - generic [ref=e1464] [cursor=pointer]:
+                - generic [ref=e1465] [cursor=pointer]: ₹355
+                - generic [ref=e1467] [cursor=pointer]: 82% off
+            - list [ref=e1468]:
+              - listitem [ref=e1469]: "Colour: White, Grey"
+              - listitem [ref=e1470]: "Outer Material: Synthetic Leather"
+              - listitem [ref=e1471]: "Inner Material: Comfort Foam"
+        - generic [ref=e1472]:
+          - generic [ref=e1473]: Most Helpful Review
+          - generic [ref=e1475]:
+            - generic [ref=e1476]:
+              - generic [ref=e1477]:
+                - text: "4"
+                - img [ref=e1478]
+              - paragraph [ref=e1479]: Very Good
+            - generic [ref=e1483]:
+              - text: Nice shoes, looks like original puma shoes..
+              - text: Buy this shoes I am so happy 😊...
+            - generic [ref=e1485]:
+              - paragraph [ref=e1486]: Ankit Ranjan
+              - img [ref=e1487]
+              - paragraph [ref=e1491]:
+                - generic [ref=e1492]: Certified Buyer
+              - paragraph [ref=e1493]: Jul, 2022
+        - generic [ref=e1494]:
+          - generic [ref=e1495]: Recent Review
+          - generic [ref=e1497]:
+            - generic [ref=e1498]:
+              - generic [ref=e1499]:
+                - text: "5"
+                - img [ref=e1500]
+              - paragraph [ref=e1501]: Just wow!
+            - generic [ref=e1505]:
+              - text: Awesome
+              - text: Thanks 👍 you flipkart
+            - generic [ref=e1507]:
+              - paragraph [ref=e1508]: Flipkart Customer
+              - img [ref=e1509]
+              - paragraph [ref=e1513]:
+                - generic [ref=e1514]: Certified Buyer
+              - paragraph [ref=e1515]: 3 days ago
+      - generic [ref=e1516]:
+        - generic [ref=e1517]:
+          - generic [ref=e1519]:
+            - img "BRUTON HOCKEY-931 | Sports Running Shoes For Men"
+          - generic [ref=e1520]:
+            - link "2. BRUTON HOCKEY-931 | Sports ... 3.9 1,307 Ratings&50 Reviews ₹369 85% off" [ref=e1521] [cursor=pointer]:
+              - /url: /bruton-hockey-931-sports-running-shoes-men/p/itmf38ca3d6109fb?pid=SHOH9SXYZKZJ7YSK&marketplace=FLIPKART
+              - generic [ref=e1523] [cursor=pointer]: 2. BRUTON HOCKEY-931 | Sports ...
+              - generic [ref=e1524] [cursor=pointer]:
+                - generic [ref=e1525] [cursor=pointer]:
+                  - text: "3.9"
+                  - img [ref=e1526] [cursor=pointer]
+                - generic [ref=e1527] [cursor=pointer]:
+                  - generic [ref=e1528] [cursor=pointer]: 1,307 Ratings
+                  - generic [ref=e1529] [cursor=pointer]:
+                    - generic [ref=e1530] [cursor=pointer]: "&"
+                    - generic [ref=e1531] [cursor=pointer]: 50 Reviews
+              - generic [ref=e1533] [cursor=pointer]:
+                - generic [ref=e1534] [cursor=pointer]: ₹369
+                - generic [ref=e1536] [cursor=pointer]: 85% off
+            - list [ref=e1537]:
+              - listitem [ref=e1538]: "Colour: Blue"
+              - listitem [ref=e1539]: 1 inch Heel Height
+              - listitem [ref=e1540]: "Outer Material: EVA"
+        - generic [ref=e1541]:
+          - generic [ref=e1542]: Most Helpful Review
+          - generic [ref=e1544]:
+            - generic [ref=e1545]:
+              - generic [ref=e1546]:
+                - text: "3"
+                - img [ref=e1547]
+              - paragraph [ref=e1548]: Just okay
+            - generic [ref=e1552]: Well product is fine it's linked to use
+            - generic [ref=e1554]:
+              - paragraph [ref=e1555]: Souvik Subba
+              - img [ref=e1556]
+              - paragraph [ref=e1560]:
+                - generic [ref=e1561]: Certified Buyer
+              - paragraph [ref=e1562]: 3 months ago
+        - generic [ref=e1563]:
+          - generic [ref=e1564]: Recent Review
+          - generic [ref=e1566]:
+            - generic [ref=e1567]:
+              - generic [ref=e1568]:
+                - text: "5"
+                - img [ref=e1569]
+              - paragraph [ref=e1570]: Simply awesome
+            - generic [ref=e1574]: Nice shoes... Comfortable
+            - generic [ref=e1576]:
+              - paragraph [ref=e1577]: Abdul Hakim
+              - img [ref=e1578]
+              - paragraph [ref=e1582]:
+                - generic [ref=e1583]: Certified Buyer
+              - paragraph [ref=e1584]: 1 day ago
+      - generic [ref=e1585]:
+        - generic [ref=e1586]:
+          - generic [ref=e1588]:
+            - img "ADIDAS Fuseo M Running Shoes For Men"
+          - generic [ref=e1589]:
+            - link "3. ADIDAS Fuseo M Running Shoe... 4.1 9,753 Ratings&560 Reviews ₹1,043 71% off" [ref=e1590] [cursor=pointer]:
+              - /url: /adidas-fuseo-m-running-shoes-men/p/itm666a9bdf84c85?pid=SHOGZT65HZ2QYMFJ&marketplace=FLIPKART
+              - generic [ref=e1592] [cursor=pointer]: 3. ADIDAS Fuseo M Running Shoe...
+              - generic [ref=e1593] [cursor=pointer]:
+                - generic [ref=e1594] [cursor=pointer]:
+                  - text: "4.1"
+                  - img [ref=e1595] [cursor=pointer]
+                - generic [ref=e1596] [cursor=pointer]:
+                  - generic [ref=e1597] [cursor=pointer]: 9,753 Ratings
+                  - generic [ref=e1598] [cursor=pointer]:
+                    - generic [ref=e1599] [cursor=pointer]: "&"
+                    - generic [ref=e1600] [cursor=pointer]: 560 Reviews
+              - generic [ref=e1602] [cursor=pointer]:
+                - generic [ref=e1603] [cursor=pointer]: ₹1,043
+                - generic [ref=e1605] [cursor=pointer]: 71% off
+            - list [ref=e1606]:
+              - listitem [ref=e1607]: "Colour: Black"
+              - listitem [ref=e1608]: "Outer Material: Synthetic"
+              - listitem [ref=e1609]: "Closure: Lace-Ups"
+        - generic [ref=e1610]:
+          - generic [ref=e1611]: Most Helpful Review
+          - generic [ref=e1613]:
+            - generic [ref=e1614]:
+              - generic [ref=e1615]:
+                - text: "4"
+                - img [ref=e1616]
+              - paragraph [ref=e1617]: Value-for-money
+            - generic [ref=e1620]:
+              - generic [ref=e1621]: Good product but under 1000 or 1200 there are many better products available already....this is just a basic shoe....not comfort...nothing....just the name o...
+              - generic [ref=e1623] [cursor=pointer]: Read full review
+            - generic [ref=e1625]:
+              - paragraph [ref=e1626]: Snehil Kumar
+              - img [ref=e1627]
+              - paragraph [ref=e1631]:
+                - generic [ref=e1632]: Certified Buyer
+              - paragraph [ref=e1633]: 8 months ago
+        - generic [ref=e1634]:
+          - generic [ref=e1635]: Recent Review
+          - generic [ref=e1637]:
+            - generic [ref=e1638]:
+              - generic [ref=e1639]:
+                - text: "5"
+                - img [ref=e1640]
+              - paragraph [ref=e1641]: Terrific purchase
+            - generic [ref=e1645]: Very comfortable and beautiful shoes 👟
+            - generic [ref=e1647]:
+              - paragraph [ref=e1648]: Uttam Yadav
+              - img [ref=e1649]
+              - paragraph [ref=e1653]:
+                - generic [ref=e1654]: Certified Buyer
+              - paragraph [ref=e1655]: 1 day ago
+      - generic [ref=e1656]:
+        - generic [ref=e1657]:
+          - generic [ref=e1659]:
+            - img "STRANGER BROTHERS Sneakers For Men | Casual Shoes For Men | White Trendy Sneakers For Men Sneakers For Men"
+          - generic [ref=e1660]:
+            - link "4. STRANGER BROTHERS Sneakers ... 3.7 534 Ratings&17 Reviews ₹459 54% off" [ref=e1661] [cursor=pointer]:
+              - /url: /stranger-brothers-sneakers-men-casual-shoes-white-trendy/p/itma3e460a703ae6?pid=SHOHESYNGWHTWWXP&marketplace=FLIPKART
+              - generic [ref=e1663] [cursor=pointer]: 4. STRANGER BROTHERS Sneakers ...
+              - generic [ref=e1664] [cursor=pointer]:
+                - generic [ref=e1665] [cursor=pointer]:
+                  - text: "3.7"
+                  - img [ref=e1666] [cursor=pointer]
+                - generic [ref=e1667] [cursor=pointer]:
+                  - generic [ref=e1668] [cursor=pointer]: 534 Ratings
+                  - generic [ref=e1669] [cursor=pointer]:
+                    - generic [ref=e1670] [cursor=pointer]: "&"
+                    - generic [ref=e1671] [cursor=pointer]: 17 Reviews
+              - generic [ref=e1673] [cursor=pointer]:
+                - generic [ref=e1674] [cursor=pointer]: ₹459
+                - generic [ref=e1676] [cursor=pointer]: 54% off
+            - list [ref=e1677]:
+              - listitem [ref=e1678]: "Colour: White, White"
+              - listitem [ref=e1679]: "Outer Material: Synthetic"
+              - listitem [ref=e1680]: "Closure: Lace-Ups"
+        - generic [ref=e1681]:
+          - generic [ref=e1682]: Most Helpful Review
+          - generic [ref=e1684]:
+            - generic [ref=e1685]:
+              - generic [ref=e1686]:
+                - text: "4"
+                - img [ref=e1687]
+              - paragraph [ref=e1688]: Good quality product
+            - generic [ref=e1692]: Good shoes for this price.
+            - generic [ref=e1694]:
+              - paragraph [ref=e1695]: Aman Jobin
+              - img [ref=e1696]
+              - paragraph [ref=e1700]:
+                - generic [ref=e1701]: Certified Buyer
+              - paragraph [ref=e1702]: 1 month ago
+        - generic [ref=e1703]:
+          - generic [ref=e1704]: Recent Review
+          - generic [ref=e1706]:
+            - generic [ref=e1707]:
+              - generic [ref=e1708]:
+                - text: "1"
+                - img [ref=e1709]
+              - paragraph [ref=e1710]: Absolute rubbish!
+            - generic [ref=e1714]:
+              - text: This quality is very bad
+              - text: You can One time is this shoes
+            - generic [ref=e1716]:
+              - paragraph [ref=e1717]: Flipkart Customer
+              - img [ref=e1718]
+              - paragraph [ref=e1722]:
+                - generic [ref=e1723]: Certified Buyer
+              - paragraph [ref=e1724]: 4 days ago
+      - generic [ref=e1725]:
+        - generic [ref=e1726]:
+          - generic [ref=e1728]:
+            - img "action Athleo ATG 496 Comfortable Lightweight Breathable Sports Lace Up Running Shoes For Men"
+          - generic [ref=e1729]:
+            - link "5. action Athleo ATG 496 Comfo... 4.1 46,273 Ratings&2,689 Reviews ₹778 72% off" [ref=e1730] [cursor=pointer]:
+              - /url: /action-athleo-atg-496-comfortable-lightweight-breathable-sports-lace-up-running-shoes-men/p/itm90d871abea385?pid=SHOGE95CM58GQ7XK&marketplace=FLIPKART
+              - generic [ref=e1732] [cursor=pointer]: 5. action Athleo ATG 496 Comfo...
+              - generic [ref=e1733] [cursor=pointer]:
+                - generic [ref=e1734] [cursor=pointer]:
+                  - text: "4.1"
+                  - img [ref=e1735] [cursor=pointer]
+                - generic [ref=e1736] [cursor=pointer]:
+                  - generic [ref=e1737] [cursor=pointer]: 46,273 Ratings
+                  - generic [ref=e1738] [cursor=pointer]:
+                    - generic [ref=e1739] [cursor=pointer]: "&"
+                    - generic [ref=e1740] [cursor=pointer]: 2,689 Reviews
+              - generic [ref=e1742] [cursor=pointer]:
+                - generic [ref=e1743] [cursor=pointer]: ₹778
+                - generic [ref=e1745] [cursor=pointer]: 72% off
+            - list [ref=e1746]:
+              - listitem [ref=e1747]: "Colour: White"
+              - listitem [ref=e1748]: "Outer Material: Mesh"
+              - listitem [ref=e1749]: "Inner Material: Sports Shoes is constructed using breathable mesh material. This enhances air circulation, allowing heat to escape and maintaining a cool environment during workouts or sports."
+        - generic [ref=e1750]:
+          - generic [ref=e1751]: Most Helpful Review
+          - generic [ref=e1753]:
+            - generic [ref=e1754]:
+              - generic [ref=e1755]:
+                - text: "5"
+                - img [ref=e1756]
+              - paragraph [ref=e1757]: Must buy!
+            - generic [ref=e1761]: Quality is superb 👌👌👌👌
+            - generic [ref=e1763]:
+              - paragraph [ref=e1764]: Parveen Bibiyan
+              - img [ref=e1765]
+              - paragraph [ref=e1769]:
+                - generic [ref=e1770]: Certified Buyer
+              - paragraph [ref=e1771]: Nov, 2022
+        - generic [ref=e1772]:
+          - generic [ref=e1773]: Recent Review
+          - generic [ref=e1775]:
+            - generic [ref=e1776]:
+              - generic [ref=e1777]:
+                - text: "5"
+                - img [ref=e1778]
+              - paragraph [ref=e1779]: Excellent
+            - generic [ref=e1783]: It is Very nice, high quality, high endurance , high durability and comfortable (for 3 days only).
+            - generic [ref=e1785]:
+              - paragraph [ref=e1786]: Trupti Ranjan Lenka
+              - img [ref=e1787]
+              - paragraph [ref=e1791]:
+                - generic [ref=e1792]: Certified Buyer
+              - paragraph [ref=e1793]: Today
+  - contentinfo [ref=e1794]:
+    - generic [ref=e1796]:
+      - generic [ref=e1797]:
+        - generic [ref=e1798]:
+          - generic [ref=e1799]: ABOUT
+          - link "Contact Us" [ref=e1800] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e1801] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e1802] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e1803] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e1804] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e1805] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e1806]:
+          - generic [ref=e1807]: GROUP COMPANIES
+          - link "Myntra" [ref=e1808] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e1809] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e1810] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e1811]:
+          - generic [ref=e1812]: HELP
+          - link "Payments" [ref=e1813] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e1814] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e1815] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e1816] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e1817]:
+          - generic [ref=e1818]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e1819] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e1820] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e1821] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e1822] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e1823] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e1824] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e1825] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+        - generic [ref=e1827]:
+          - generic [ref=e1829]: "Mail Us:"
+          - generic [ref=e1832]:
+            - paragraph [ref=e1833]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1834]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1835]: Clove Embassy Tech Village,
+            - paragraph [ref=e1836]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1837]: Bengaluru, 560103,
+            - paragraph [ref=e1838]: Karnataka, India
+          - generic [ref=e1839]: Social
+          - generic [ref=e1840]:
+            - link [ref=e1842] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e1843] [cursor=pointer]
+            - link [ref=e1845] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e1846] [cursor=pointer]
+            - link [ref=e1848] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e1849] [cursor=pointer]
+            - link [ref=e1851] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e1852] [cursor=pointer]
+        - generic [ref=e1854]:
+          - generic [ref=e1856]: "Registered Office Address:"
+          - generic [ref=e1859]:
+            - paragraph [ref=e1860]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1861]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1862]: Clove Embassy Tech Village,
+            - paragraph [ref=e1863]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1864]: Bengaluru, 560103,
+            - paragraph [ref=e1865]: Karnataka, India
+            - paragraph [ref=e1866]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e1867]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e1868] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e1869] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e1871]:
+        - generic [ref=e1872]:
+          - img [ref=e1873]
+          - link "Become a Seller" [ref=e1874] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+            - generic [ref=e1875] [cursor=pointer]: Become a Seller
+        - generic [ref=e1876]:
+          - img [ref=e1877]
+          - link "Advertise" [ref=e1878] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+            - generic [ref=e1879] [cursor=pointer]: Advertise
+        - generic [ref=e1880]:
+          - img [ref=e1881]
+          - link "Gift Cards" [ref=e1882] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+            - generic [ref=e1883] [cursor=pointer]: Gift Cards
+        - generic [ref=e1884]:
+          - img [ref=e1885]
+          - link "Help Center" [ref=e1886] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+            - generic [ref=e1887] [cursor=pointer]: Help Center
+        - generic [ref=e1888]:
+          - text: © 2007-2025
+          - generic [ref=e1889]: Flipkart.com
+        - img [ref=e1890]
+```

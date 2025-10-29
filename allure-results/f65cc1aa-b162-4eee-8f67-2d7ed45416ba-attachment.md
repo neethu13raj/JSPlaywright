@@ -1,0 +1,93 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - link "Home" [ref=e3] [cursor=pointer]:
+    - /url: /demo
+    - button "Home" [ref=e4] [cursor=pointer]
+  - group "[Dummy Controls]" [ref=e6]:
+    - generic [ref=e8]: "[Dummy Controls]"
+    - generic [ref=e10]:
+      - heading "Work on these below dummy controls to learn automation testing" [level=3] [ref=e11]
+      - text: "Find the hidden text below:"
+      - generic [ref=e12]:
+        - generic [ref=e13]: Full Name
+        - textbox [ref=e14]: Mary
+      - generic [ref=e15]:
+        - generic [ref=e16]: Email
+        - textbox "Email" [ref=e17]: mary@gmail.com
+      - generic [ref=e18]:
+        - generic [ref=e19]: "Telephone:"
+        - textbox "Telephone:" [ref=e20]: "5678905432"
+      - generic [ref=e21]:
+        - generic [ref=e22]: "Fax No.:"
+        - textbox "Fax No.:" [disabled] [ref=e23]
+      - generic [ref=e24]:
+        - generic [ref=e25]: "Upload your profile:"
+        - button "Choose File" [ref=e26]
+      - generic [ref=e27]:
+        - generic [ref=e28]: "Gender:"
+        - combobox [ref=e29]:
+          - option "Select:"
+          - option "Male" [selected]
+          - option "Female"
+          - option "Not Applicable"
+      - generic [ref=e30]:
+        - generic [ref=e31]: "Years of Experience:"
+        - radio [ref=e32]
+        - text: "1"
+        - radio [ref=e33]
+        - text: "2"
+        - radio [ref=e34]
+        - text: "3"
+        - radio [checked] [ref=e35]
+        - text: "4"
+        - radio [ref=e36]
+        - text: "5"
+        - radio [ref=e37]
+        - text: "6"
+        - radio [ref=e38]
+        - text: "7"
+        - radio [ref=e39]
+        - text: Above 7
+      - generic [ref=e40]:
+        - generic [ref=e41]: "Skills:"
+        - checkbox [checked] [active] [ref=e42]
+        - text: ManualTesting
+        - checkbox [ref=e43]
+        - text: AutomationTesting
+        - checkbox [ref=e44]
+        - text: TestNG
+        - checkbox [ref=e45]
+        - text: API
+        - checkbox [ref=e46]
+        - text: HTML
+        - checkbox [ref=e47]
+        - text: Java
+        - checkbox [ref=e48]
+        - text: C#
+      - generic [ref=e49]: "Automation Tools:"
+      - listbox "Automation Tools:" [ref=e50]:
+        - option "Selenium" [ref=e51]
+        - option "Cypress" [selected] [ref=e52]
+        - option "WebdriverIO" [ref=e53]
+        - option "Protractor" [selected] [ref=e54]
+        - option "Jenkins" [ref=e55]
+        - option "Docker" [ref=e56]
+        - option "Postman" [ref=e57]
+        - option "TestStackWhite" [ref=e58]
+        - option "JMeter" [ref=e59]
+        - option "CodedUI" [ref=e60]
+      - button "Submit" [ref=e62] [cursor=pointer]
+      - text: "Note: Please make sure your details are correct before submitting form!"
+      - link "Tutorials!" [ref=e64] [cursor=pointer]:
+        - /url: http://www.qavalidation.com
+  - contentinfo [ref=e65]:
+    - paragraph [ref=e66]:
+      - text: Powered by
+      - link "qavalidation" [ref=e67] [cursor=pointer]:
+        - /url: https://qavalidation.com
+      - text: and
+      - link "qavbox" [ref=e68] [cursor=pointer]:
+        - /url: https://bit.ly/youtube-qavbox
+```

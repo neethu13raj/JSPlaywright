@@ -1,0 +1,19 @@
+[
+  'Air IndiaAI-2771',
+  'Air IndiaAI-2471',
+  'Air IndiaAI-2481',
+  'Air IndiaAI-2773',
+  'Air IndiaAI-2411',
+  'Air IndiaAI-2677 | AI-2403',
+  'Air IndiaAI-2677 | AI-2727',
+  'Air IndiaAI-2930 | AI-2400',
+  'Air IndiaAI-2424 | AI-2400',
+  'Air IndiaAI-2928 | AI-2764'
+]
+[
+  '₹26,664', '₹27,344',
+  '₹29,107', '₹35,363',
+  '₹36,268', '₹40,963',
+  '₹42,861', '₹43,913',
+  '₹43,913', '₹44,975'
+]

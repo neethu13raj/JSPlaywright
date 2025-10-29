@@ -1,40 +1,40 @@
 import {expect, test} from '@playwright/test'
 
-//test('Playwright practice', async({page}) => {
+test('Playwright practice', async({page}) => {
 
-    // await page.goto("https://testautomationpractice.blogspot.com/")
+    await page.goto("https://testautomationpractice.blogspot.com/")
 
-    // await expect(page.getByPlaceholder("Enter Name")).toBeEmpty()
-    // await page.getByPlaceholder("Enter Name").fill("Maya")
-    // await expect(page.getByPlaceholder("Enter Name")).toBeEditable()
-    // await expect(page.getByPlaceholder("Enter Name")).toHaveValue('Maya')
-    // await page.getByRole('textbox', { name: 'Email'}).fill("abcd")
-    // await page.getByRole('textbox', {name: 'Phone'}).fill("34345435")
-    // await page.getByRole('textbox', {name: 'Address:'}).fill("asdasd sadasd sadasd")
+    await expect(page.getByPlaceholder("Enter Name")).toBeEmpty()
+    await page.getByPlaceholder("Enter Name").fill("Maya")
+    await expect(page.getByPlaceholder("Enter Name")).toBeEditable()
+    await expect(page.getByPlaceholder("Enter Name")).toHaveValue('Maya')
+    await page.getByRole('textbox', { name: 'Email'}).fill("abcd")
+    await page.getByRole('textbox', {name: 'Phone'}).fill("34345435")
+    await page.getByRole('textbox', {name: 'Address:'}).fill("asdasd sadasd sadasd")
 
-    // await page.getByRole('radio', {name: 'Female'}).check()
-    // await page.getByRole('checkbox', {name: 'Monday'}).check()
-    // await page.getByRole('checkbox', {name: 'Saturday'}).check()
+    await page.getByRole('radio', {name: 'Female'}).check()
+    await page.getByRole('checkbox', {name: 'Monday'}).check()
+    await page.getByRole('checkbox', {name: 'Saturday'}).check()
 
-    // await page.getByRole('combobox', {name: 'Country'}).selectOption('Canada')
-    // await page.getByRole('listbox', {name: 'Colors'}).selectOption(['Red','Green'])
-    // await page.getByRole('listbox', {name: 'Sorted List'}).selectOption(['Cat', 'Dog'])
+    await page.getByRole('combobox', {name: 'Country'}).selectOption('Canada')
+    await page.getByRole('listbox', {name: 'Colors'}).selectOption(['Red','Green'])
+    await page.getByRole('listbox', {name: 'Sorted List'}).selectOption(['Cat', 'Dog'])
 
-    // await page.locator('//input[@id="datepicker"  ]').click()
-    // await page.locator('//a[@data-date="10"]').click()
+    await page.locator('//input[@id="datepicker"  ]').click()
+    await page.locator('//a[@data-date="10"]').click()
 
-    // await page.getByPlaceholder("Start Date").click()
+    await page.getByPlaceholder("Start Date").click()
 
     //click the link
-    // await page.getByRole('link', {name: 'Posts (Atom)'}).click()
-    // await page.waitForTimeout(2000)
+    await page.getByRole('link', {name: 'Posts (Atom)'}).click()
+    await page.waitForTimeout(2000)
 
-    //fileupload
+    fileupload
 
-    //await page.locator('//input[@id="singleFileInput"]').setInputFiles
+    await page.locator('//input[@id="singleFileInput"]').setInputFiles
 
     
-//})
+})
 
 test('keyboard actions @smoke and @Adhoc',  async({page}) => {
 

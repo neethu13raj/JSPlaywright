@@ -1,0 +1,444 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11] [cursor=pointer]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore
+        - generic [ref=e13] [cursor=pointer]: Plus
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e15]:
+      - img [ref=e16]
+      - text: Travel
+    - link "Login" [ref=e22] [cursor=pointer]:
+      - /url: /account/login?ret=/travel/flights%3Fparam%3Dbsd-2025-booknow%26fm%3Dneo%252Fmerchandising%26iid%3DM_bb80d908-73df-4e0a-a464-5ed6a4940937_1_X1NCR146KC29_MC.LE8A9JOLY9F3%26otracker%3Dhp_rich_navigation_7_1.navigationCard.RICH_NAVIGATION_Flight%252BBookings_LE8A9JOLY9F3%26otracker1%3Dhp_rich_navigation_PINNED_neo%252Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_7_L0_view-all%26cid%3DLE8A9JOLY9F3
+    - generic [ref=e24] [cursor=pointer]:
+      - generic [ref=e27] [cursor=pointer]: More
+      - img [ref=e28] [cursor=pointer]
+  - generic [ref=e31]:
+    - generic [ref=e39]:
+      - generic [ref=e42]:
+        - generic [ref=e46]: One Way
+        - generic [ref=e50] [cursor=pointer]: Round Trip
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]:
+                - textbox [active] [ref=e58]
+                - generic: From
+              - generic [ref=e61]:
+                - generic [ref=e62]: Popular Cities
+                - generic [ref=e63]:
+                  - generic [ref=e65]:
+                    - generic [ref=e66]: Mumbai
+                    - generic [ref=e67]: ", IN"
+                  - generic [ref=e68]: BOM
+                - generic [ref=e69]:
+                  - generic [ref=e71]:
+                    - generic [ref=e72]: Hyderabad
+                    - generic [ref=e73]: ", IN"
+                  - generic [ref=e74]: HYD
+                - generic [ref=e75]:
+                  - generic [ref=e77]:
+                    - generic [ref=e78]: Bangkok
+                    - generic [ref=e79]: ", TH"
+                  - generic [ref=e80]: BKK
+                - generic [ref=e81]:
+                  - generic [ref=e83]:
+                    - generic [ref=e84]: Kuala Lumpur
+                    - generic [ref=e85]: ", MY"
+                  - generic [ref=e86]: KUL
+                - generic [ref=e87]:
+                  - generic [ref=e89]:
+                    - generic [ref=e90]: Kolkata
+                    - generic [ref=e91]: ", IN"
+                  - generic [ref=e92]: CCU
+                - generic [ref=e93]:
+                  - generic [ref=e95]:
+                    - generic [ref=e96]: Bengaluru
+                    - generic [ref=e97]: ", IN"
+                  - generic [ref=e98]: BLR
+                - generic [ref=e99]:
+                  - generic [ref=e101]:
+                    - generic [ref=e102]: Singapore
+                    - generic [ref=e103]: ", SG"
+                  - generic [ref=e104]: SIN
+                - generic [ref=e105]:
+                  - generic [ref=e107]:
+                    - generic [ref=e108]: New Delhi
+                    - generic [ref=e109]: ", IN"
+                  - generic [ref=e110]: DEL
+                - generic [ref=e111]:
+                  - generic [ref=e113]:
+                    - generic [ref=e114]: Chennai
+                    - generic [ref=e115]: ", IN"
+                  - generic [ref=e116]: MAA
+                - generic [ref=e117]:
+                  - generic [ref=e119]:
+                    - generic [ref=e120]: Dubai
+                    - generic [ref=e121]: ", AE"
+                  - generic [ref=e122]: DXB
+            - generic [ref=e123]: Any worldwide city or airport
+          - img [ref=e125]
+          - generic [ref=e129]:
+            - generic [ref=e131]:
+              - textbox [ref=e132]
+              - generic: To
+            - generic [ref=e134]: Any worldwide city or airport
+        - generic [ref=e135]:
+          - generic [ref=e137]:
+            - textbox [ref=e138]: 11 Oct, Sat
+            - generic: Depart On
+          - generic [ref=e140]:
+            - textbox [ref=e141]
+            - generic: Return On
+        - generic [ref=e143]:
+          - textbox [ref=e144]: 1 Traveller | Economy
+          - generic: Travellers | Class
+        - button "SEARCH" [ref=e145] [cursor=pointer]:
+          - img [ref=e146] [cursor=pointer]
+          - generic [ref=e150] [cursor=pointer]: SEARCH
+    - generic [ref=e152]:
+      - generic [ref=e153]:
+        - link "nxw nxw" [ref=e156] [cursor=pointer]:
+          - /url: /travel/flights?param=Travel_CLP_DT-HPW-FLYMH&otracker=clp_bannerads_5_4.bannerAdCard.BANNERADS_nxw_travel%2Fflights_5M87QG4JEU08
+          - generic [ref=e157] [cursor=pointer]:
+            - img "nxw" [ref=e158] [cursor=pointer]
+            - img "nxw" [ref=e159] [cursor=pointer]
+        - link "dbw dbw" [ref=e162] [cursor=pointer]:
+          - /url: /pages/travel-bgmh-tnc?param=Travel_CLP_DT-HPW-IndiGo-Flyfk&otracker=clp_bannerads_1_4.bannerAdCard.BANNERADS_dbw_travel%2Fflights_G0UHZ37KTH0C
+          - generic [ref=e163] [cursor=pointer]:
+            - img "dbw" [ref=e164] [cursor=pointer]
+            - img "dbw" [ref=e165] [cursor=pointer]
+        - link "qa qa" [ref=e168] [cursor=pointer]:
+          - /url: /pages/fkint-axis-tnc?param=Travel_CLP_DT-HPW-Qantus&otracker=clp_bannerads_2_4.bannerAdCard.BANNERADS_qa_travel%2Fflights_3KFDPQDKDAG0
+          - generic [ref=e169] [cursor=pointer]:
+            - img "qa" [ref=e170] [cursor=pointer]
+            - img "qa" [ref=e171] [cursor=pointer]
+        - link "FKINT FKINT" [ref=e174] [cursor=pointer]:
+          - /url: /pages/fkint-axis-tnc?param=Travel_CLP_DT-HPW-IndiGo&otracker=clp_bannerads_3_4.bannerAdCard.BANNERADS_FKINT_travel%2Fflights_BTGQG1RJAFXP
+          - generic [ref=e175] [cursor=pointer]:
+            - img "FKINT" [ref=e176] [cursor=pointer]
+            - img "FKINT" [ref=e177] [cursor=pointer]
+        - link "xcs xcs" [ref=e180] [cursor=pointer]:
+          - /url: /pages/flyflash-regular-tnc?param=Travel_CLP_DT-HPW-IndiGo&otracker=clp_bannerads_4_4.bannerAdCard.BANNERADS_xcs_travel%2Fflights_13TSX8KWJOUP
+          - generic [ref=e181] [cursor=pointer]:
+            - img "xcs" [ref=e182] [cursor=pointer]
+            - img "xcs" [ref=e183] [cursor=pointer]
+        - link "nxw nxw" [ref=e186] [cursor=pointer]:
+          - /url: /travel/flights?param=Travel_CLP_DT-HPW-FLYMH&otracker=clp_bannerads_5_4.bannerAdCard.BANNERADS_nxw_travel%2Fflights_5M87QG4JEU08
+          - generic [ref=e187] [cursor=pointer]:
+            - img "nxw" [ref=e188] [cursor=pointer]
+            - img "nxw" [ref=e189] [cursor=pointer]
+        - link "dbw dbw" [ref=e192] [cursor=pointer]:
+          - /url: /pages/travel-bgmh-tnc?param=Travel_CLP_DT-HPW-IndiGo-Flyfk&otracker=clp_bannerads_1_4.bannerAdCard.BANNERADS_dbw_travel%2Fflights_G0UHZ37KTH0C
+          - generic [ref=e193] [cursor=pointer]:
+            - img "dbw" [ref=e194] [cursor=pointer]
+            - img "dbw" [ref=e195] [cursor=pointer]
+      - img [ref=e197]
+      - img [ref=e200]
+    - generic [ref=e205]:
+      - img "usps" [ref=e206]
+      - img "usps" [ref=e207]
+    - generic [ref=e209]:
+      - link "G G" [ref=e211] [cursor=pointer]:
+        - /url: /pages/travel-bgmh-tnc?param=fkhpfeb2023dtpagenew&otracker=clp_banner_1_19.bannerX3.BANNER_travel%2Fflights_IHF19R94QGYX&fm=neo%2Fmerchandising&iid=M_8fb16b74-b1f6-4791-8839-cc574f43c0eb_19.IHF19R94QGYX&ppt=hp&ppn=homepage&ssid=2d0xtqfjxs0000001760083076804
+        - generic [ref=e212] [cursor=pointer]:
+          - img "G" [ref=e213] [cursor=pointer]
+          - img "G" [ref=e214] [cursor=pointer]
+      - link "D D" [ref=e216] [cursor=pointer]:
+        - /url: /pages/travel-bgmh-tnc?param=TravelDT_TOPDEAL-DOM1499-FLYFK&otracker=clp_banner_2_19.bannerX3.BANNER_travel%2Fflights_VM0YOL4NKK1C&fm=neo%2Fmerchandising&iid=M_8fb16b74-b1f6-4791-8839-cc574f43c0eb_19.VM0YOL4NKK1C&ppt=hp&ppn=homepage&ssid=2d0xtqfjxs0000001760083076804
+        - generic [ref=e217] [cursor=pointer]:
+          - img "D" [ref=e218] [cursor=pointer]
+          - img "D" [ref=e219] [cursor=pointer]
+      - link "FKDOM FKDOM" [ref=e221] [cursor=pointer]:
+        - /url: /pages/tbbd-travel-spender-tnc?param=TravelDT_TOPDEAL-DOM1299-FKDOM&otracker=clp_banner_3_19.bannerX3.BANNER_travel%2Fflights_0BVBOQUXBO9B&fm=neo%2Fmerchandising&iid=M_8fb16b74-b1f6-4791-8839-cc574f43c0eb_19.0BVBOQUXBO9B&ppt=hp&ppn=homepage&ssid=2d0xtqfjxs0000001760083076804
+        - generic [ref=e222] [cursor=pointer]:
+          - img "FKDOM" [ref=e223] [cursor=pointer]
+          - img "FKDOM" [ref=e224] [cursor=pointer]
+    - link "Travel-CLP-DT-BankOffer-1 Travel-CLP-DT-BankOffer-1" [ref=e228] [cursor=pointer]:
+      - /url: /pages/travel-rbl-tnc?param=Travel-CLP-DT-AXIS-BankOffer2&otracker=clp_bannerads_1_25.bannerAdCard.BANNERADS_Travel-CLP-DT-BankOffer-1_travel%2Fflights_4MOMQJX6K3U7
+      - generic [ref=e229] [cursor=pointer]:
+        - img "Travel-CLP-DT-BankOffer-1" [ref=e230] [cursor=pointer]
+        - img "Travel-CLP-DT-BankOffer-1" [ref=e231] [cursor=pointer]
+    - link "header header" [ref=e235] [cursor=pointer]:
+      - /url: https://play.google.com/store/apps/details?id=com.flipkart.android&hl=en_IN&gl=US&pli=1&otracker=clp_banner_1_41.banner.BANNER_travel%2Fflights_5796RNMQB0YU
+      - generic [ref=e236] [cursor=pointer]:
+        - img "header" [ref=e237] [cursor=pointer]
+        - img "header" [ref=e238] [cursor=pointer]
+    - generic [ref=e242]:
+      - img "header" [ref=e243]
+      - img "header" [ref=e244]
+    - generic [ref=e247]:
+      - paragraph [ref=e248]:
+        - text: Thanks to online portals, you don’t have to depend on travel agents or anyone else to make flight bookings. You can use your laptop or mobile phone to go through all the available flights, hotels, resorts, and more to make all your
+        - generic [ref=e249]: flight ticket bookings
+        - text: . Most of these portals offer many festive flight offers that will help you book international and domestic flights at great prices. This way, you can stay within your budget. Once you take care of your travel arrangements, you can also look through all the accommodation options available. Make sure that you go through all the reviews of the various properties listed online so that you can have a pleasant stay. Without doing enough research, you may end up paying a lot of money for a place that doesn’t suit your needs. So, while looking at the best flight offers online, you can also go through numerous blogs and articles about the best places to stay at your destination. This will help you find romantic, adventurous, or chilled-out properties. Once all your arrangements are done, you can plan your itinerary, pack your bags, and countdown the days until your much-awaited getaway. The information you are reading has been last updated on 10-Oct-25.
+      - paragraph [ref=e250]
+  - contentinfo [ref=e251]:
+    - generic [ref=e252]:
+      - generic [ref=e256]:
+        - paragraph [ref=e257]: "If seeing the world is on your bucket list, then you can start your journey by booking flight tickets online. Here are a few FAQs that can help you clear any possible doubt you might have about booking flight tickets online with Flipkart:"
+        - paragraph [ref=e258]:
+          - strong [ref=e259]: Q
+          - text: . Why should I book flight tickets online?
+        - paragraph [ref=e260]:
+          - strong [ref=e261]: "Ans:"
+          - text: Online air ticket booking has many benefits. You can compare the airfares offered by different airlines and of different dates with just a few clicks. You can also check in-flight facilities, flight details, and cancellation policies for each flight. You also get multiple payment options to choose and pay as you wish.
+        - paragraph [ref=e262]:
+          - strong [ref=e263]: Q
+          - text: . Why should I book flights from Flipkart Flights?
+        - paragraph [ref=e264]:
+          - strong [ref=e265]: "Ans:"
+          - text: Booking through Flipkart Flights is an easy process and requires just a few clicks. Flipkart also offers cheap flights at great discounts using coupon codes, such as NEW12 and FLY600. There are also instant EMI options as well as offers on credit/debit card payments to make your flight booking budget-friendly and hassle-free.
+        - paragraph [ref=e266]:
+          - strong [ref=e267]: Q.
+          - text: How can I book flight tickets online?
+        - paragraph [ref=e268]:
+          - strong [ref=e269]: "Ans:"
+          - text: With a few clicks and in a few seconds, you can book domestic and/or international flight tickets online. Just select the route, date of travel, number of travellers, and class, then click on the search button. Then, select your flight, click on the book option, add travellers' details, add coupon code to avail discounts, and checkout using your card to avail more bank offers.
+        - paragraph [ref=e270]:
+          - strong [ref=e271]: Q.
+          - text: When should I book to get the best flight ticket prices?
+        - paragraph [ref=e272]:
+          - strong [ref=e273]: "Ans:"
+          - text: For domestic flight tickets, if you want to avail the best prices, then it is recommended that you should book the tickets at least three to four weeks prior to the date of travel. For the best international flight ticket prices, you should book seven to eight weeks prior to the date of travel.
+        - paragraph
+        - paragraph [ref=e274]:
+          - strong [ref=e275]: Q.
+          - text: Can I get a full refund on my cancelled ticket?
+        - paragraph [ref=e276]:
+          - strong [ref=e277]: "Ans:"
+          - text: There is cancellation protection insurance available at a nominal price that you can buy while booking your flight tickets on Flipkart. Under this insurance policy, you can get a full refund if you cancel your flight for any reason. You can cancel your ticket up to 24 hours prior to travel, and full refund is available on domestic tickets. Check the full policy here
+          - link "T&C page" [ref=e278] [cursor=pointer]:
+            - /url: /liberty-insurance-store
+          - text: .
+        - paragraph [ref=e279]:
+          - strong [ref=e280]: Q.
+          - text: Should I book a seat for my infant?
+        - paragraph [ref=e281]:
+          - strong [ref=e282]: "Ans:"
+          - text: Legally, a child under two years of age does not need a seat. But, if you prefer then you can book a seat for your infant. The airfare for a child below two years and for above two years are different as the children above two years of age need a seat for flying.
+        - paragraph [ref=e283]:
+          - strong [ref=e284]: Q.
+          - text: What are the classes for which flight tickets can be booked?
+        - paragraph [ref=e285]:
+          - strong [ref=e286]: "Ans:"
+          - text: Most airlines offer Economy and Business Class. Some also have Premium Economy class.
+        - paragraph [ref=e287]:
+          - strong [ref=e288]: Q.
+          - text: How many seats can I book in a single booking?
+        - paragraph [ref=e289]:
+          - strong [ref=e290]: "Ans:"
+          - text: On Flipkart, you can book up to nine tickets in a single booking.
+        - paragraph [ref=e291]:
+          - strong [ref=e292]: Q.
+          - text: How much time does it take to get my ticket confirmation?
+        - paragraph [ref=e293]:
+          - strong [ref=e294]: "Ans:"
+          - text: Within a few minutes, you receive a confirmation email on your email ID that you provided while booking the ticket.
+        - paragraph [ref=e295]:
+          - strong [ref=e296]: Q.
+          - text: Can I book tickets for another person using my account?
+        - paragraph [ref=e297]:
+          - strong [ref=e298]: "Ans:"
+          - text: Yes, you can. At the time of booking, enter the correct details of the passenger.
+        - paragraph [ref=e299]:
+          - strong [ref=e300]: Q.
+          - text: How can I get a boarding pass for a booked ticket?
+        - paragraph [ref=e301]:
+          - strong [ref=e302]: "Ans:"
+          - text: By showing the ticket confirmation email at the airport’s check-in counter you can collect your boarding pass from the airline representatives. Or, you can do a web check-in on the airline’s website and take a printout of the boarding pass.
+        - paragraph [ref=e303]:
+          - strong [ref=e304]: Q.
+          - text: Do I have to show ID proof when I check-in?
+        - paragraph [ref=e305]:
+          - strong [ref=e306]: "Ans:"
+          - text: Yes, you need to show a valid ID card, such as your PAN card or driver’s licence, at the time of checking in at the airport. You also need to show your passport for international travel.
+        - paragraph [ref=e307]:
+          - strong [ref=e308]: Q.
+          - text: How much baggage can I carry on a flight?
+        - paragraph [ref=e309]:
+          - strong [ref=e310]: "Ans:"
+          - text: Different airlines have different baggage allowance policies. So, check with the airline operators to know the exact baggage allowance and restrictions for your cabin baggage and checked-in bags.
+        - paragraph [ref=e311]:
+          - strong [ref=e312]: Q.
+          - text: Can I pay later for my flight ticket bookings?
+        - paragraph [ref=e313]:
+          - strong [ref=e314]: "Ans:"
+          - text: No, at present no such service is available on Flipkart. To successfully book a flight ticket, you need to pay the full amount. However, we do have an EMI option.
+        - heading "Flight Ticket Booking on Flipkart" [level=2] [ref=e315]
+        - generic [ref=e316]:
+          - text: Have you been eyeing a beautiful destination, but not doing the plane tickets to reach there, as they are expensive? Do you want to skip taking help from different people and book your plane tickets at low prices? If yes, then you can do your
+          - strong [ref=e317]: flight ticket booking
+          - text: on Flipkart at surprisingly affordable prices. You can get your tickets for domestic flights and international flights at prices that are amazingly cheap and pocket-friendly. Hence, you won't have to worry about not being able to visit your desired destination due to financial reasons. Also, you won't have to call anyone and take help to go ahead with the ticket booking process. The site has an easy-to-use interface. So you can navigate your way through it, and by the time you are done with your booking, you will move a day closer to your travel date. You can open the site and check the plane ticket prices for the domestic or international destinations that you want to visit.
+        - paragraph [ref=e318]:
+          - strong [ref=e319]: Do Flight Bookings Online
+        - paragraph [ref=e320]: Gone are the days when only the rich could afford flight tickets. Now, not only the price of a plane ticket is affordable, but the flight booking procedure is easy too. So, if you are planning a vacation and you are looking for a site from where you can book cheap flight tickets easily, then you have found the correct destination. Flipkart, apart from letting you buy products at reasonable prices, also takes care of your travel needs. Thereby, any time you want to book a flight, you can check the ticket for your destination on the site. You can even book overseas flight tickets. The plane tickets are available at modest prices, so you won’t have to shell out a huge amount of money. The site has also curated several options for you.
+        - paragraph [ref=e321]:
+          - strong [ref=e322]: Book Cheap Flights
+        - paragraph [ref=e323]: "If you have never landed on the site’s page before, and it is your first time, then do not worry. We will help you navigate through the categories so that you can do your flight bookings in no time. You can check the options below:"
+        - paragraph [ref=e324]: "Top Deals: In the “Top Deals” section, you will find several flight offers. By using the best flight offers that are listed out by the site, you will be able to save money."
+        - paragraph [ref=e325]: "Travel Checklist: Amongst other things, the “Travel Checklist” category will help you proceed with the web check-in process. So, if you do not want to go through the hassle of waiting in long queues at the airport to get your boarding pass, then you can do your web check-in at home. However, do not forget to check the options and facilities that are available through web check-in for the flight which you have booked."
+        - paragraph [ref=e326]: "Your Safety is Important to Us: If you are travelling by plane for the first time in your life, then you must be very excited about the journey. Before embarking on it, we suggest you check the section “Your Safety is Important to Us” on the site to know more about the safety guidelines and all such things."
+        - paragraph [ref=e327]: "Best Deals: You can check the section “Best Deals” if you want more profit while doing your flight ticket bookings. For example, if you are a loyal customer of the site and you have collected a lot of SuperCoins through your purchases on the site, then you can use those to book your tickets. If you have to travel somewhere urgently and you are running short of cash, then also the site lets you book tickets. You can check the EMI option in this section and learn more about it."
+        - paragraph [ref=e328]:
+          - strong [ref=e329]: Book Flights on Flipkart
+        - paragraph [ref=e330]: Now, that you are aware of the options, you can go ahead and check the listed deals and all the other options on the site. Once you check them through and through, you can enter your destination details and then do your flight bookings in no time.
+        - heading "Hassle-free Flight Ticket Booking" [level=2] [ref=e331]
+        - paragraph [ref=e332]: You can now do your flight ticket booking for various destinations, both, domestic and international, at prices that are affordable and cheap. To start with your booking process, you can open the Flipkart site. Do not worry, as you will be thoroughly guided throughout the site’s easy booking procedure. Once you start, your tickets will be done and confirmed in no time. So, you won’t have to rely on someone else, or any expensive third-party agent to help you book your plane tickets. You will also end up saving money while booking on the site.
+        - paragraph [ref=e333]: There are various destinations for which you can book your flights. So, be it Goa, Dubai, Berlin, Paris, Chandigarh, and Mumbai, you can book your flight tickets to these places, and more such places at low prices. You can choose the options as per your itinerary and book the tickets for the airline whose departure and return timings fit your schedule.
+        - paragraph [ref=e334]:
+          - strong [ref=e335]: Cheap Air Travel
+        - paragraph [ref=e336]: As we mentioned above, your flight ticket booking procedure will be hassle-free, as the site will help you in each step. This means, even if you are booking your plane tickets for the first time, you won’t face any issue. You can enter your destination details and your dates to check which airlines are available. Once those steps are done, you will get a list of all the airlines available for the dates that you specified. You can compare the prices between the airlines, and then do your air tickets accordingly.
+        - paragraph [ref=e337]: To make your flight booking experience even more fruitful, you can apply the various flight offers that have been made available for you by the site. The flight ticket offer codes are available for multiple airlines, so if you have any particular airline in mind, you can book the ticket of that airline without spending a fortune. You can apply the discount and offer codes and see the prices for the tickets dropping further. While booking your cheap flight tickets, you can, at the same time, check the ticket prices for several picturesque international destinations too. And, if you get cheap air tickets for places like Amsterdam or Prague, then you can book the tickets for those places too.
+        - paragraph [ref=e338]:
+          - strong [ref=e339]: Book Affordable Plane Tickets on Flipkart
+        - paragraph [ref=e340]: Now that you know how to go about with your flight ticket booking, do not wait any longer to do your online flight booking for your desired destination. You can check the dates and then go ahead with the bookings. If you keep waiting, the chances for getting a flight on your desired day, time, and date might become bleak. So, do not wait any further if you have already decided a place where you want to travel. You will end up making good memories and also feel refreshed. This will help you stay happy too. Even if you are checking a round-trip ticket for a business trip, then also you can make the most out of that trip. You can take a few hours off from your meetings and explore the place and the local food. Once done, you will come back home feeling happy, satisfied, and rejuvenated.
+        - strong [ref=e342]: Book Cheap Plane Tickets
+        - generic [ref=e343]: "Now that you are aware of where to procure your air tickets for cheap, we would like to help you with the process a bit more. If you are doing your flight ticket booking for the first time, then you can check the steps below for a fruitful and easy experience:"
+        - generic [ref=e344]: "Book Cheap Air Tickets for a Round-trip or a One-way Trip: You can start your flight booking procedure by telling the site whether you want to book your flight tickets for a round-trip or a one-way trip. If you want to save more money by booking cheap flight tickets, we suggest you select the round-trip option. However, if you are not sure of the return date from your destination, then you can choose the one-way option."
+        - generic [ref=e345]: "Select the Time: If you want to search for flights that will depart in the early morning or late at night on your desired date of travel, then you can do so by selecting an option from the list of choices which are given on the left side of the page."
+        - generic [ref=e346]: "Book Tickets for Non-stop Flights: If you want to book a ticket from an airline that will drop you to your destination without halting at another location, then you can select the \"Non-stop\" option from the left side of the page."
+        - generic [ref=e347]: "Book Refundable Tickets: If, while booking your ticket, you are not 100% sure that you will be able to travel on the date which you have specified, then you can select the \"Refundable\" option from the left side of the page. So, even if you cancel your ticket before the date of flying, you will get your money back. However, you must check the terms and conditions to know more about the process."
+        - generic [ref=e348]: "Apply Flight Offer Codes: The site has listed a plethora of flight ticket offer codes. You can select them and apply while booking your tickets to help you save more money."
+        - strong [ref=e350]: Easy Booking
+        - generic [ref=e351]: You can check the options mentioned-above while doing your online flight booking. Once everything is sorted, you can proceed with the flight ticket booking procedure on the site without any hassle.
+        - heading "Flight Ticket Booking Made Convenient" [level=2] [ref=e352]
+        - paragraph [ref=e353]: "We all want to travel, both, in and out of the country - don’t we? But, we blame the lack of those extra bucks in our bank accounts as well as the price of plane tickets for our inability to go out and see the world. However, if you changed a few things about how you plan your trips then you could visit all those dream travel destinations that you’ve been talking about to your buddies at work. Do we have a secret recipe that will make you rich? No. After all, it is impossible for one to become rich overnight (unless you inherited parents’ fortune as Bruce Wayne did). What we have here is a means to keep the wanderlust within you alive without having you to burn a hole in your pocket - online flight ticket booking. You may have seen a lot of famous travellers on social media sites visiting 100s of countries. But, do you think that they’d have made it this far if they kept spending a king’s ransom on plane tickets? Probably not. One of the major factors that’s responsible for all the success that famous travellers have is achieved is their smartness. But, how are they smarter than amateur travellers? Well, their ability to think and plan things in advance is what separates them from the ‘wannabes’. Want to travel smart? Well, then try and follow some of the tips and tricks that we have mentioned below:"
+        - heading "Flight Ticket Booking Made Convenient" [level=2] [ref=e354]
+        - paragraph [ref=e355]: "We all want to travel, both, in and out of the country - don’t we? But, we blame the lack of those extra bucks in our bank accounts as well as the price of plane tickets for our inability to go out and see the world. However, if you changed a few things about how you plan your trips then you could visit all those dream travel destinations that you’ve been talking about to your buddies at work. Do we have a secret recipe that will make you rich? No. After all, it is impossible for one to become rich overnight (unless you inherited parents’ fortune as Bruce Wayne did). What we have here is a means to keep the wanderlust within you alive without having you to burn a hole in your pocket - online flight ticket booking. You may have seen a lot of famous travellers on social media sites visiting 100s of countries. But, do you think that they’d have made it this far if they kept spending a king’s ransom on plane tickets? Probably not. One of the major factors that’s responsible for all the success that famous travellers have is achieved is their smartness. But, how are they smarter than amateur travellers? Well, their ability to think and plan things in advance is what separates them from the ‘wannabes’. Want to travel smart? Well, then try and follow some of the tips and tricks that we have mentioned below:"
+        - paragraph [ref=e356]:
+          - strong [ref=e357]: Try Online Flight Ticket Booking
+        - paragraph [ref=e358]: Some of you might resort to your ‘trusted’ agent when it comes to booking plane tickets. Now, even though a lot of you wouldn’t agree with us, you should know that there are a lot of travel agents who charge you with some hidden fees in order to make a profit. Sounds unfair - right? But, you can easily avoid paying the hidden fees by booking plane tickets online. By using online flight booking, you can easily check and compare different flight ticket offers. This way, you can ensure that you aren’t overspending.
+        - paragraph [ref=e359]:
+          - strong [ref=e360]: Book Your Flights in Advance
+        - paragraph [ref=e361]: If you want to travel on a budget, then you should always aim for cheap flight tickets. But, aren’t all tickets for flights supposed to be expensive? No, not if you book them in advance. You can easily save hundreds, or even thousands of rupees, if you book tickets in advance as flight ticket booking sites offer massive discounts when you do so. Quite an easy way to get cheap air tickets - right? Yes, flights offer you this as well.
+        - paragraph [ref=e362]: Now, the process of online flight ticket booking may sound complicated, but it isn’t really. You just need a device, such as a smartphone, through which you can get on the Internet and book a ticket online.
+        - heading "Try Online Flight Ticket Booking" [level=2] [ref=e363]
+        - paragraph [ref=e364]: Some of you might resort to your ‘trusted’ agent when it comes to booking plane tickets. Now, even though a lot of you wouldn’t agree with us, you should know that there are a lot of travel agents who charge you with some hidden fees in order to make a profit. Sounds unfair - right? But, you can easily avoid paying the hidden fees by booking plane tickets online. By using online flight booking, you can easily check and compare different flight ticket offers. This way, you can ensure that you aren’t overspending.
+        - heading "Book Your Flights in Advance" [level=2] [ref=e365]
+        - paragraph [ref=e366]: If you want to travel on a budget, then you should always aim for cheap flight tickets. But, aren’t all tickets for flights supposed to be expensive? No, not if you book them in advance. You can easily save hundreds, or even thousands of rupees, if you book tickets in advance as flight ticket booking sites offer massive discounts when you do so. Quite an easy way to get cheap air tickets - right? Yes, flights offer you this as well.
+        - paragraph [ref=e367]: Now, the process of online flight ticket booking may sound complicated, but it isn’t really. You just need a device, such as a smartphone, through which you can get on the Internet and book a ticket online.
+      - generic [ref=e368]:
+        - generic [ref=e369]:
+          - generic [ref=e370]:
+            - generic [ref=e371]: ABOUT
+            - link "Contact Us" [ref=e372] [cursor=pointer]:
+              - /url: /helpcentre?otracker=footer_navlinks
+            - link "About Us" [ref=e373] [cursor=pointer]:
+              - /url: https://corporate.flipkart.net/corporate-home
+            - link "Careers" [ref=e374] [cursor=pointer]:
+              - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+            - link "Flipkart Stories" [ref=e375] [cursor=pointer]:
+              - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+            - link "Press" [ref=e376] [cursor=pointer]:
+              - /url: http://stories.flipkart.com/category/top-stories/news/
+            - link "Corporate Information" [ref=e377] [cursor=pointer]:
+              - /url: /corporate-information
+          - generic [ref=e378]:
+            - generic [ref=e379]: GROUP COMPANIES
+            - link "Myntra" [ref=e380] [cursor=pointer]:
+              - /url: https://www.myntra.com/
+            - link "Cleartrip" [ref=e381] [cursor=pointer]:
+              - /url: https://www.cleartrip.com/
+            - link "Shopsy" [ref=e382] [cursor=pointer]:
+              - /url: https://www.shopsy.in/
+          - generic [ref=e383]:
+            - generic [ref=e384]: HELP
+            - link "Payments" [ref=e385] [cursor=pointer]:
+              - /url: /pages/payments
+            - link "Shipping" [ref=e386] [cursor=pointer]:
+              - /url: /pages/shipping
+            - link "Cancellation & Returns" [ref=e387] [cursor=pointer]:
+              - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+            - link "FAQ" [ref=e388] [cursor=pointer]:
+              - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+          - generic [ref=e389]:
+            - generic [ref=e390]: CONSUMER POLICY
+            - link "Cancellation & Returns" [ref=e391] [cursor=pointer]:
+              - /url: /pages/returnpolicy?otracker=footer_navlinks
+            - link "Terms Of Use" [ref=e392] [cursor=pointer]:
+              - /url: /pages/terms?otracker=footer_navlinks
+            - link "Security" [ref=e393] [cursor=pointer]:
+              - /url: /pages/paymentsecurity?otracker=footer_navlinks
+            - link "Privacy" [ref=e394] [cursor=pointer]:
+              - /url: /pages/privacypolicy?otracker=footer_navlinks
+            - link "Sitemap" [ref=e395] [cursor=pointer]:
+              - /url: /sitemap?otracker=footer_navlinks
+            - link "Grievance Redressal" [ref=e396] [cursor=pointer]:
+              - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+            - link "EPR Compliance" [ref=e397] [cursor=pointer]:
+              - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+          - generic [ref=e399]:
+            - generic [ref=e401]: "Mail Us:"
+            - generic [ref=e404]:
+              - paragraph [ref=e405]: Flipkart Internet Private Limited,
+              - paragraph [ref=e406]: Buildings Alyssa, Begonia &
+              - paragraph [ref=e407]: Clove Embassy Tech Village,
+              - paragraph [ref=e408]: Outer Ring Road, Devarabeesanahalli Village,
+              - paragraph [ref=e409]: Bengaluru, 560103,
+              - paragraph [ref=e410]: Karnataka, India
+            - generic [ref=e411]: Social
+            - generic [ref=e412]:
+              - link [ref=e414] [cursor=pointer]:
+                - /url: https://www.facebook.com/flipkart
+                - img [ref=e415] [cursor=pointer]
+              - link [ref=e417] [cursor=pointer]:
+                - /url: https://www.twitter.com/flipkart
+                - img [ref=e418] [cursor=pointer]
+              - link [ref=e420] [cursor=pointer]:
+                - /url: https://www.youtube.com/flipkart
+                - img [ref=e421] [cursor=pointer]
+              - link [ref=e423] [cursor=pointer]:
+                - /url: https://www.instagram.com/flipkart
+                - img [ref=e424] [cursor=pointer]
+          - generic [ref=e426]:
+            - generic [ref=e428]: "Registered Office Address:"
+            - generic [ref=e431]:
+              - paragraph [ref=e432]: Flipkart Internet Private Limited,
+              - paragraph [ref=e433]: Buildings Alyssa, Begonia &
+              - paragraph [ref=e434]: Clove Embassy Tech Village,
+              - paragraph [ref=e435]: Outer Ring Road, Devarabeesanahalli Village,
+              - paragraph [ref=e436]: Bengaluru, 560103,
+              - paragraph [ref=e437]: Karnataka, India
+              - paragraph [ref=e438]: "CIN : U51109KA2012PTC066107"
+              - paragraph [ref=e439]:
+                - text: "Telephone:"
+                - link "044-45614700" [ref=e440] [cursor=pointer]:
+                  - /url: tel:044-45614700
+                - text: /
+                - link "044-67415800" [ref=e441] [cursor=pointer]:
+                  - /url: tel:044-67415800
+        - generic [ref=e443]:
+          - generic [ref=e444]:
+            - img [ref=e445]
+            - link "Become a Seller" [ref=e446] [cursor=pointer]:
+              - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+              - generic [ref=e447] [cursor=pointer]: Become a Seller
+          - generic [ref=e448]:
+            - img [ref=e449]
+            - link "Advertise" [ref=e450] [cursor=pointer]:
+              - /url: https://brands.flipkart.com
+              - generic [ref=e451] [cursor=pointer]: Advertise
+          - generic [ref=e452]:
+            - img [ref=e453]
+            - link "Gift Cards" [ref=e454] [cursor=pointer]:
+              - /url: /the-gift-card-store?otracker=footer_navlinks
+              - generic [ref=e455] [cursor=pointer]: Gift Cards
+          - generic [ref=e456]:
+            - img [ref=e457]
+            - link "Help Center" [ref=e458] [cursor=pointer]:
+              - /url: /helpcentre?otracker=footer_navlinks
+              - generic [ref=e459] [cursor=pointer]: Help Center
+          - generic [ref=e460]:
+            - text: © 2007-2025
+            - generic [ref=e461]: Flipkart.com
+          - img [ref=e462]
+```

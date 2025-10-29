@@ -1,0 +1,1151 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11] [cursor=pointer]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore
+        - generic [ref=e13] [cursor=pointer]: Plus
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e17]:
+      - textbox "Search for products, brands and more" [ref=e19]: Books
+      - button [ref=e20] [cursor=pointer]:
+        - img [ref=e21] [cursor=pointer]
+    - link "Login" [ref=e29] [cursor=pointer]:
+      - /url: /account/login?ret=/search%3Fq%3DBooks%26otracker%3Dsearch%26otracker1%3Dsearch%26marketplace%3DFLIPKART%26as-show%3Doff%26as%3Doff%26p%255B%255D%3Dfacets.language%25255B%25255D%253DEnglish
+    - link "Become a Seller" [ref=e31] [cursor=pointer]:
+      - /url: https://seller.flipkart.com/sell-online/?utm_source=fkwebsite&utm_medium=websitedirect
+      - generic [ref=e32] [cursor=pointer]: Become a Seller
+    - generic [ref=e34] [cursor=pointer]:
+      - generic [ref=e37] [cursor=pointer]: More
+      - img [ref=e38] [cursor=pointer]
+    - link "Cart" [ref=e43] [cursor=pointer]:
+      - /url: /viewcart?exploreMode=true&preference=FLIPKART
+      - img [ref=e44] [cursor=pointer]
+      - generic [ref=e46] [cursor=pointer]: Cart
+  - generic [ref=e51]:
+    - generic [ref=e52] [cursor=pointer]:
+      - text: Electronics
+      - img [ref=e53] [cursor=pointer]
+    - generic [ref=e55] [cursor=pointer]:
+      - text: TVs & Appliances
+      - img [ref=e56] [cursor=pointer]
+    - generic [ref=e58] [cursor=pointer]:
+      - text: Men
+      - img [ref=e59] [cursor=pointer]
+    - generic [ref=e61] [cursor=pointer]:
+      - text: Women
+      - img [ref=e62] [cursor=pointer]
+    - generic [ref=e64] [cursor=pointer]:
+      - text: Baby & Kids
+      - img [ref=e65] [cursor=pointer]
+    - generic [ref=e67] [cursor=pointer]:
+      - text: Home & Furniture
+      - img [ref=e68] [cursor=pointer]
+    - generic [ref=e70] [cursor=pointer]:
+      - text: Sports, Books & More
+      - img [ref=e71] [cursor=pointer]
+    - link "Flights" [ref=e73] [cursor=pointer]:
+      - /url: /travel/flights?otracker=nmenu_Flights
+    - link "Offer Zone" [ref=e74] [cursor=pointer]:
+      - /url: /offers-list/top-deals?screen=dynamic&pk=themeViews%3DDT-OMU-A2%3ADT-OMU~widgetType%3DdealCard~contentType%3Dneo&otracker=nmenu_offer-zone
+  - generic [ref=e76]:
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e84]: Filters
+          - generic [ref=e86] [cursor=pointer]: Clear all
+        - generic [ref=e87]:
+          - generic [ref=e89] [cursor=pointer]:
+            - generic [ref=e90] [cursor=pointer]: ✕
+            - generic [ref=e91] [cursor=pointer]: english
+          - generic [ref=e93] [cursor=pointer]: Show more
+      - generic [ref=e95]:
+        - generic [ref=e97]: CATEGORIES
+        - generic [ref=e98]:
+          - generic [ref=e99]:
+            - img [ref=e101] [cursor=pointer]
+            - link "Books" [ref=e103] [cursor=pointer]:
+              - /url: /books/pr?sid=bks&q=Books&p[]=facets.language%255B%255D%3Denglish&otracker=categorytree
+          - generic [ref=e104]:
+            - link "Magazines" [ref=e105] [cursor=pointer]:
+              - /url: /books/magazines/pr?sid=bks,wsm&q=Books&p[]=facets.language%255B%255D%3Denglish&otracker=categorytree
+            - link "Higher Education and Professional Books" [ref=e106] [cursor=pointer]:
+              - /url: /books/higher-education-and-professional-books/pr?sid=bks,f50&q=Books&p[]=facets.language%255B%255D%3Denglish&otracker=categorytree
+            - link "History and Archaeology Books" [ref=e107] [cursor=pointer]:
+              - /url: /books/history-and-archaeology-books/pr?sid=bks,9xa&q=Books&p[]=facets.language%255B%255D%3Denglish&otracker=categorytree
+            - link "Lifestyle, Hobby and Sport Books" [ref=e108] [cursor=pointer]:
+              - /url: /books/lifestyle-hobby-and-sport-books/pr?sid=bks,wcr&q=Books&p[]=facets.language%255B%255D%3Denglish&otracker=categorytree
+            - link "Test Preparation Books" [ref=e109] [cursor=pointer]:
+              - /url: /books/test-preparation-books/pr?sid=bks,4b5&q=Books&p[]=facets.language%255B%255D%3Denglish&otracker=categorytree
+            - generic [ref=e111] [cursor=pointer]: Show 14 more
+      - generic [ref=e112]:
+        - generic [ref=e115]: Price
+        - generic [ref=e131]:
+          - generic [ref=e132]: .
+          - generic [ref=e133]: .
+          - generic [ref=e134]: .
+          - generic [ref=e135]: .
+          - generic [ref=e136]: .
+          - generic: .
+        - generic [ref=e137]:
+          - combobox [ref=e139]:
+            - option "Min" [selected]
+            - option "₹100"
+            - option "₹200"
+            - option "₹500"
+            - option "₹1000"
+          - generic [ref=e140]: to
+          - combobox [ref=e142]:
+            - option "₹100"
+            - option "₹200"
+            - option "₹500"
+            - option "₹1000"
+            - option "₹1000+" [selected]
+      - generic [ref=e143]:
+        - img [ref=e148] [cursor=pointer]
+        - generic [ref=e150] [cursor=pointer]: "?"
+      - generic [ref=e151]:
+        - generic [ref=e152] [cursor=pointer]:
+          - generic [ref=e153] [cursor=pointer]: Offers
+          - img [ref=e154] [cursor=pointer]
+        - generic [ref=e162] [cursor=pointer]: Special Price
+      - generic [ref=e163]:
+        - generic [ref=e164] [cursor=pointer]:
+          - generic [ref=e165] [cursor=pointer]: Customer Ratings
+          - img [ref=e166] [cursor=pointer]
+        - generic [ref=e169]:
+          - generic [ref=e174] [cursor=pointer]: 4★ & above
+          - generic [ref=e179] [cursor=pointer]: 3★ & above
+      - generic [ref=e181] [cursor=pointer]:
+        - generic [ref=e182] [cursor=pointer]: Availability
+        - img [ref=e183] [cursor=pointer]
+      - generic [ref=e185]:
+        - generic [ref=e186] [cursor=pointer]:
+          - generic [ref=e187] [cursor=pointer]: Language
+          - img [ref=e188] [cursor=pointer]
+        - generic [ref=e190]:
+          - generic [ref=e191]:
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e193] [cursor=pointer]: ✕
+              - generic [ref=e195] [cursor=pointer]: Clear all
+            - generic [ref=e200] [cursor=pointer]: English
+            - generic [ref=e205] [cursor=pointer]: Hindi
+            - generic [ref=e210] [cursor=pointer]: Bengali
+            - generic [ref=e215] [cursor=pointer]: Marathi
+            - generic [ref=e220] [cursor=pointer]: Telugu
+            - generic [ref=e225] [cursor=pointer]: Tamil
+          - generic [ref=e227] [cursor=pointer]: 21 MORE
+      - generic [ref=e229] [cursor=pointer]:
+        - generic [ref=e230] [cursor=pointer]: Discount
+        - img [ref=e231] [cursor=pointer]
+      - generic [ref=e233]:
+        - generic [ref=e234] [cursor=pointer]:
+          - generic [ref=e235] [cursor=pointer]: Binding
+          - img [ref=e236] [cursor=pointer]
+        - generic [ref=e239]:
+          - generic [ref=e244] [cursor=pointer]: Paperback
+          - generic [ref=e249] [cursor=pointer]: Hardcover
+          - generic [ref=e254] [cursor=pointer]: Board Book
+          - generic [ref=e259] [cursor=pointer]: Audiobook
+      - generic [ref=e261] [cursor=pointer]:
+        - generic [ref=e262] [cursor=pointer]: Age Group
+        - img [ref=e263] [cursor=pointer]
+      - generic [ref=e265]:
+        - generic [ref=e266] [cursor=pointer]:
+          - generic [ref=e267] [cursor=pointer]: Latest Arrivals
+          - img [ref=e268] [cursor=pointer]
+        - generic [ref=e271]:
+          - generic [ref=e276] [cursor=pointer]: Last 30 Days
+          - generic [ref=e281] [cursor=pointer]: Last 90 Days
+          - generic [ref=e286] [cursor=pointer]: Last 150 Days
+      - generic [ref=e288] [cursor=pointer]:
+        - generic [ref=e289] [cursor=pointer]: GST Invoice Available
+        - img [ref=e290] [cursor=pointer]
+      - generic [ref=e293] [cursor=pointer]:
+        - generic [ref=e294] [cursor=pointer]: New Arrivals
+        - img [ref=e295] [cursor=pointer]
+      - generic [ref=e298] [cursor=pointer]:
+        - generic [ref=e299] [cursor=pointer]: Book Subcategory
+        - img [ref=e300] [cursor=pointer]
+    - generic [ref=e302]:
+      - generic [ref=e305]:
+        - generic [ref=e306]:
+          - generic [ref=e307]:
+            - link "Home" [ref=e308] [cursor=pointer]:
+              - /url: /
+            - img [ref=e309]
+          - link "Books" [ref=e312] [cursor=pointer]:
+            - /url: /books/pr?sid=bks&marketplace=FLIPKART
+        - generic [ref=e313]:
+          - text: Showing 1 – 40 of 40,675 results for "
+          - generic [ref=e314]: Books
+          - text: "\""
+        - generic [ref=e315]:
+          - generic [ref=e316]: Sort By
+          - generic [ref=e317]: Relevance
+          - generic [ref=e318] [cursor=pointer]: Popularity
+          - generic [ref=e319] [cursor=pointer]: Price -- Low to High
+          - generic [ref=e320] [cursor=pointer]: Price -- High to Low
+          - generic [ref=e321] [cursor=pointer]: Newest First
+      - generic [ref=e323]:
+        - generic [ref=e325]:
+          - link "CBSE Question Bank SOLVED PAPERS Class 10 English Language & Lit For 2026 Exam" [ref=e326] [cursor=pointer]:
+            - /url: /cbse-question-bank-solved-papers-class-10-english-language-lit-2026-exam/p/itm115b784ea5dce?pid=9789362399625&lid=LSTBOK9789362399625PGGBEB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPx5OoC9vmgfgW8dJNBVsHZJlFyimyAihQlT0qhGIB1ehPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "CBSE Question Bank SOLVED PAPERS Class 10 English Language & Lit For 2026 Exam" [ref=e330] [cursor=pointer]
+            - img [ref=e333] [cursor=pointer]
+          - img [ref=e336]
+          - link "CBSE Question Bank SOLVED PAPERS Class 10 English Langu..." [ref=e339] [cursor=pointer]:
+            - /url: /cbse-question-bank-solved-papers-class-10-english-language-lit-2026-exam/p/itm115b784ea5dce?pid=9789362399625&lid=LSTBOK9789362399625PGGBEB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPx5OoC9vmgfgW8dJNBVsHZJlFyimyAihQlT0qhGIB1ehPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e340]: Paperback, Oswaal Editorial Board
+          - generic [ref=e341]:
+            - generic [ref=e343]:
+              - text: "4.1"
+              - img [ref=e344]
+            - generic [ref=e345]: (544)
+          - link "₹425 ₹699 39% off" [ref=e346] [cursor=pointer]:
+            - /url: /cbse-question-bank-solved-papers-class-10-english-language-lit-2026-exam/p/itm115b784ea5dce?pid=9789362399625&lid=LSTBOK9789362399625PGGBEB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPx5OoC9vmgfgW8dJNBVsHZJlFyimyAihQlT0qhGIB1ehPUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e347] [cursor=pointer]:
+              - generic [ref=e348] [cursor=pointer]: ₹425
+              - generic [ref=e349] [cursor=pointer]: ₹699
+              - generic [ref=e351] [cursor=pointer]: 39% off
+          - generic [ref=e354]: Top Discount of the Sale
+        - generic [ref=e356]:
+          - 'link "SURA`S Eklavya Model Residential School (EMRS) Hostel Warden(Male and Female) Exam Book Guide - English Medium 2026" [ref=e357] [cursor=pointer]':
+            - /url: /sura-s-eklavya-model-residential-school-emrs-hostel-warden-male-female-exam-book-guide-english-medium-2026/p/itm6dd902a772165?pid=9789364171311&lid=LSTBOK9789364171311YU7Q6C&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPz46jcQ3l6Or0rMb1b-d7DZ0kLe9kgsfPG51kNo7xZZfg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - 'img "SURA`S Eklavya Model Residential School (EMRS) Hostel Warden(Male and Female) Exam Book Guide - English Medium 2026" [ref=e361] [cursor=pointer]'
+            - img [ref=e364] [cursor=pointer]
+          - img [ref=e367]
+          - 'link "SURA`S Eklavya Model Residential School (EMRS) Hostel W..." [ref=e370] [cursor=pointer]':
+            - /url: /sura-s-eklavya-model-residential-school-emrs-hostel-warden-male-female-exam-book-guide-english-medium-2026/p/itm6dd902a772165?pid=9789364171311&lid=LSTBOK9789364171311YU7Q6C&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPz46jcQ3l6Or0rMb1b-d7DZ0kLe9kgsfPG51kNo7xZZfg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e371]: Paperback, VVK SUBBURAJ
+          - generic [ref=e372]:
+            - generic [ref=e374]:
+              - text: "4.3"
+              - img [ref=e375]
+            - generic [ref=e376]: (9)
+          - img [ref=e378]
+          - link "₹478 ₹600 20% off" [ref=e379] [cursor=pointer]:
+            - /url: /sura-s-eklavya-model-residential-school-emrs-hostel-warden-male-female-exam-book-guide-english-medium-2026/p/itm6dd902a772165?pid=9789364171311&lid=LSTBOK9789364171311YU7Q6C&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPz46jcQ3l6Or0rMb1b-d7DZ0kLe9kgsfPG51kNo7xZZfg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e380] [cursor=pointer]:
+              - generic [ref=e381] [cursor=pointer]: ₹478
+              - generic [ref=e382] [cursor=pointer]: ₹600
+              - generic [ref=e384] [cursor=pointer]: 20% off
+        - generic [ref=e386]:
+          - link "Mindset , Deep Work (Set Of Two)" [ref=e387] [cursor=pointer]:
+            - /url: /mindset-deep-work-set-two/p/itm717078c3129a0?pid=RBKGATBMT5JF3MC5&lid=LSTRBKGATBMT5JF3MC5PXRHLC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKGATBMT5JF3MC5.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Mindset , Deep Work (Set Of Two)" [ref=e391] [cursor=pointer]
+            - img [ref=e394] [cursor=pointer]
+          - link "Mindset , Deep Work (Set Of Two)" [ref=e396] [cursor=pointer]:
+            - /url: /mindset-deep-work-set-two/p/itm717078c3129a0?pid=RBKGATBMT5JF3MC5&lid=LSTRBKGATBMT5JF3MC5PXRHLC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKGATBMT5JF3MC5.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e397]: Paperback, Carol Dweck & Cal Newport
+          - generic [ref=e398]:
+            - generic [ref=e400]:
+              - text: "4.3"
+              - img [ref=e401]
+            - generic [ref=e402]: (5,890)
+          - img [ref=e404]
+          - link "₹137 ₹749 81% off" [ref=e405] [cursor=pointer]:
+            - /url: /mindset-deep-work-set-two/p/itm717078c3129a0?pid=RBKGATBMT5JF3MC5&lid=LSTRBKGATBMT5JF3MC5PXRHLC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKGATBMT5JF3MC5.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e406] [cursor=pointer]:
+              - generic [ref=e407] [cursor=pointer]: ₹137
+              - generic [ref=e408] [cursor=pointer]: ₹749
+              - generic [ref=e410] [cursor=pointer]: 81% off
+          - generic [ref=e413]: Top Discount of the Sale
+        - generic [ref=e415]:
+          - link "Truth without Apology" [ref=e416] [cursor=pointer]:
+            - /url: /truth-without-apology/p/itm199e4a015bf96?pid=9789369896578&lid=LSTBOK9789369896578WTFXWI&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789369896578.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Truth without Apology" [ref=e420] [cursor=pointer]
+            - img [ref=e423] [cursor=pointer]
+          - link "Truth without Apology" [active] [ref=e425] [cursor=pointer]:
+            - /url: /truth-without-apology/p/itm199e4a015bf96?pid=9789369896578&lid=LSTBOK9789369896578WTFXWI&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789369896578.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e426]: English, Paperback, Prashant Acharya
+          - generic [ref=e427]:
+            - generic [ref=e429]:
+              - text: "4.8"
+              - img [ref=e430]
+            - generic [ref=e431]: (156)
+          - link "₹260 ₹399 34% off" [ref=e432] [cursor=pointer]:
+            - /url: /truth-without-apology/p/itm199e4a015bf96?pid=9789369896578&lid=LSTBOK9789369896578WTFXWI&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789369896578.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e433] [cursor=pointer]:
+              - generic [ref=e434] [cursor=pointer]: ₹260
+              - generic [ref=e435] [cursor=pointer]: ₹399
+              - generic [ref=e437] [cursor=pointer]: 34% off
+          - generic [ref=e440]: Top Discount of the Sale
+      - generic [ref=e442]:
+        - generic [ref=e444]:
+          - link "The Magic Of The Lost Temple" [ref=e445] [cursor=pointer]:
+            - /url: /magic-lost-temple/p/itmec4h6rky3pkk7?pid=9780143333166&lid=LSTBOK9780143333166IH244A&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780143333166.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "The Magic Of The Lost Temple" [ref=e449] [cursor=pointer]
+            - img [ref=e452] [cursor=pointer]
+          - link "The Magic Of The Lost Temple" [ref=e454] [cursor=pointer]:
+            - /url: /magic-lost-temple/p/itmec4h6rky3pkk7?pid=9780143333166&lid=LSTBOK9780143333166IH244A&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780143333166.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e455]: English, Paperback, Murty Sudha
+          - generic [ref=e456]:
+            - generic [ref=e458]:
+              - text: "4.6"
+              - img [ref=e459]
+            - generic [ref=e460]: (6,831)
+          - img [ref=e462]
+          - link "₹146 ₹274 46% off" [ref=e463] [cursor=pointer]:
+            - /url: /magic-lost-temple/p/itmec4h6rky3pkk7?pid=9780143333166&lid=LSTBOK9780143333166IH244A&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780143333166.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e464] [cursor=pointer]:
+              - generic [ref=e465] [cursor=pointer]: ₹146
+              - generic [ref=e466] [cursor=pointer]: ₹274
+              - generic [ref=e468] [cursor=pointer]: 46% off
+          - generic [ref=e471]: Only 3 left
+        - generic [ref=e473]:
+          - link "PW JEE Advanced 48 Years + JEE Main 143 Sets PYQs Phy, Chem, Maths Combo For 2026" [ref=e474] [cursor=pointer]:
+            - /url: /pw-jee-advanced-48-years-main-143-sets-pyqs-phy-chem-maths-combo-2026/p/itm6c1a83d04d15c?pid=9789371532549&lid=LSTBOK9789371532549QBCYGH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxBUzIlhXS7iPOnWE1_gfBjtcd5c97H7WN__vUmpox62Q%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "PW JEE Advanced 48 Years + JEE Main 143 Sets PYQs Phy, Chem, Maths Combo For 2026" [ref=e478] [cursor=pointer]
+            - img [ref=e481] [cursor=pointer]
+          - img [ref=e484]
+          - link "PW JEE Advanced 48 Years + JEE Main 143 Sets PYQs Phy, ..." [ref=e487] [cursor=pointer]:
+            - /url: /pw-jee-advanced-48-years-main-143-sets-pyqs-phy-chem-maths-combo-2026/p/itm6c1a83d04d15c?pid=9789371532549&lid=LSTBOK9789371532549QBCYGH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxBUzIlhXS7iPOnWE1_gfBjtcd5c97H7WN__vUmpox62Q%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e488]: Paperback, PW
+          - generic [ref=e489]:
+            - generic [ref=e491]:
+              - text: "4.5"
+              - img [ref=e492]
+            - generic [ref=e493]: (447)
+          - img [ref=e495]
+          - link "₹1,949 ₹2,847 31% off" [ref=e496] [cursor=pointer]:
+            - /url: /pw-jee-advanced-48-years-main-143-sets-pyqs-phy-chem-maths-combo-2026/p/itm6c1a83d04d15c?pid=9789371532549&lid=LSTBOK9789371532549QBCYGH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_6&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxBUzIlhXS7iPOnWE1_gfBjtcd5c97H7WN__vUmpox62Q%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e497] [cursor=pointer]:
+              - generic [ref=e498] [cursor=pointer]: ₹1,949
+              - generic [ref=e499] [cursor=pointer]: ₹2,847
+              - generic [ref=e501] [cursor=pointer]: 31% off
+        - generic [ref=e503]:
+          - link "Indian Polity Courseware (English), 8e by M Laxmikanth for UPSC CSE 2025-26 | 40+ Conceptual Videos | 95 Well-structured Chapters | 18 Insightful Appendices | Full Colour eBook | Solved 13 Previous Years' Prelim Questions (2013�2025) | 12 Years' UPSC Main Exam Questions | Practice Questions" [ref=e504] [cursor=pointer]:
+            - /url: /indian-polity-courseware-english-8e-m-laxmikanth-upsc-cse-2025-26-40-conceptual-videos-95-well-structured-chapters-18-insightful-appendices-full-colour-ebook-solved-13-previous-years-prelim-questions-20132025-12-main-exam-practice/p/itmc0388d5485112?pid=9789364447676&lid=LSTBOK9789364447676AGXI5H&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789364447676.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Indian Polity Courseware (English), 8e by M Laxmikanth for UPSC CSE 2025-26 | 40+ Conceptual Videos | 95 Well-structured Chapters | 18 Insightful Appendices | Full Colour eBook | Solved 13 Previous Years' Prelim Questions (2013�2025) | 12 Years' UPSC Main Exam Questions | Practice Questions" [ref=e508] [cursor=pointer]
+            - img [ref=e511] [cursor=pointer]
+          - link "Indian Polity Courseware (English), 8e by M Laxmikanth ..." [ref=e513] [cursor=pointer]:
+            - /url: /indian-polity-courseware-english-8e-m-laxmikanth-upsc-cse-2025-26-40-conceptual-videos-95-well-structured-chapters-18-insightful-appendices-full-colour-ebook-solved-13-previous-years-prelim-questions-20132025-12-main-exam-practice/p/itmc0388d5485112?pid=9789364447676&lid=LSTBOK9789364447676AGXI5H&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789364447676.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e514]: English, Paperback, Laxmikanth M
+          - generic [ref=e515]:
+            - generic [ref=e517]:
+              - text: "4.4"
+              - img [ref=e518]
+            - generic [ref=e519]: (1,134)
+          - img [ref=e521]
+          - link "₹740 ₹1,090 32% off" [ref=e522] [cursor=pointer]:
+            - /url: /indian-polity-courseware-english-8e-m-laxmikanth-upsc-cse-2025-26-40-conceptual-videos-95-well-structured-chapters-18-insightful-appendices-full-colour-ebook-solved-13-previous-years-prelim-questions-20132025-12-main-exam-practice/p/itmc0388d5485112?pid=9789364447676&lid=LSTBOK9789364447676AGXI5H&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789364447676.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e523] [cursor=pointer]:
+              - generic [ref=e524] [cursor=pointer]: ₹740
+              - generic [ref=e525] [cursor=pointer]: ₹1,090
+              - generic [ref=e527] [cursor=pointer]: 32% off
+          - generic [ref=e530]: Top Discount of the Sale
+        - generic [ref=e532]:
+          - link "The Psychology Of Money & Zero To One Self-Help Book (Combo Book Set)" [ref=e533] [cursor=pointer]:
+            - /url: /psychology-money-zero-one-self-help-book-combo-set/p/itm720bdbf3c81f6?pid=RBKHFY87HCWWGQ9D&lid=LSTRBKHFY87HCWWGQ9DRW6IX9&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFY87HCWWGQ9D.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "The Psychology Of Money & Zero To One Self-Help Book (Combo Book Set)" [ref=e537] [cursor=pointer]
+            - img [ref=e540] [cursor=pointer]
+          - link "The Psychology Of Money & Zero To One Self-Help Book (C..." [ref=e542] [cursor=pointer]:
+            - /url: /psychology-money-zero-one-self-help-book-combo-set/p/itm720bdbf3c81f6?pid=RBKHFY87HCWWGQ9D&lid=LSTRBKHFY87HCWWGQ9DRW6IX9&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFY87HCWWGQ9D.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e543]: Paperback, Peter Thiel, Ryan Holiday
+          - img [ref=e545]
+          - link "₹254 ₹998 74% off" [ref=e546] [cursor=pointer]:
+            - /url: /psychology-money-zero-one-self-help-book-combo-set/p/itm720bdbf3c81f6?pid=RBKHFY87HCWWGQ9D&lid=LSTRBKHFY87HCWWGQ9DRW6IX9&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFY87HCWWGQ9D.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e547] [cursor=pointer]:
+              - generic [ref=e548] [cursor=pointer]: ₹254
+              - generic [ref=e549] [cursor=pointer]: ₹998
+              - generic [ref=e551] [cursor=pointer]: 74% off
+          - generic [ref=e554]: Only few left
+      - generic [ref=e556]:
+        - generic [ref=e558]:
+          - link "The Things You Can See Only When You Slow Down" [ref=e559] [cursor=pointer]:
+            - /url: /things-you-can-see-only-slow-down/p/itmesb25rzuwqrze?pid=9780241340660&lid=LSTBOK9780241340660T7OQEM&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780241340660.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "The Things You Can See Only When You Slow Down" [ref=e563] [cursor=pointer]
+            - img [ref=e566] [cursor=pointer]
+          - link "The Things You Can See Only When You Slow Down" [ref=e568] [cursor=pointer]:
+            - /url: /things-you-can-see-only-slow-down/p/itmesb25rzuwqrze?pid=9780241340660&lid=LSTBOK9780241340660T7OQEM&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780241340660.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e569]: English, Paperback, Sunim Haemin
+          - generic [ref=e570]:
+            - generic [ref=e572]:
+              - text: "4.5"
+              - img [ref=e573]
+            - generic [ref=e574]: (1,878)
+          - img [ref=e576]
+          - link "₹149 ₹581 74% off" [ref=e577] [cursor=pointer]:
+            - /url: /things-you-can-see-only-slow-down/p/itmesb25rzuwqrze?pid=9780241340660&lid=LSTBOK9780241340660T7OQEM&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_9&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780241340660.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e578] [cursor=pointer]:
+              - generic [ref=e579] [cursor=pointer]: ₹149
+              - generic [ref=e580] [cursor=pointer]: ₹581
+              - generic [ref=e582] [cursor=pointer]: 74% off
+          - generic [ref=e585]: Lowest price since launch
+        - generic [ref=e587]:
+          - link "Mass Spoken English Book" [ref=e588] [cursor=pointer]:
+            - /url: /mass-spoken-english-book/p/itm7b76b06c4b87b?pid=9788196885755&lid=LSTBOK9788196885755BLUBQL&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788196885755.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Mass Spoken English Book" [ref=e592] [cursor=pointer]
+            - img [ref=e595] [cursor=pointer]
+          - link "Mass Spoken English Book" [ref=e597] [cursor=pointer]:
+            - /url: /mass-spoken-english-book/p/itm7b76b06c4b87b?pid=9788196885755&lid=LSTBOK9788196885755BLUBQL&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788196885755.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e598]: English, Paperback, Yadav Kamlesh
+          - generic [ref=e599]:
+            - generic [ref=e601]:
+              - text: "4.4"
+              - img [ref=e602]
+            - generic [ref=e603]: (9,743)
+          - link "₹200 ₹399 49% off" [ref=e604] [cursor=pointer]:
+            - /url: /mass-spoken-english-book/p/itm7b76b06c4b87b?pid=9788196885755&lid=LSTBOK9788196885755BLUBQL&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_10&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788196885755.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e605] [cursor=pointer]:
+              - generic [ref=e606] [cursor=pointer]: ₹200
+              - generic [ref=e607] [cursor=pointer]: ₹399
+              - generic [ref=e609] [cursor=pointer]: 49% off
+          - generic [ref=e612]: Only few left
+        - generic [ref=e614]:
+          - link "Oswaal Cbse 10 Years' Solved Papers, Yearwise (2016-2025) Class 10" [ref=e615] [cursor=pointer]:
+            - /url: /oswaal-cbse-10-years-solved-papers-yearwise-2016-2025-class/p/itm605908fe61a6a?pid=9789367471388&lid=LSTBOK978936747138871YL24&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxrURZl9sb8Bs97Y6v8WbF-3Lzm6eXMgvIKW58Y3pzsIuo15S0a61Wzzbg3qNOknKY%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Oswaal Cbse 10 Years' Solved Papers, Yearwise (2016-2025) Class 10" [ref=e619] [cursor=pointer]
+            - img [ref=e622] [cursor=pointer]
+          - img [ref=e625]
+          - link "Oswaal Cbse 10 Years' Solved Papers, Yearwise (2016-202..." [ref=e628] [cursor=pointer]:
+            - /url: /oswaal-cbse-10-years-solved-papers-yearwise-2016-2025-class/p/itm605908fe61a6a?pid=9789367471388&lid=LSTBOK978936747138871YL24&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxrURZl9sb8Bs97Y6v8WbF-3Lzm6eXMgvIKW58Y3pzsIuo15S0a61Wzzbg3qNOknKY%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e629]: English, Paperback, unknown
+          - generic [ref=e630]:
+            - generic [ref=e632]:
+              - text: "4.2"
+              - img [ref=e633]
+            - generic [ref=e634]: (251)
+          - link "₹900 ₹1,099 18% off" [ref=e635] [cursor=pointer]:
+            - /url: /oswaal-cbse-10-years-solved-papers-yearwise-2016-2025-class/p/itm605908fe61a6a?pid=9789367471388&lid=LSTBOK978936747138871YL24&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_11&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxrURZl9sb8Bs97Y6v8WbF-3Lzm6eXMgvIKW58Y3pzsIuo15S0a61Wzzbg3qNOknKY%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e636] [cursor=pointer]:
+              - generic [ref=e637] [cursor=pointer]: ₹900
+              - generic [ref=e638] [cursor=pointer]: ₹1,099
+              - generic [ref=e640] [cursor=pointer]: 18% off
+        - generic [ref=e642]:
+          - link "Glow Glossary Combo of 5 Best Selling Book (Rich Dad Bad Dad,Ikigai,Atomic Habit,Psychology of Money and the Substle Art of Not Giving a Fu*K)" [ref=e643] [cursor=pointer]:
+            - /url: /glow-glossary-combo-5-best-selling-book-rich-dad-bad-dad-ikigai-atomic-habit-psychology-money-substle-art-not-giving-fu-k/p/itm5dbaa73eab20c?pid=9782746696006&lid=LSTBOK9782746696006P1E6J5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPwWKeofg_XPG8k9LuX6nESY6cS2rK6BYI27zBDhMWAoaQ%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Glow Glossary Combo of 5 Best Selling Book (Rich Dad Bad Dad,Ikigai,Atomic Habit,Psychology of Money and the Substle Art of Not Giving a Fu*K)" [ref=e647] [cursor=pointer]
+            - img [ref=e650] [cursor=pointer]
+          - img [ref=e653]
+          - link "Glow Glossary Combo of 5 Best Selling Book (Rich Dad Ba..." [ref=e656] [cursor=pointer]:
+            - /url: /glow-glossary-combo-5-best-selling-book-rich-dad-bad-dad-ikigai-atomic-habit-psychology-money-substle-art-not-giving-fu-k/p/itm5dbaa73eab20c?pid=9782746696006&lid=LSTBOK9782746696006P1E6J5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPwWKeofg_XPG8k9LuX6nESY6cS2rK6BYI27zBDhMWAoaQ%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e657]: English, Paperback, CLEAR JAMES
+          - generic [ref=e658]:
+            - generic [ref=e660]:
+              - text: "4.3"
+              - img [ref=e661]
+            - generic [ref=e662]: (2,195)
+          - img [ref=e664]
+          - link "₹260 ₹2,999 91% off" [ref=e665] [cursor=pointer]:
+            - /url: /glow-glossary-combo-5-best-selling-book-rich-dad-bad-dad-ikigai-atomic-habit-psychology-money-substle-art-not-giving-fu-k/p/itm5dbaa73eab20c?pid=9782746696006&lid=LSTBOK9782746696006P1E6J5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPwWKeofg_XPG8k9LuX6nESY6cS2rK6BYI27zBDhMWAoaQ%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e666] [cursor=pointer]:
+              - generic [ref=e667] [cursor=pointer]: ₹260
+              - generic [ref=e668] [cursor=pointer]: ₹2,999
+              - generic [ref=e670] [cursor=pointer]: 91% off
+          - generic [ref=e673]: Top Discount of the Sale
+      - generic [ref=e675]:
+        - generic [ref=e677]:
+          - link "The Kite Runner+A Thousand Splendid Suns" [ref=e678] [cursor=pointer]:
+            - /url: /kite-runner-a-thousand-splendid-suns/p/itm0b1a98ea58711?pid=RBKGQKHTCPPA2DJR&lid=LSTRBKGQKHTCPPA2DJRXZIW5T&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKGQKHTCPPA2DJR.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "The Kite Runner+A Thousand Splendid Suns" [ref=e682] [cursor=pointer]
+            - img [ref=e685] [cursor=pointer]
+          - link "The Kite Runner+A Thousand Splendid Suns" [ref=e687] [cursor=pointer]:
+            - /url: /kite-runner-a-thousand-splendid-suns/p/itm0b1a98ea58711?pid=RBKGQKHTCPPA2DJR&lid=LSTRBKGQKHTCPPA2DJRXZIW5T&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKGQKHTCPPA2DJR.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e688]: Paperback, Khaled Hosseini
+          - generic [ref=e689]:
+            - generic [ref=e691]:
+              - text: "4.3"
+              - img [ref=e692]
+            - generic [ref=e693]: (3,125)
+          - img [ref=e695]
+          - link "₹200 ₹800 75% off" [ref=e696] [cursor=pointer]:
+            - /url: /kite-runner-a-thousand-splendid-suns/p/itm0b1a98ea58711?pid=RBKGQKHTCPPA2DJR&lid=LSTRBKGQKHTCPPA2DJRXZIW5T&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKGQKHTCPPA2DJR.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e697] [cursor=pointer]:
+              - generic [ref=e698] [cursor=pointer]: ₹200
+              - generic [ref=e699] [cursor=pointer]: ₹800
+              - generic [ref=e701] [cursor=pointer]: 75% off
+          - generic [ref=e704]: Only few left
+        - generic [ref=e706]:
+          - link "Stock Investment Mastermind By Zebra Learn" [ref=e707] [cursor=pointer]:
+            - /url: /stock-investment-mastermind-zebra-learn/p/itm2e82314f393fb?pid=RBKHGAMYZHEAGUS4&lid=LSTRBKHGAMYZHEAGUS4ZOPGXQ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHGAMYZHEAGUS4.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Stock Investment Mastermind By Zebra Learn" [ref=e711] [cursor=pointer]
+            - img [ref=e714] [cursor=pointer]
+          - link "Stock Investment Mastermind By Zebra Learn" [ref=e716] [cursor=pointer]:
+            - /url: /stock-investment-mastermind-zebra-learn/p/itm2e82314f393fb?pid=RBKHGAMYZHEAGUS4&lid=LSTRBKHGAMYZHEAGUS4ZOPGXQ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHGAMYZHEAGUS4.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e717]: Paperback, ZEBRALEARN
+          - img [ref=e719]
+          - link "₹370 ₹2,999 87% off" [ref=e720] [cursor=pointer]:
+            - /url: /stock-investment-mastermind-zebra-learn/p/itm2e82314f393fb?pid=RBKHGAMYZHEAGUS4&lid=LSTRBKHGAMYZHEAGUS4ZOPGXQ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_14&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHGAMYZHEAGUS4.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e721] [cursor=pointer]:
+              - generic [ref=e722] [cursor=pointer]: ₹370
+              - generic [ref=e723] [cursor=pointer]: ₹2,999
+              - generic [ref=e725] [cursor=pointer]: 87% off
+          - generic [ref=e728]: Only few left
+        - generic [ref=e730]:
+          - link "The Secret - RHONDA BYRNE" [ref=e731] [cursor=pointer]:
+            - /url: /secret-rhonda-byrne/p/itmfc39yeqczfbhq?pid=9781847370297&lid=LSTBOK9781847370297AD55PZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9781847370297.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "The Secret - RHONDA BYRNE" [ref=e735] [cursor=pointer]
+            - img [ref=e738] [cursor=pointer]
+          - link "The Secret - RHONDA BYRNE" [ref=e740] [cursor=pointer]:
+            - /url: /secret-rhonda-byrne/p/itmfc39yeqczfbhq?pid=9781847370297&lid=LSTBOK9781847370297AD55PZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9781847370297.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e741]: English, Hardcover, Byrne Rhonda
+          - generic [ref=e742]:
+            - generic [ref=e744]:
+              - text: "4.4"
+              - img [ref=e745]
+            - generic [ref=e746]: (14,315)
+          - img [ref=e748]
+          - link "₹168 ₹891 81% off" [ref=e749] [cursor=pointer]:
+            - /url: /secret-rhonda-byrne/p/itmfc39yeqczfbhq?pid=9781847370297&lid=LSTBOK9781847370297AD55PZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_15&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9781847370297.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e750] [cursor=pointer]:
+              - generic [ref=e751] [cursor=pointer]: ₹168
+              - generic [ref=e752] [cursor=pointer]: ₹891
+              - generic [ref=e754] [cursor=pointer]: 81% off
+          - generic [ref=e757]: Only few left
+        - generic [ref=e759]:
+          - link "Lt Grade Exam English 50 Practice Set New Edition 2025 By Rupam Publication" [ref=e760] [cursor=pointer]:
+            - /url: /lt-grade-exam-english-50-practice-set-new-2025-rupam-publication/p/itm40839cecc1a03?pid=RBKHGY6YHMGHUAHY&lid=LSTRBKHGY6YHMGHUAHYKK90IG&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHGY6YHMGHUAHY.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Lt Grade Exam English 50 Practice Set New Edition 2025 By Rupam Publication" [ref=e764] [cursor=pointer]
+            - img [ref=e767] [cursor=pointer]
+          - link "Lt Grade Exam English 50 Practice Set New Edition 2025 ..." [ref=e769] [cursor=pointer]:
+            - /url: /lt-grade-exam-english-50-practice-set-new-2025-rupam-publication/p/itm40839cecc1a03?pid=RBKHGY6YHMGHUAHY&lid=LSTRBKHGY6YHMGHUAHYKK90IG&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHGY6YHMGHUAHY.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e770]: Paperback, DR RANJEET SINGH
+          - link "₹406 ₹475 14% off" [ref=e771] [cursor=pointer]:
+            - /url: /lt-grade-exam-english-50-practice-set-new-2025-rupam-publication/p/itm40839cecc1a03?pid=RBKHGY6YHMGHUAHY&lid=LSTRBKHGY6YHMGHUAHYKK90IG&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_16&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHGY6YHMGHUAHY.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e772] [cursor=pointer]:
+              - generic [ref=e773] [cursor=pointer]: ₹406
+              - generic [ref=e774] [cursor=pointer]: ₹475
+              - generic [ref=e776] [cursor=pointer]: 14% off
+          - generic [ref=e779]: Only 2 left
+      - generic [ref=e781]:
+        - generic [ref=e783]:
+          - link "Pw Objective Ncert Punch 4.0 Biology for Neet 2026" [ref=e784] [cursor=pointer]:
+            - /url: /pw-objective-ncert-punch-4-0-biology-neet-2026/p/itm2a4b9f6a582bb?pid=9789368978121&lid=LSTBOK978936897812147GISB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxfCiz34kwyuZBhyWal3BpnihRFE3sYApCC1BX9LHMlgg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Pw Objective Ncert Punch 4.0 Biology for Neet 2026" [ref=e788] [cursor=pointer]
+            - img [ref=e791] [cursor=pointer]
+          - img [ref=e794]
+          - link "Pw Objective Ncert Punch 4.0 Biology for Neet 2026" [ref=e797] [cursor=pointer]:
+            - /url: /pw-objective-ncert-punch-4-0-biology-neet-2026/p/itm2a4b9f6a582bb?pid=9789368978121&lid=LSTBOK978936897812147GISB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxfCiz34kwyuZBhyWal3BpnihRFE3sYApCC1BX9LHMlgg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e798]: English, Paperback, Sharma Vipin Kumar
+          - generic [ref=e799]:
+            - generic [ref=e801]:
+              - text: "4.6"
+              - img [ref=e802]
+            - generic [ref=e803]: (1,866)
+          - img [ref=e805]
+          - link "₹704 ₹999 29% off" [ref=e806] [cursor=pointer]:
+            - /url: /pw-objective-ncert-punch-4-0-biology-neet-2026/p/itm2a4b9f6a582bb?pid=9789368978121&lid=LSTBOK978936897812147GISB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_17&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxfCiz34kwyuZBhyWal3BpnihRFE3sYApCC1BX9LHMlgg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e807] [cursor=pointer]:
+              - generic [ref=e808] [cursor=pointer]: ₹704
+              - generic [ref=e809] [cursor=pointer]: ₹999
+              - generic [ref=e811] [cursor=pointer]: 29% off
+        - generic [ref=e813]:
+          - link "Rich dad poor dad - RICH DAD BESTSELLER BOOK 25TH LIMITED EDITION BOOK with 10 Disc" [ref=e814] [cursor=pointer]:
+            - /url: /rich-dad-poor-bestseller-book-25th-limited-10-disc/p/itm9083a2d9f80da?pid=9789970382811&lid=LSTBOK9789970382811KNXER6&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPwJVgz3rdLsb-0xlYfUtFmv0IA3bSw7e2DFtSH3DJv7Fw%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Rich dad poor dad - RICH DAD BESTSELLER BOOK 25TH LIMITED EDITION BOOK with 10 Disc" [ref=e818] [cursor=pointer]
+            - img [ref=e821] [cursor=pointer]
+          - img [ref=e824]
+          - link "Rich dad poor dad - RICH DAD BESTSELLER BOOK 25TH LIMI..." [ref=e827] [cursor=pointer]:
+            - /url: /rich-dad-poor-bestseller-book-25th-limited-10-disc/p/itm9083a2d9f80da?pid=9789970382811&lid=LSTBOK9789970382811KNXER6&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPwJVgz3rdLsb-0xlYfUtFmv0IA3bSw7e2DFtSH3DJv7Fw%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e828]: Paperback, Robert T. Kiyosaki, Sharon Lechter
+          - generic [ref=e829]:
+            - generic [ref=e831]:
+              - text: "4.4"
+              - img [ref=e832]
+            - generic [ref=e833]: (264)
+          - img [ref=e835]
+          - link "₹170 ₹499 65% off" [ref=e836] [cursor=pointer]:
+            - /url: /rich-dad-poor-bestseller-book-25th-limited-10-disc/p/itm9083a2d9f80da?pid=9789970382811&lid=LSTBOK9789970382811KNXER6&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPwJVgz3rdLsb-0xlYfUtFmv0IA3bSw7e2DFtSH3DJv7Fw%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e837] [cursor=pointer]:
+              - generic [ref=e838] [cursor=pointer]: ₹170
+              - generic [ref=e839] [cursor=pointer]: ₹499
+              - generic [ref=e841] [cursor=pointer]: 65% off
+        - generic [ref=e843]:
+          - link "Essential English Grammar first Edition" [ref=e844] [cursor=pointer]:
+            - /url: /essential-english-grammar-first/p/itmdyuxpmc2cf3gt?pid=9788175960299&lid=LSTBOK9788175960299AYTLKH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788175960299.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Essential English Grammar first Edition" [ref=e848] [cursor=pointer]
+            - img [ref=e851] [cursor=pointer]
+          - link "Essential English Grammar first Edition" [ref=e853] [cursor=pointer]:
+            - /url: /essential-english-grammar-first/p/itmdyuxpmc2cf3gt?pid=9788175960299&lid=LSTBOK9788175960299AYTLKH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788175960299.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e854]: English, Paperback, Murphy Raymond
+          - generic [ref=e855]:
+            - generic [ref=e857]:
+              - text: "4.3"
+              - img [ref=e858]
+            - generic [ref=e859]: (10,443)
+          - link "₹163 ₹247 34% off" [ref=e860] [cursor=pointer]:
+            - /url: /essential-english-grammar-first/p/itmdyuxpmc2cf3gt?pid=9788175960299&lid=LSTBOK9788175960299AYTLKH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_19&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788175960299.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e861] [cursor=pointer]:
+              - generic [ref=e862] [cursor=pointer]: ₹163
+              - generic [ref=e863] [cursor=pointer]: ₹247
+              - generic [ref=e865] [cursor=pointer]: 34% off
+          - generic [ref=e868]: Only 1 left
+        - generic [ref=e870]:
+          - link "This Thing Called Love" [ref=e871] [cursor=pointer]:
+            - /url: /thing-called-love/p/itmdf642190ed638?pid=9788198266156&lid=LSTBOK9788198266156IMEVMC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788198266156.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "This Thing Called Love" [ref=e875] [cursor=pointer]
+            - img [ref=e878] [cursor=pointer]
+          - link "This Thing Called Love" [ref=e880] [cursor=pointer]:
+            - /url: /thing-called-love/p/itmdf642190ed638?pid=9788198266156&lid=LSTBOK9788198266156IMEVMC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788198266156.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e881]: Paperback, Deblina Bhattacharyya
+          - generic [ref=e882]:
+            - generic [ref=e884]:
+              - text: "4.3"
+              - img [ref=e885]
+            - generic [ref=e886]: (77)
+          - link "₹202 ₹299 32% off" [ref=e887] [cursor=pointer]:
+            - /url: /thing-called-love/p/itmdf642190ed638?pid=9788198266156&lid=LSTBOK9788198266156IMEVMC&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_20&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788198266156.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e888] [cursor=pointer]:
+              - generic [ref=e889] [cursor=pointer]: ₹202
+              - generic [ref=e890] [cursor=pointer]: ₹299
+              - generic [ref=e892] [cursor=pointer]: 32% off
+          - generic [ref=e895]: Top Discount of the Sale
+      - generic [ref=e897]:
+        - generic [ref=e899]:
+          - link "PW Objective NCERT Punch 4.0 Chemistry For NEET 2026 By Pankaj Sijairya" [ref=e900] [cursor=pointer]:
+            - /url: /pw-objective-ncert-punch-4-0-chemistry-neet-2026-pankaj-sijairya/p/itm34a27e6fc9331?pid=9789368978503&lid=LSTBOK9789368978503ZRPDCF&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyyH2PFXOvGdo1Kw_8aECFySMEOOhhoW0zAkx57WJUL7A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "PW Objective NCERT Punch 4.0 Chemistry For NEET 2026 By Pankaj Sijairya" [ref=e904] [cursor=pointer]
+            - img [ref=e907] [cursor=pointer]
+          - img [ref=e910]
+          - link "PW Objective NCERT Punch 4.0 Chemistry For NEET 2026 By..." [ref=e913] [cursor=pointer]:
+            - /url: /pw-objective-ncert-punch-4-0-chemistry-neet-2026-pankaj-sijairya/p/itm34a27e6fc9331?pid=9789368978503&lid=LSTBOK9789368978503ZRPDCF&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyyH2PFXOvGdo1Kw_8aECFySMEOOhhoW0zAkx57WJUL7A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e914]: Paperback, Pankaj Sijairya, PW
+          - generic [ref=e915]:
+            - generic [ref=e917]:
+              - text: "4.5"
+              - img [ref=e918]
+            - generic [ref=e919]: (675)
+          - img [ref=e921]
+          - link "₹558 ₹749 25% off" [ref=e922] [cursor=pointer]:
+            - /url: /pw-objective-ncert-punch-4-0-chemistry-neet-2026-pankaj-sijairya/p/itm34a27e6fc9331?pid=9789368978503&lid=LSTBOK9789368978503ZRPDCF&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_21&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyyH2PFXOvGdo1Kw_8aECFySMEOOhhoW0zAkx57WJUL7A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e923] [cursor=pointer]:
+              - generic [ref=e924] [cursor=pointer]: ₹558
+              - generic [ref=e925] [cursor=pointer]: ₹749
+              - generic [ref=e927] [cursor=pointer]: 25% off
+        - generic [ref=e929]:
+          - link "PW NEET 13 Years PYQs English (2025-2013) Chapterwise & Topicwise Solved Papers" [ref=e930] [cursor=pointer]:
+            - /url: /pw-neet-13-years-pyqs-english-2025-2013-chapterwise-topicwise-solved-papers/p/itmf818691ef08f5?pid=9789368976141&lid=LSTBOK9789368976141LM0O6T&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxqSkdXbQ0v-EmdK4NPyN_Aeu_KLqiVkH7cMPqQ9-we8w%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "PW NEET 13 Years PYQs English (2025-2013) Chapterwise & Topicwise Solved Papers" [ref=e934] [cursor=pointer]
+            - img [ref=e937] [cursor=pointer]
+          - img [ref=e940]
+          - link "PW NEET 13 Years PYQs English (2025-2013) Chapterwise &..." [ref=e943] [cursor=pointer]:
+            - /url: /pw-neet-13-years-pyqs-english-2025-2013-chapterwise-topicwise-solved-papers/p/itmf818691ef08f5?pid=9789368976141&lid=LSTBOK9789368976141LM0O6T&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxqSkdXbQ0v-EmdK4NPyN_Aeu_KLqiVkH7cMPqQ9-we8w%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e944]: Paperback, PW
+          - generic [ref=e945]:
+            - generic [ref=e947]:
+              - text: "4.3"
+              - img [ref=e948]
+            - generic [ref=e949]: (344)
+          - img [ref=e951]
+          - link "₹395 ₹575 31% off" [ref=e952] [cursor=pointer]:
+            - /url: /pw-neet-13-years-pyqs-english-2025-2013-chapterwise-topicwise-solved-papers/p/itmf818691ef08f5?pid=9789368976141&lid=LSTBOK9789368976141LM0O6T&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_22&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxqSkdXbQ0v-EmdK4NPyN_Aeu_KLqiVkH7cMPqQ9-we8w%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e953] [cursor=pointer]:
+              - generic [ref=e954] [cursor=pointer]: ₹395
+              - generic [ref=e955] [cursor=pointer]: ₹575
+              - generic [ref=e957] [cursor=pointer]: 31% off
+          - generic [ref=e960]: Top Discount of the Sale
+        - generic [ref=e962]:
+          - link "PW EaJEE Handwritten Notes For Physical Chemistry By Faisal Razaq For JEE Exams" [ref=e963] [cursor=pointer]:
+            - /url: /pw-eajee-handwritten-notes-physical-chemistry-faisal-razaq-jee-exams/p/itmb49cb5893455f?pid=9789368971337&lid=LSTBOK9789368971337GGJE2F&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368971337.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "PW EaJEE Handwritten Notes For Physical Chemistry By Faisal Razaq For JEE Exams" [ref=e967] [cursor=pointer]
+            - img [ref=e970] [cursor=pointer]
+          - link "PW EaJEE Handwritten Notes For Physical Chemistry By Fa..." [ref=e972] [cursor=pointer]:
+            - /url: /pw-eajee-handwritten-notes-physical-chemistry-faisal-razaq-jee-exams/p/itmb49cb5893455f?pid=9789368971337&lid=LSTBOK9789368971337GGJE2F&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368971337.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e973]: Paperback, Faisal Razaq
+          - generic [ref=e974]:
+            - generic [ref=e976]:
+              - text: "4.6"
+              - img [ref=e977]
+            - generic [ref=e978]: (4,426)
+          - link "₹257 ₹549 53% off" [ref=e979] [cursor=pointer]:
+            - /url: /pw-eajee-handwritten-notes-physical-chemistry-faisal-razaq-jee-exams/p/itmb49cb5893455f?pid=9789368971337&lid=LSTBOK9789368971337GGJE2F&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_23&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368971337.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e980] [cursor=pointer]:
+              - generic [ref=e981] [cursor=pointer]: ₹257
+              - generic [ref=e982] [cursor=pointer]: ₹549
+              - generic [ref=e984] [cursor=pointer]: 53% off
+          - generic [ref=e987]: Top Discount of the Sale
+        - generic [ref=e989]:
+          - link "UP SI UTTAR PRADESH DAROGA Class Notes Maths By Rakesh Yadav Sir | Bilingual | Useful For All Competitive Exams" [ref=e990] [cursor=pointer]:
+            - /url: /up-si-uttar-pradesh-daroga-class-notes-maths-rakesh-yadav-sir-bilingual-useful-all-competitive-exams/p/itmc658a70c2c859?pid=RBKHFEFQY8XZE85N&lid=LSTRBKHFEFQY8XZE85NKJY3ZA&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFEFQY8XZE85N.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "UP SI UTTAR PRADESH DAROGA Class Notes Maths By Rakesh Yadav Sir | Bilingual | Useful For All Competitive Exams" [ref=e994] [cursor=pointer]
+            - img [ref=e997] [cursor=pointer]
+          - link "UP SI UTTAR PRADESH DAROGA Class Notes Maths By Rakesh ..." [ref=e999] [cursor=pointer]:
+            - /url: /up-si-uttar-pradesh-daroga-class-notes-maths-rakesh-yadav-sir-bilingual-useful-all-competitive-exams/p/itmc658a70c2c859?pid=RBKHFEFQY8XZE85N&lid=LSTRBKHFEFQY8XZE85NKJY3ZA&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFEFQY8XZE85N.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1000]: Paperback, RAKESH YADAV
+          - generic [ref=e1001]:
+            - generic [ref=e1003]:
+              - text: "4.5"
+              - img [ref=e1004]
+            - generic [ref=e1005]: (151)
+          - link "₹191 ₹249 23% off" [ref=e1006] [cursor=pointer]:
+            - /url: /up-si-uttar-pradesh-daroga-class-notes-maths-rakesh-yadav-sir-bilingual-useful-all-competitive-exams/p/itmc658a70c2c859?pid=RBKHFEFQY8XZE85N&lid=LSTRBKHFEFQY8XZE85NKJY3ZA&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFEFQY8XZE85N.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1007] [cursor=pointer]:
+              - generic [ref=e1008] [cursor=pointer]: ₹191
+              - generic [ref=e1009] [cursor=pointer]: ₹249
+              - generic [ref=e1011] [cursor=pointer]: 23% off
+          - generic [ref=e1014]: Only few left
+      - generic [ref=e1016]:
+        - generic [ref=e1018]:
+          - 'link "Talking With Psychopaths and Savages: Beyond Evil" [ref=e1019] [cursor=pointer]':
+            - /url: /talking-psychopaths-savages-beyond-evil/p/itm3c0d5fe85cfc0?pid=9781789461152&lid=LSTBOK9781789461152T1WCZ4&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9781789461152.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - 'img "Talking With Psychopaths and Savages: Beyond Evil" [ref=e1023] [cursor=pointer]'
+            - img [ref=e1026] [cursor=pointer]
+          - 'link "Talking With Psychopaths and Savages: Beyond Evil" [ref=e1028] [cursor=pointer]':
+            - /url: /talking-psychopaths-savages-beyond-evil/p/itm3c0d5fe85cfc0?pid=9781789461152&lid=LSTBOK9781789461152T1WCZ4&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9781789461152.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1029]: English, Paperback, Berry-Dee Christopher
+          - generic [ref=e1030]:
+            - generic [ref=e1032]:
+              - text: "4.3"
+              - img [ref=e1033]
+            - generic [ref=e1034]: (152)
+          - img [ref=e1036]
+          - link "₹188 ₹1,500 87% off" [ref=e1037] [cursor=pointer]:
+            - /url: /talking-psychopaths-savages-beyond-evil/p/itm3c0d5fe85cfc0?pid=9781789461152&lid=LSTBOK9781789461152T1WCZ4&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_25&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9781789461152.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1038] [cursor=pointer]:
+              - generic [ref=e1039] [cursor=pointer]: ₹188
+              - generic [ref=e1040] [cursor=pointer]: ₹1,500
+              - generic [ref=e1042] [cursor=pointer]: 87% off
+          - generic [ref=e1045]: Top Discount of the Sale
+        - generic [ref=e1047]:
+          - link "Economics In One Lesson" [ref=e1048] [cursor=pointer]:
+            - /url: /economics-one-lesson/p/itm60d32b2e1af73?pid=RBKHFKCB526KEYVF&lid=LSTRBKHFKCB526KEYVFOBZSRU&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFKCB526KEYVF.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Economics In One Lesson" [ref=e1052] [cursor=pointer]
+            - img [ref=e1055] [cursor=pointer]
+          - link "Economics In One Lesson" [ref=e1057] [cursor=pointer]:
+            - /url: /economics-one-lesson/p/itm60d32b2e1af73?pid=RBKHFKCB526KEYVF&lid=LSTRBKHFKCB526KEYVFOBZSRU&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFKCB526KEYVF.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1058]: Paperback, Henry Hazlitt
+          - img [ref=e1060]
+          - link "₹263 ₹799 67% off" [ref=e1061] [cursor=pointer]:
+            - /url: /economics-one-lesson/p/itm60d32b2e1af73?pid=RBKHFKCB526KEYVF&lid=LSTRBKHFKCB526KEYVFOBZSRU&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_26&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFKCB526KEYVF.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1062] [cursor=pointer]:
+              - generic [ref=e1063] [cursor=pointer]: ₹263
+              - generic [ref=e1064] [cursor=pointer]: ₹799
+              - generic [ref=e1066] [cursor=pointer]: 67% off
+          - generic [ref=e1069]: Only few left
+        - generic [ref=e1071]:
+          - link "The Psychology of Money & Think Grow Rich Bestseller Books Self-Help" [ref=e1072] [cursor=pointer]:
+            - /url: /psychology-money-think-grow-rich-bestseller-books-self-help/p/itm7fce75d8b1877?pid=9789748738949&lid=LSTBOK9789748738949OSWITZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyOU-X7QN3QxXv9WsX0hqm5z96PT-efvJGAOT5oDCoI_Q%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "The Psychology of Money & Think Grow Rich Bestseller Books Self-Help" [ref=e1076] [cursor=pointer]
+            - img [ref=e1079] [cursor=pointer]
+          - img [ref=e1082]
+          - link "The Psychology of Money & Think Grow Rich Bestseller Bo..." [ref=e1085] [cursor=pointer]:
+            - /url: /psychology-money-think-grow-rich-bestseller-books-self-help/p/itm7fce75d8b1877?pid=9789748738949&lid=LSTBOK9789748738949OSWITZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyOU-X7QN3QxXv9WsX0hqm5z96PT-efvJGAOT5oDCoI_Q%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1086]: Paperback, Morgan Housel, Napoleon Hill
+          - generic [ref=e1087]:
+            - generic [ref=e1089]:
+              - text: "4.3"
+              - img [ref=e1090]
+            - generic [ref=e1091]: (252)
+          - img [ref=e1093]
+          - link "₹197 ₹799 75% off" [ref=e1094] [cursor=pointer]:
+            - /url: /psychology-money-think-grow-rich-bestseller-books-self-help/p/itm7fce75d8b1877?pid=9789748738949&lid=LSTBOK9789748738949OSWITZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_27&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyOU-X7QN3QxXv9WsX0hqm5z96PT-efvJGAOT5oDCoI_Q%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1095] [cursor=pointer]:
+              - generic [ref=e1096] [cursor=pointer]: ₹197
+              - generic [ref=e1097] [cursor=pointer]: ₹799
+              - generic [ref=e1099] [cursor=pointer]: 75% off
+          - generic [ref=e1102]: Top Discount of the Sale
+        - generic [ref=e1104]:
+          - 'link "Combo Pack: Lakhmir Singh Class 9 Science Physics, Chemistry, Biology -Paperback, Lakhmir Singh|New Latest Edition For 2025-2026" [ref=e1105] [cursor=pointer]':
+            - /url: /combo-pack-lakhmir-singh-class-9-science-physics-chemistry-biology-paperback-singh-new-latest-2025-2026/p/itmd0bc07f2ec569?pid=9785389203259&lid=LSTBOK9785389203259ERUMC5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPzvNEBbDn8f667yEgU7QgeHShSfTjkIs9gY-HoT1rqV7A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - 'img "Combo Pack: Lakhmir Singh Class 9 Science Physics, Chemistry, Biology -Paperback, Lakhmir Singh|New Latest Edition For 2025-2026" [ref=e1109] [cursor=pointer]'
+            - img [ref=e1112] [cursor=pointer]
+          - img [ref=e1115]
+          - 'link "Combo Pack: Lakhmir Singh Class 9 Science Physics, Chem..." [ref=e1118] [cursor=pointer]':
+            - /url: /combo-pack-lakhmir-singh-class-9-science-physics-chemistry-biology-paperback-singh-new-latest-2025-2026/p/itmd0bc07f2ec569?pid=9785389203259&lid=LSTBOK9785389203259ERUMC5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPzvNEBbDn8f667yEgU7QgeHShSfTjkIs9gY-HoT1rqV7A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1119]: Paperback, Lakhmir Singh
+          - generic [ref=e1120]:
+            - generic [ref=e1122]:
+              - text: "4.2"
+              - img [ref=e1123]
+            - generic [ref=e1124]: (718)
+          - link "₹1,143 ₹1,725 33% off" [ref=e1125] [cursor=pointer]:
+            - /url: /combo-pack-lakhmir-singh-class-9-science-physics-chemistry-biology-paperback-singh-new-latest-2025-2026/p/itmd0bc07f2ec569?pid=9785389203259&lid=LSTBOK9785389203259ERUMC5&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_28&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPzvNEBbDn8f667yEgU7QgeHShSfTjkIs9gY-HoT1rqV7A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1126] [cursor=pointer]:
+              - generic [ref=e1127] [cursor=pointer]: ₹1,143
+              - generic [ref=e1128] [cursor=pointer]: ₹1,725
+              - generic [ref=e1130] [cursor=pointer]: 33% off
+      - generic [ref=e1132]:
+        - generic [ref=e1134]:
+          - link "PW EaJEE Handwritten Notes For Organic Chemistry By Rohit Sir & SKC Sir For JEE Main & Advanced" [ref=e1135] [cursor=pointer]:
+            - /url: /pw-eajee-handwritten-notes-organic-chemistry-rohit-sir-skc-jee-main-advanced/p/itmaa7c4d321fb82?pid=9789368974932&lid=LSTBOK9789368974932VKAECU&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368974932.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "PW EaJEE Handwritten Notes For Organic Chemistry By Rohit Sir & SKC Sir For JEE Main & Advanced" [ref=e1139] [cursor=pointer]
+            - img [ref=e1142] [cursor=pointer]
+          - link "PW EaJEE Handwritten Notes For Organic Chemistry By Roh..." [ref=e1144] [cursor=pointer]:
+            - /url: /pw-eajee-handwritten-notes-organic-chemistry-rohit-sir-skc-jee-main-advanced/p/itmaa7c4d321fb82?pid=9789368974932&lid=LSTBOK9789368974932VKAECU&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368974932.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1145]: Paperback, Rohit Sir, SKC Sir
+          - generic [ref=e1146]:
+            - generic [ref=e1148]:
+              - text: "4.6"
+              - img [ref=e1149]
+            - generic [ref=e1150]: (1,104)
+          - link "₹260 ₹599 56% off" [ref=e1151] [cursor=pointer]:
+            - /url: /pw-eajee-handwritten-notes-organic-chemistry-rohit-sir-skc-jee-main-advanced/p/itmaa7c4d321fb82?pid=9789368974932&lid=LSTBOK9789368974932VKAECU&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_29&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368974932.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1152] [cursor=pointer]:
+              - generic [ref=e1153] [cursor=pointer]: ₹260
+              - generic [ref=e1154] [cursor=pointer]: ₹599
+              - generic [ref=e1156] [cursor=pointer]: 56% off
+          - generic [ref=e1159]: Top Discount of the Sale
+        - generic [ref=e1161]:
+          - link "HOW TO TALK TO ANYONE - how to talk to anyone book" [ref=e1162] [cursor=pointer]:
+            - /url: /talk-anyone-book/p/itmfcy4gyyh7khvd?pid=9780007272617&lid=LSTBOK9780007272617SWDVZZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780007272617.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "HOW TO TALK TO ANYONE - how to talk to anyone book" [ref=e1166] [cursor=pointer]
+            - img [ref=e1169] [cursor=pointer]
+          - link "HOW TO TALK TO ANYONE - how to talk to anyone book" [ref=e1171] [cursor=pointer]:
+            - /url: /talk-anyone-book/p/itmfcy4gyyh7khvd?pid=9780007272617&lid=LSTBOK9780007272617SWDVZZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780007272617.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1172]: English, Paperback, Leil Lowndes
+          - generic [ref=e1173]:
+            - generic [ref=e1175]:
+              - text: "4.4"
+              - img [ref=e1176]
+            - generic [ref=e1177]: (11,574)
+          - img [ref=e1179]
+          - link "₹148 ₹399 62% off" [ref=e1180] [cursor=pointer]:
+            - /url: /talk-anyone-book/p/itmfcy4gyyh7khvd?pid=9780007272617&lid=LSTBOK9780007272617SWDVZZ&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_30&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9780007272617.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1181] [cursor=pointer]:
+              - generic [ref=e1182] [cursor=pointer]: ₹148
+              - generic [ref=e1183] [cursor=pointer]: ₹399
+              - generic [ref=e1185] [cursor=pointer]: 62% off
+          - generic [ref=e1188]: Only few left
+        - generic [ref=e1190]:
+          - link "Can We Be Stranger Again + Thankyou For Leaving + Warmth" [ref=e1191] [cursor=pointer]:
+            - /url: /can-stranger-again-thankyou-leaving-warmth/p/itm94cedc99644fc?pid=RBKHC56YKGY6NX5P&lid=LSTRBKHC56YKGY6NX5PCYLDAX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyBQiOdGSmFo0kjCyrA2KKrKz4pWXBk_BNYkvCKpW4DXA%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Can We Be Stranger Again + Thankyou For Leaving + Warmth" [ref=e1195] [cursor=pointer]
+            - img [ref=e1198] [cursor=pointer]
+          - img [ref=e1201]
+          - link "Can We Be Stranger Again + Thankyou For Leaving + Warmt..." [ref=e1204] [cursor=pointer]:
+            - /url: /can-stranger-again-thankyou-leaving-warmth/p/itm94cedc99644fc?pid=RBKHC56YKGY6NX5P&lid=LSTRBKHC56YKGY6NX5PCYLDAX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyBQiOdGSmFo0kjCyrA2KKrKz4pWXBk_BNYkvCKpW4DXA%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1205]: Paperback, Rithvik Singh, Shrijeet Shandilya
+          - generic [ref=e1206]:
+            - generic [ref=e1208]:
+              - text: "4.3"
+              - img [ref=e1209]
+            - generic [ref=e1210]: (279)
+          - img [ref=e1212]
+          - link "₹207 ₹1,499 86% off" [ref=e1213] [cursor=pointer]:
+            - /url: /can-stranger-again-thankyou-leaving-warmth/p/itm94cedc99644fc?pid=RBKHC56YKGY6NX5P&lid=LSTRBKHC56YKGY6NX5PCYLDAX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_31&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPyBQiOdGSmFo0kjCyrA2KKrKz4pWXBk_BNYkvCKpW4DXA%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1214] [cursor=pointer]:
+              - generic [ref=e1215] [cursor=pointer]: ₹207
+              - generic [ref=e1216] [cursor=pointer]: ₹1,499
+              - generic [ref=e1218] [cursor=pointer]: 86% off
+        - generic [ref=e1220]:
+          - link "Ikigai, Atomic Habits and Psychology of Money (3 Book Combo)" [ref=e1221] [cursor=pointer]:
+            - /url: /ikigai-atomic-habits-psychology-money-3-book-combo/p/itm824a2b78bda3f?pid=9788730186904&lid=LSTBOK97887301869043VZJTB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPzzzIElADQTqNjTcUWUty9YoERq6VntKifcSInTD6oPKg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Ikigai, Atomic Habits and Psychology of Money (3 Book Combo)" [ref=e1225] [cursor=pointer]
+            - img [ref=e1228] [cursor=pointer]
+          - img [ref=e1231]
+          - link "Ikigai, Atomic Habits and Psychology of Money (3 Book C..." [ref=e1234] [cursor=pointer]:
+            - /url: /ikigai-atomic-habits-psychology-money-3-book-combo/p/itm824a2b78bda3f?pid=9788730186904&lid=LSTBOK97887301869043VZJTB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPzzzIElADQTqNjTcUWUty9YoERq6VntKifcSInTD6oPKg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1235]: Paperback, JMD BOOKS
+          - generic [ref=e1236]:
+            - generic [ref=e1238]:
+              - text: "4.2"
+              - img [ref=e1239]
+            - generic [ref=e1240]: (1,025)
+          - img [ref=e1242]
+          - link "₹139 ₹1,999 93% off" [ref=e1243] [cursor=pointer]:
+            - /url: /ikigai-atomic-habits-psychology-money-3-book-combo/p/itm824a2b78bda3f?pid=9788730186904&lid=LSTBOK97887301869043VZJTB&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_32&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPzzzIElADQTqNjTcUWUty9YoERq6VntKifcSInTD6oPKg%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1244] [cursor=pointer]:
+              - generic [ref=e1245] [cursor=pointer]: ₹139
+              - generic [ref=e1246] [cursor=pointer]: ₹1,999
+              - generic [ref=e1248] [cursor=pointer]: 93% off
+          - generic [ref=e1251]: Top Discount of the Sale
+      - generic [ref=e1253]:
+        - generic [ref=e1255]:
+          - link "Psychology Of Money & Rich Dad English Combo" [ref=e1256] [cursor=pointer]:
+            - /url: /psychology-money-rich-dad-english-combo/p/itm000d76ab00c2a?pid=RBKHB5Z7K64WHNEH&lid=LSTRBKHB5Z7K64WHNEHOE81L1&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHB5Z7K64WHNEH.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Psychology Of Money & Rich Dad English Combo" [ref=e1260] [cursor=pointer]
+            - img [ref=e1263] [cursor=pointer]
+          - link "Psychology Of Money & Rich Dad English Combo" [ref=e1265] [cursor=pointer]:
+            - /url: /psychology-money-rich-dad-english-combo/p/itm000d76ab00c2a?pid=RBKHB5Z7K64WHNEH&lid=LSTRBKHB5Z7K64WHNEHOE81L1&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHB5Z7K64WHNEH.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1266]: Paperback, Morgan Housel
+          - generic [ref=e1267]:
+            - generic [ref=e1269]:
+              - text: "4.3"
+              - img [ref=e1270]
+            - generic [ref=e1271]: (1,625)
+          - img [ref=e1273]
+          - link "₹177 ₹999 82% off" [ref=e1274] [cursor=pointer]:
+            - /url: /psychology-money-rich-dad-english-combo/p/itm000d76ab00c2a?pid=RBKHB5Z7K64WHNEH&lid=LSTRBKHB5Z7K64WHNEHOE81L1&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_33&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHB5Z7K64WHNEH.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1275] [cursor=pointer]:
+              - generic [ref=e1276] [cursor=pointer]: ₹177
+              - generic [ref=e1277] [cursor=pointer]: ₹999
+              - generic [ref=e1279] [cursor=pointer]: 82% off
+          - generic [ref=e1282]: Only few left
+        - generic [ref=e1284]:
+          - link "Ghachar Ghochar (English, Paperback, Shanbhag Vivek)" [ref=e1285] [cursor=pointer]:
+            - /url: /ghachar-ghochar-english-paperback-shanbhag-vivek/p/itme2ba4565bc990?pid=RBKHFJAASP4KY73Q&lid=LSTRBKHFJAASP4KY73QCVGEZK&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFJAASP4KY73Q.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Ghachar Ghochar (English, Paperback, Shanbhag Vivek)" [ref=e1289] [cursor=pointer]
+            - img [ref=e1292] [cursor=pointer]
+          - link "Ghachar Ghochar (English, Paperback, Shanbhag Vivek)" [ref=e1294] [cursor=pointer]:
+            - /url: /ghachar-ghochar-english-paperback-shanbhag-vivek/p/itme2ba4565bc990?pid=RBKHFJAASP4KY73Q&lid=LSTRBKHFJAASP4KY73QCVGEZK&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFJAASP4KY73Q.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1295]: Paperback, Shanbhag Vivek
+          - img [ref=e1297]
+          - link "₹220 ₹599 63% off" [ref=e1298] [cursor=pointer]:
+            - /url: /ghachar-ghochar-english-paperback-shanbhag-vivek/p/itme2ba4565bc990?pid=RBKHFJAASP4KY73Q&lid=LSTRBKHFJAASP4KY73QCVGEZK&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_34&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFJAASP4KY73Q.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1299] [cursor=pointer]:
+              - generic [ref=e1300] [cursor=pointer]: ₹220
+              - generic [ref=e1301] [cursor=pointer]: ₹599
+              - generic [ref=e1303] [cursor=pointer]: 63% off
+          - generic [ref=e1306]: Only few left
+        - generic [ref=e1308]:
+          - link "Was I Ever Enough?" [ref=e1309] [cursor=pointer]:
+            - /url: /was-i-ever-enough/p/itme51a6049ab414?pid=RBKHEEFCZDMAYZPV&lid=LSTRBKHEEFCZDMAYZPVTYYIWH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHEEFCZDMAYZPV.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Was I Ever Enough?" [ref=e1313] [cursor=pointer]
+            - img [ref=e1316] [cursor=pointer]
+          - link "Was I Ever Enough?" [ref=e1318] [cursor=pointer]:
+            - /url: /was-i-ever-enough/p/itme51a6049ab414?pid=RBKHEEFCZDMAYZPV&lid=LSTRBKHEEFCZDMAYZPVTYYIWH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHEEFCZDMAYZPV.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1319]: Paperback, Yash Ranjit Jain
+          - link "₹250 ₹300 16% off" [ref=e1320] [cursor=pointer]:
+            - /url: /was-i-ever-enough/p/itme51a6049ab414?pid=RBKHEEFCZDMAYZPV&lid=LSTRBKHEEFCZDMAYZPVTYYIWH&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_35&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHEEFCZDMAYZPV.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1321] [cursor=pointer]:
+              - generic [ref=e1322] [cursor=pointer]: ₹250
+              - generic [ref=e1323] [cursor=pointer]: ₹300
+              - generic [ref=e1325] [cursor=pointer]: 16% off
+          - generic [ref=e1328]: Only few left
+        - generic [ref=e1330]:
+          - 'link "SSB Interview: The Complete Guide - The Complete Guide" [ref=e1331] [cursor=pointer]':
+            - /url: /ssb-interview-complete-guide/p/itmfd9e03d848369?pid=9788184955699&lid=LSTBOK9788184955699LXT0OR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788184955699.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - 'img "SSB Interview: The Complete Guide - The Complete Guide" [ref=e1335] [cursor=pointer]'
+            - img [ref=e1338] [cursor=pointer]
+          - 'link "SSB Interview: The Complete Guide - The Complete Guide" [ref=e1340] [cursor=pointer]':
+            - /url: /ssb-interview-complete-guide/p/itmfd9e03d848369?pid=9788184955699&lid=LSTBOK9788184955699LXT0OR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788184955699.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1341]: English, Paperback, Natarajan N.K. Dr.
+          - generic [ref=e1342]:
+            - generic [ref=e1344]:
+              - text: "4.5"
+              - img [ref=e1345]
+            - generic [ref=e1346]: (17,728)
+          - link "₹231 ₹350 34% off" [ref=e1347] [cursor=pointer]:
+            - /url: /ssb-interview-complete-guide/p/itmfd9e03d848369?pid=9788184955699&lid=LSTBOK9788184955699LXT0OR&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_36&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9788184955699.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1348] [cursor=pointer]:
+              - generic [ref=e1349] [cursor=pointer]: ₹231
+              - generic [ref=e1350] [cursor=pointer]: ₹350
+              - generic [ref=e1352] [cursor=pointer]: 34% off
+          - generic [ref=e1355]: Top Discount of the Sale
+      - generic [ref=e1357]:
+        - generic [ref=e1359]:
+          - link "PW 38 Years NEET Previous Year Solved Question Papers Biology PYQ For NEET 2026" [ref=e1360] [cursor=pointer]:
+            - /url: /pw-38-years-neet-previous-year-solved-question-papers-biology-pyq-2026/p/itmfc19d13c00a42?pid=9789368973621&lid=LSTBOK9789368973621HYTAY3&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxIvcPh-IV_-brTWcbWQc3PPH8R75N-aPkKY4loJ57JKw%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "PW 38 Years NEET Previous Year Solved Question Papers Biology PYQ For NEET 2026" [ref=e1364] [cursor=pointer]
+            - img [ref=e1367] [cursor=pointer]
+          - img [ref=e1370]
+          - link "PW 38 Years NEET Previous Year Solved Question Papers B..." [ref=e1373] [cursor=pointer]:
+            - /url: /pw-38-years-neet-previous-year-solved-question-papers-biology-pyq-2026/p/itmfc19d13c00a42?pid=9789368973621&lid=LSTBOK9789368973621HYTAY3&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxIvcPh-IV_-brTWcbWQc3PPH8R75N-aPkKY4loJ57JKw%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1374]: Paperback, PW
+          - generic [ref=e1375]:
+            - generic [ref=e1377]:
+              - text: "4.4"
+              - img [ref=e1378]
+            - generic [ref=e1379]: (502)
+          - img [ref=e1381]
+          - link "₹338 ₹459 26% off" [ref=e1382] [cursor=pointer]:
+            - /url: /pw-38-years-neet-previous-year-solved-question-papers-biology-pyq-2026/p/itmfc19d13c00a42?pid=9789368973621&lid=LSTBOK9789368973621HYTAY3&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_37&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxIvcPh-IV_-brTWcbWQc3PPH8R75N-aPkKY4loJ57JKw%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1383] [cursor=pointer]:
+              - generic [ref=e1384] [cursor=pointer]: ₹338
+              - generic [ref=e1385] [cursor=pointer]: ₹459
+              - generic [ref=e1387] [cursor=pointer]: 26% off
+          - generic [ref=e1390]: Top Discount of the Sale
+        - generic [ref=e1392]:
+          - link "Pw Cbse Class 9 Question and Concept Bank Science" [ref=e1393] [cursor=pointer]:
+            - /url: /pw-cbse-class-9-question-concept-bank-science/p/itma6b12fd3c5029?pid=9789368970149&lid=LSTBOK9789368970149WWTZJX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxFGzEAx7yH92j8wgGY68MB98Pz4rtAJU_8FplGxfDQ6A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Pw Cbse Class 9 Question and Concept Bank Science" [ref=e1397] [cursor=pointer]
+            - img [ref=e1400] [cursor=pointer]
+          - img [ref=e1403]
+          - link "Pw Cbse Class 9 Question and Concept Bank Science" [ref=e1406] [cursor=pointer]:
+            - /url: /pw-cbse-class-9-question-concept-bank-science/p/itma6b12fd3c5029?pid=9789368970149&lid=LSTBOK9789368970149WWTZJX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxFGzEAx7yH92j8wgGY68MB98Pz4rtAJU_8FplGxfDQ6A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1407]: English, Hardcover, unknown
+          - generic [ref=e1408]:
+            - generic [ref=e1410]:
+              - text: "4.2"
+              - img [ref=e1411]
+            - generic [ref=e1412]: (202)
+          - img [ref=e1414]
+          - link "₹259 ₹349 25% off" [ref=e1415] [cursor=pointer]:
+            - /url: /pw-cbse-class-9-question-concept-bank-science/p/itma6b12fd3c5029?pid=9789368970149&lid=LSTBOK9789368970149WWTZJX&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_38&otracker=search&otracker1=search&fm=Search&iid=en_PXxoZkZuGxppz61dMDrRDEDntkRYspIenlzx-dmbdPxFGzEAx7yH92j8wgGY68MB98Pz4rtAJU_8FplGxfDQ6A%3D%3D&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1416] [cursor=pointer]:
+              - generic [ref=e1417] [cursor=pointer]: ₹259
+              - generic [ref=e1418] [cursor=pointer]: ₹349
+              - generic [ref=e1420] [cursor=pointer]: 25% off
+          - generic [ref=e1423]: Top Discount of the Sale
+        - generic [ref=e1425]:
+          - link "Arihant Revised Edition of Computer Awareness for 2025 Ssc, Railway, Banking, Dsssb, & Other One Day Exams" [ref=e1426] [cursor=pointer]:
+            - /url: /arihant-revised-computer-awareness-2025-ssc-railway-banking-dsssb-other-one-day-exams/p/itm144647be82f34?pid=9789368405061&lid=LSTBOK9789368405061KWRCER&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368405061.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - img "Arihant Revised Edition of Computer Awareness for 2025 Ssc, Railway, Banking, Dsssb, & Other One Day Exams" [ref=e1430] [cursor=pointer]
+            - img [ref=e1433] [cursor=pointer]
+          - link "Arihant Revised Edition of Computer Awareness for 2025 ..." [ref=e1435] [cursor=pointer]:
+            - /url: /arihant-revised-computer-awareness-2025-ssc-railway-banking-dsssb-other-one-day-exams/p/itm144647be82f34?pid=9789368405061&lid=LSTBOK9789368405061KWRCER&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368405061.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1436]: English, Paperback, Saini Shaifali
+          - generic [ref=e1437]:
+            - generic [ref=e1439]:
+              - text: "4.5"
+              - img [ref=e1440]
+            - generic [ref=e1441]: (1,540)
+          - link "₹121 ₹185 34% off" [ref=e1442] [cursor=pointer]:
+            - /url: /arihant-revised-computer-awareness-2025-ssc-railway-banking-dsssb-other-one-day-exams/p/itm144647be82f34?pid=9789368405061&lid=LSTBOK9789368405061KWRCER&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_39&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.9789368405061.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1443] [cursor=pointer]:
+              - generic [ref=e1444] [cursor=pointer]: ₹121
+              - generic [ref=e1445] [cursor=pointer]: ₹185
+              - generic [ref=e1447] [cursor=pointer]: 34% off
+          - generic [ref=e1450]: Top Discount of the Sale
+        - generic [ref=e1452]:
+          - 'link "PMR: Can Love Happen Twice ? (R/J) Paperback – 6 November 2013" [ref=e1453] [cursor=pointer]':
+            - /url: /pmr-can-love-happen-twice-r-j-paperback-6-november-2013/p/itm214fc0b8b50cf?pid=RBKHFGFZYWDHFDYX&lid=LSTRBKHFGFZYWDHFDYXDZ2ZDV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFGFZYWDHFDYX.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - 'img "PMR: Can Love Happen Twice ? (R/J) Paperback – 6 November 2013" [ref=e1457] [cursor=pointer]'
+            - img [ref=e1460] [cursor=pointer]
+          - 'link "PMR: Can Love Happen Twice ? (R/J) Paperback – 6 Novemb..." [ref=e1462] [cursor=pointer]':
+            - /url: /pmr-can-love-happen-twice-r-j-paperback-6-november-2013/p/itm214fc0b8b50cf?pid=RBKHFGFZYWDHFDYX&lid=LSTRBKHFGFZYWDHFDYXDZ2ZDV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFGFZYWDHFDYX.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+          - generic [ref=e1463]: Paperback, Ravinder Singh
+          - img [ref=e1465]
+          - link "₹173 ₹399 56% off" [ref=e1466] [cursor=pointer]:
+            - /url: /pmr-can-love-happen-twice-r-j-paperback-6-november-2013/p/itm214fc0b8b50cf?pid=RBKHFGFZYWDHFDYX&lid=LSTRBKHFGFZYWDHFDYXDZ2ZDV&marketplace=FLIPKART&q=Books&store=bks&srno=s_1_40&otracker=search&otracker1=search&fm=Search&iid=cca2c20b-389e-4a1e-a7fd-c7e0b560f187.RBKHFGFZYWDHFDYX.SEARCH&ppt=sp&ppn=sp&ssid=ge64t2nlao0000001760508165950&qH=6225eb5bf8a031f7
+            - generic [ref=e1467] [cursor=pointer]:
+              - generic [ref=e1468] [cursor=pointer]: ₹173
+              - generic [ref=e1469] [cursor=pointer]: ₹399
+              - generic [ref=e1471] [cursor=pointer]: 56% off
+          - generic [ref=e1474]: Only few left
+      - generic [ref=e1477]:
+        - generic [ref=e1478]: Page 1 of 1,017
+        - navigation [ref=e1479]:
+          - link "1" [ref=e1480] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=1
+          - link "2" [ref=e1481] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=2
+          - link "3" [ref=e1482] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=3
+          - link "4" [ref=e1483] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=4
+          - link "5" [ref=e1484] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=5
+          - link "6" [ref=e1485] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=6
+          - link "7" [ref=e1486] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=7
+          - link "8" [ref=e1487] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=8
+          - link "9" [ref=e1488] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=9
+          - link "10" [ref=e1489] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=10
+          - link "Next" [ref=e1490] [cursor=pointer]:
+            - /url: /search?q=Books&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off&p%5B%5D=facets.language%255B%255D%3DEnglish&page=2
+            - generic [ref=e1491] [cursor=pointer]: Next
+      - generic [ref=e1493]:
+        - generic [ref=e1494]: Did you find what you were looking for?
+        - generic [ref=e1495]:
+          - generic [ref=e1496] [cursor=pointer]: "Yes"
+          - generic [ref=e1497] [cursor=pointer]: "No"
+  - contentinfo [ref=e1498]:
+    - generic [ref=e1500]:
+      - generic [ref=e1501]:
+        - generic [ref=e1502]:
+          - generic [ref=e1503]: ABOUT
+          - link "Contact Us" [ref=e1504] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e1505] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e1506] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e1507] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e1508] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e1509] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e1510]:
+          - generic [ref=e1511]: GROUP COMPANIES
+          - link "Myntra" [ref=e1512] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e1513] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e1514] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e1515]:
+          - generic [ref=e1516]: HELP
+          - link "Payments" [ref=e1517] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e1518] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e1519] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e1520] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e1521]:
+          - generic [ref=e1522]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e1523] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e1524] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e1525] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e1526] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e1527] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e1528] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e1529] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+        - generic [ref=e1531]:
+          - generic [ref=e1533]: "Mail Us:"
+          - generic [ref=e1536]:
+            - paragraph [ref=e1537]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1538]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1539]: Clove Embassy Tech Village,
+            - paragraph [ref=e1540]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1541]: Bengaluru, 560103,
+            - paragraph [ref=e1542]: Karnataka, India
+          - generic [ref=e1543]: Social
+          - generic [ref=e1544]:
+            - link [ref=e1546] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e1547] [cursor=pointer]
+            - link [ref=e1549] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e1550] [cursor=pointer]
+            - link [ref=e1552] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e1553] [cursor=pointer]
+            - link [ref=e1555] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e1556] [cursor=pointer]
+        - generic [ref=e1558]:
+          - generic [ref=e1560]: "Registered Office Address:"
+          - generic [ref=e1563]:
+            - paragraph [ref=e1564]: Flipkart Internet Private Limited,
+            - paragraph [ref=e1565]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e1566]: Clove Embassy Tech Village,
+            - paragraph [ref=e1567]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e1568]: Bengaluru, 560103,
+            - paragraph [ref=e1569]: Karnataka, India
+            - paragraph [ref=e1570]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e1571]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e1572] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e1573] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e1575]:
+        - generic [ref=e1576]:
+          - img [ref=e1577]
+          - link "Become a Seller" [ref=e1578] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+            - generic [ref=e1579] [cursor=pointer]: Become a Seller
+        - generic [ref=e1580]:
+          - img [ref=e1581]
+          - link "Advertise" [ref=e1582] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+            - generic [ref=e1583] [cursor=pointer]: Advertise
+        - generic [ref=e1584]:
+          - img [ref=e1585]
+          - link "Gift Cards" [ref=e1586] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+            - generic [ref=e1587] [cursor=pointer]: Gift Cards
+        - generic [ref=e1588]:
+          - img [ref=e1589]
+          - link "Help Center" [ref=e1590] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+            - generic [ref=e1591] [cursor=pointer]: Help Center
+        - generic [ref=e1592]:
+          - text: © 2007-2025
+          - generic [ref=e1593]: Flipkart.com
+        - img [ref=e1594]
+```

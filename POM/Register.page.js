@@ -8,20 +8,24 @@ export class Register{
         constructor(page){
 
         this.page = page
-        this.nametf = page.getByPlaceholder('Enter your name')
-        this.emailtf = page.getByPlaceholder('Enter Your Email')
-        this.passwordtf = page.getByPlaceholder('Enter your password')
-        this.registrbutton = page.getByRole('button',{name: 'Register'})
+        this.nametf = page.getByPlaceholder('Username')
+        this.passwordtf = page.getByPlaceholder('Password')
+        this.registrbutton = page.getByRole('button',{name: ' Login '})
+        this.user = page.locator('//i[@class="oxd-icon bi-caret-down-fill oxd-userdropdown-icon"]')
+        this.logout = page.getByText('Logout')
         
 
     }
 
-    async register(username,email,pwd)
+    async register(un,pwd)
     {
        
-        await this.nametf.fill(username)
-        await this.emailtf.fill(email)
+        await this.nametf.fill(un)
+       // await this.emailtf.fill(em)
         await this.passwordtf.fill(pwd)
         await this.registrbutton.click()
+        await this.user.click()
+        
+        await this.logout.click()
     }
 } 

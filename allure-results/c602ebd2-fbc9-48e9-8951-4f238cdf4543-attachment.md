@@ -1,0 +1,578 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - link "Flipkart" [ref=e10] [cursor=pointer]:
+        - /url: /
+        - img "Flipkart" [ref=e11] [cursor=pointer]
+      - link "Explore Plus" [ref=e12] [cursor=pointer]:
+        - /url: /plus
+        - text: Explore
+        - generic [ref=e13] [cursor=pointer]: Plus
+        - img [ref=e14] [cursor=pointer]
+    - generic [ref=e15]:
+      - img [ref=e16]
+      - text: Travel
+    - link "Login" [ref=e22] [cursor=pointer]:
+      - /url: /account/login?ret=/travel/flights/search%3Ftrips%3DBKK-CCU-13122025%26travellers%3D2-1-0%26class%3Dw%26tripType%3DONE_WAY%26isIntl%3Dtrue%26source%3DSearch%2520Form
+    - generic [ref=e24] [cursor=pointer]:
+      - generic [ref=e27] [cursor=pointer]: More
+      - img [ref=e28] [cursor=pointer]
+  - generic [ref=e32]:
+    - generic [ref=e39]:
+      - generic [ref=e40]:
+        - generic [ref=e41]: Trip Type
+        - button "One Way" [ref=e43] [cursor=pointer]: One Way
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - generic [ref=e47]: From
+          - textbox [ref=e51]: Bangkok, BKK - Suvarnabhumi, Thailand
+        - img [ref=e53] [cursor=pointer]
+        - generic [ref=e57]:
+          - generic [ref=e58]: To
+          - textbox [ref=e62]: Kolkata, CCU - Netaji Subhas Chandra Bose Airport, India
+      - generic [ref=e63]:
+        - generic [ref=e65]:
+          - generic [ref=e66]: Depart
+          - textbox [ref=e68]: 13 Dec, Sat
+        - generic [ref=e70]:
+          - generic [ref=e71]: Return
+          - textbox [ref=e73]: Book round trip for great deals
+      - generic [ref=e74]:
+        - generic [ref=e75]: Travellers & Class
+        - textbox [ref=e77]: 3 Travellers | Premium Economy
+      - button "Search Again" [ref=e80] [cursor=pointer]:
+        - generic [ref=e81] [cursor=pointer]: Search Again
+    - generic [ref=e82]:
+      - generic [ref=e84]:
+        - generic [ref=e87]:
+          - generic [ref=e88]: Filter By
+          - generic [ref=e89] [cursor=pointer]: Reset All
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - generic [ref=e93]: Stops
+            - img [ref=e95] [cursor=pointer]
+          - generic [ref=e103] [cursor=pointer]: 1 stop
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e107]: Departure from Bangkok
+            - img [ref=e109] [cursor=pointer]
+          - generic [ref=e111]:
+            - generic [ref=e116] [cursor=pointer]:
+              - generic [ref=e117] [cursor=pointer]: Early Morning
+              - generic [ref=e118] [cursor=pointer]: 12am - 6am
+            - generic [ref=e123] [cursor=pointer]:
+              - generic [ref=e124] [cursor=pointer]: Morning
+              - generic [ref=e125] [cursor=pointer]: 6am - noon
+            - generic [ref=e130] [cursor=pointer]:
+              - generic [ref=e131] [cursor=pointer]: Afternoon
+              - generic [ref=e132] [cursor=pointer]: noon - 6pm
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]: Night
+              - generic [ref=e139] [cursor=pointer]: 6pm - midnight
+        - generic [ref=e140]:
+          - generic [ref=e141]:
+            - generic [ref=e142]: Price from Bangkok
+            - img [ref=e144] [cursor=pointer]
+          - generic [ref=e146]:
+            - generic [ref=e155]:
+              - generic [ref=e156]: .
+              - generic [ref=e157]: .
+              - generic [ref=e158]: .
+              - generic [ref=e159]: .
+              - generic [ref=e160]: .
+              - generic [ref=e161]: .
+              - generic [ref=e162]: .
+              - generic [ref=e163]: .
+              - generic [ref=e164]: .
+              - generic [ref=e165]: .
+              - generic [ref=e166]: .
+              - generic [ref=e167]: .
+              - generic [ref=e168]: .
+              - generic [ref=e169]: .
+              - generic [ref=e170]: .
+              - generic [ref=e171]: .
+              - generic [ref=e172]: .
+              - generic: .
+            - generic [ref=e173]:
+              - generic [ref=e174]: ₹29,844
+              - generic [ref=e175]: ₹1,12,375
+        - generic [ref=e176]:
+          - generic [ref=e177]:
+            - generic [ref=e178]: Trip Duration
+            - img [ref=e180] [cursor=pointer]
+          - generic [ref=e182]:
+            - generic [ref=e191]:
+              - generic [ref=e192]: .
+              - generic [ref=e193]: .
+              - generic [ref=e194]: .
+              - generic [ref=e195]: .
+              - generic [ref=e196]: .
+              - generic [ref=e197]: .
+              - generic [ref=e198]: .
+              - generic [ref=e199]: .
+              - generic [ref=e200]: .
+              - generic [ref=e201]: .
+              - generic [ref=e202]: .
+              - generic [ref=e203]: .
+              - generic [ref=e204]: .
+              - generic [ref=e205]: .
+              - generic [ref=e206]: .
+              - generic [ref=e207]: .
+              - generic [ref=e208]: .
+              - generic [ref=e209]: .
+              - generic [ref=e210]: .
+              - generic [ref=e211]: .
+              - generic [ref=e212]: .
+              - generic [ref=e213]: .
+              - generic [ref=e214]: .
+              - generic [ref=e215]: .
+              - generic [ref=e216]: .
+              - generic [ref=e217]: .
+              - generic [ref=e218]: .
+              - generic [ref=e219]: .
+              - generic [ref=e220]: .
+              - generic [ref=e221]: .
+              - generic [ref=e222]: .
+              - generic [ref=e223]: .
+              - generic [ref=e224]: .
+              - generic [ref=e225]: .
+              - generic [ref=e226]: .
+              - generic [ref=e227]: .
+              - generic [ref=e228]: .
+              - generic [ref=e229]: .
+              - generic [ref=e230]: .
+              - generic [ref=e231]: .
+              - generic [ref=e232]: .
+              - generic [ref=e233]: .
+              - generic [ref=e234]: .
+              - generic: .
+            - generic [ref=e235]:
+              - generic [ref=e236]: 09 h 35 m
+              - generic [ref=e237]: 30 h 50 m
+        - generic [ref=e238]:
+          - generic [ref=e239]:
+            - generic [ref=e240]: Layover Duration
+            - img [ref=e242] [cursor=pointer]
+          - generic [ref=e244]:
+            - generic [ref=e253]:
+              - generic [ref=e254]: .
+              - generic [ref=e255]: .
+              - generic [ref=e256]: .
+              - generic [ref=e257]: .
+              - generic [ref=e258]: .
+              - generic [ref=e259]: .
+              - generic [ref=e260]: .
+              - generic [ref=e261]: .
+              - generic [ref=e262]: .
+              - generic [ref=e263]: .
+              - generic [ref=e264]: .
+              - generic [ref=e265]: .
+              - generic [ref=e266]: .
+              - generic [ref=e267]: .
+              - generic [ref=e268]: .
+              - generic [ref=e269]: .
+              - generic [ref=e270]: .
+              - generic [ref=e271]: .
+              - generic [ref=e272]: .
+              - generic [ref=e273]: .
+              - generic [ref=e274]: .
+              - generic [ref=e275]: .
+              - generic [ref=e276]: .
+              - generic [ref=e277]: .
+              - generic [ref=e278]: .
+              - generic [ref=e279]: .
+              - generic [ref=e280]: .
+              - generic [ref=e281]: .
+              - generic [ref=e282]: .
+              - generic [ref=e283]: .
+              - generic [ref=e284]: .
+              - generic [ref=e285]: .
+              - generic [ref=e286]: .
+              - generic [ref=e287]: .
+              - generic [ref=e288]: .
+              - generic [ref=e289]: .
+              - generic [ref=e290]: .
+              - generic [ref=e291]: .
+              - generic [ref=e292]: .
+              - generic [ref=e293]: .
+              - generic [ref=e294]: .
+              - generic [ref=e295]: .
+              - generic [ref=e296]: .
+              - generic: .
+            - generic [ref=e297]:
+              - generic [ref=e298]: 02 h 30 m
+              - generic [ref=e299]: 23 h 45 m
+        - generic [ref=e300]:
+          - generic [ref=e301]:
+            - generic [ref=e303]: Airlines
+            - img [ref=e305] [cursor=pointer]
+          - generic [ref=e307]:
+            - generic [ref=e316] [cursor=pointer]: Emirates
+            - generic [ref=e325] [cursor=pointer]: Air India
+      - generic [ref=e328]:
+        - generic [ref=e329]:
+          - generic [ref=e331]:
+            - generic [ref=e332]: Sort by
+            - generic [ref=e333]:
+              - generic [ref=e335] [cursor=pointer]: DEPART
+              - generic [ref=e337] [cursor=pointer]: DURATION
+              - generic [ref=e339] [cursor=pointer]: ARRIVAL
+            - generic [ref=e342] [cursor=pointer]:
+              - generic [ref=e343] [cursor=pointer]: PRICE
+              - img [ref=e344] [cursor=pointer]
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - generic [ref=e351]:
+                - generic [ref=e352]:
+                  - generic [ref=e359]: Air India | AI-2338 | AI-2773
+                  - generic [ref=e360]:
+                    - generic [ref=e361]:
+                      - generic [ref=e362]: BKK
+                      - generic [ref=e363]: 20:50
+                    - generic [ref=e364]:
+                      - generic [ref=e365]: 21h 30m
+                      - generic [ref=e370]: 1 stop - BOM
+                    - generic [ref=e371]:
+                      - generic [ref=e372]: CCU
+                      - generic [ref=e373]: 16:50
+                      - generic [ref=e374]: +1D
+                  - generic [ref=e375]:
+                    - generic [ref=e376]: ₹29,844
+                    - generic [ref=e379]: Get ₹3957 off with ZEROFEE
+                  - generic [ref=e380] [cursor=pointer]: Book
+                - generic [ref=e382] [cursor=pointer]:
+                  - generic [ref=e383] [cursor=pointer]: Flight Details
+                  - img [ref=e384] [cursor=pointer]
+              - generic [ref=e386] [cursor=pointer]:
+                - generic [ref=e387] [cursor=pointer]: 2 more flights at same price
+                - img [ref=e388] [cursor=pointer]
+            - generic [ref=e390]:
+              - generic [ref=e392]:
+                - generic [ref=e393]:
+                  - generic [ref=e400]: Air India | AI-2333 | AI-2709
+                  - generic [ref=e401]:
+                    - generic [ref=e402]:
+                      - generic [ref=e403]: BKK
+                      - generic [ref=e404]: 08:50
+                    - generic [ref=e405]:
+                      - generic [ref=e406]: 13h 55m
+                      - generic [ref=e411]: 1 stop - DEL
+                    - generic [ref=e412]:
+                      - generic [ref=e413]: CCU
+                      - generic [ref=e414]: 21:15
+                  - generic [ref=e415]:
+                    - generic [ref=e416]: ₹30,214
+                    - generic [ref=e419]: Get ₹3957 off with ZEROFEE
+                  - generic [ref=e420] [cursor=pointer]: Book
+                - generic [ref=e422] [cursor=pointer]:
+                  - generic [ref=e423] [cursor=pointer]: Flight Details
+                  - img [ref=e424] [cursor=pointer]
+              - generic [ref=e426] [cursor=pointer]:
+                - generic [ref=e427] [cursor=pointer]: 3 more flights at same price
+                - img [ref=e428] [cursor=pointer]
+            - generic [ref=e430]:
+              - generic [ref=e432]:
+                - generic [ref=e433]:
+                  - generic [ref=e440]: Air India | AI-2353 | AI-2643
+                  - generic [ref=e441]:
+                    - generic [ref=e442]:
+                      - generic [ref=e443]: BKK
+                      - generic [ref=e444]: 14:45
+                    - generic [ref=e445]:
+                      - generic [ref=e446]: 11h 20m
+                      - generic [ref=e451]: 1 stop - BOM
+                    - generic [ref=e452]:
+                      - generic [ref=e453]: CCU
+                      - generic [ref=e454]: 00:35
+                      - generic [ref=e455]: +1D
+                  - generic [ref=e456]:
+                    - generic [ref=e457]: ₹32,114
+                    - generic [ref=e460]: Get ₹3957 off with ZEROFEE
+                  - generic [ref=e461] [cursor=pointer]: Book
+                - generic [ref=e463] [cursor=pointer]:
+                  - generic [ref=e464] [cursor=pointer]: Flight Details
+                  - img [ref=e465] [cursor=pointer]
+              - generic [ref=e467] [cursor=pointer]:
+                - generic [ref=e468] [cursor=pointer]: 7 more flights at same price
+                - img [ref=e469] [cursor=pointer]
+            - generic [ref=e473]:
+              - generic [ref=e474]:
+                - generic [ref=e481]: Air India | AI-2333 | AI-2403
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: BKK
+                    - generic [ref=e485]: 08:50
+                  - generic [ref=e486]:
+                    - generic [ref=e487]: 12h 25m
+                    - generic [ref=e492]: 1 stop - DEL
+                  - generic [ref=e493]:
+                    - generic [ref=e494]: CCU
+                    - generic [ref=e495]: 19:45
+                - generic [ref=e496]:
+                  - generic [ref=e497]: ₹34,394
+                  - generic [ref=e500]: Get ₹5000 off with FKSALE
+                - generic [ref=e501] [cursor=pointer]: Book
+              - generic [ref=e503] [cursor=pointer]:
+                - generic [ref=e504] [cursor=pointer]: Flight Details
+                - img [ref=e505] [cursor=pointer]
+            - generic [ref=e507]:
+              - generic [ref=e509]:
+                - generic [ref=e510]:
+                  - generic [ref=e517]: Air India | AI-2335 | AI-2702
+                  - generic [ref=e518]:
+                    - generic [ref=e519]:
+                      - generic [ref=e520]: BKK
+                      - generic [ref=e521]: 17:55
+                    - generic [ref=e522]:
+                      - generic [ref=e523]: 11h 50m
+                      - generic [ref=e528]: 1 stop - DEL
+                    - generic [ref=e529]:
+                      - generic [ref=e530]: CCU
+                      - generic [ref=e531]: 04:15
+                      - generic [ref=e532]: +1D
+                  - generic [ref=e533]:
+                    - generic [ref=e534]: ₹37,479
+                    - generic [ref=e537]: Get ₹5000 off with FKSALE
+                  - generic [ref=e538] [cursor=pointer]: Book
+                - generic [ref=e540] [cursor=pointer]:
+                  - generic [ref=e541] [cursor=pointer]: Flight Details
+                  - img [ref=e542] [cursor=pointer]
+              - generic [ref=e544] [cursor=pointer]:
+                - generic [ref=e545] [cursor=pointer]: 10 more flights at same price
+                - img [ref=e546] [cursor=pointer]
+            - generic [ref=e548]:
+              - generic [ref=e550]:
+                - generic [ref=e551]:
+                  - generic [ref=e558]: Air India | AI-2356 | AI-1714
+                  - generic [ref=e559]:
+                    - generic [ref=e560]:
+                      - generic [ref=e561]: BKK
+                      - generic [ref=e562]: 15:10
+                    - generic [ref=e563]:
+                      - generic [ref=e564]: 9h 35m
+                      - generic [ref=e569]: 1 stop - DEL
+                    - generic [ref=e570]:
+                      - generic [ref=e571]: CCU
+                      - generic [ref=e572]: 23:15
+                  - generic [ref=e573]:
+                    - generic [ref=e574]: ₹37,974
+                    - generic [ref=e577]: Get ₹5000 off with FKSALE
+                  - generic [ref=e578] [cursor=pointer]: Book
+                - generic [ref=e580] [cursor=pointer]:
+                  - generic [ref=e581] [cursor=pointer]: Flight Details
+                  - img [ref=e582] [cursor=pointer]
+              - generic [ref=e584] [cursor=pointer]:
+                - generic [ref=e585] [cursor=pointer]: 7 more flights at same price
+                - img [ref=e586] [cursor=pointer]
+            - generic [ref=e590]:
+              - generic [ref=e591]:
+                - generic [ref=e598]: Air India | AI-2333 | AI-1733
+                - generic [ref=e599]:
+                  - generic [ref=e600]:
+                    - generic [ref=e601]: BKK
+                    - generic [ref=e602]: 08:50
+                  - generic [ref=e603]:
+                    - generic [ref=e604]: 11h 5m
+                    - generic [ref=e609]: 1 stop - DEL
+                  - generic [ref=e610]:
+                    - generic [ref=e611]: CCU
+                    - generic [ref=e612]: 18:25
+                - generic [ref=e613]:
+                  - generic [ref=e614]: ₹41,121
+                  - generic [ref=e617]: Get ₹5000 off with FKSALE
+                - generic [ref=e618] [cursor=pointer]: Book
+              - generic [ref=e620] [cursor=pointer]:
+                - generic [ref=e621] [cursor=pointer]: Flight Details
+                - img [ref=e622] [cursor=pointer]
+            - generic [ref=e624]:
+              - generic [ref=e626]:
+                - generic [ref=e627]:
+                  - generic [ref=e634]: Air India | AI-2333 | AI-2705
+                  - generic [ref=e635]:
+                    - generic [ref=e636]:
+                      - generic [ref=e637]: BKK
+                      - generic [ref=e638]: 08:50
+                    - generic [ref=e639]:
+                      - generic [ref=e640]: 1d 2h 25m
+                      - generic [ref=e645]: 1 stop - DEL
+                    - generic [ref=e646]:
+                      - generic [ref=e647]: CCU
+                      - generic [ref=e648]: 09:45
+                      - generic [ref=e649]: +1D
+                  - generic [ref=e650]:
+                    - generic [ref=e651]: ₹42,849
+                    - generic [ref=e654]: Get ₹5000 off with FKSALE
+                  - generic [ref=e655] [cursor=pointer]: Book
+                - generic [ref=e657] [cursor=pointer]:
+                  - generic [ref=e658] [cursor=pointer]: Flight Details
+                  - img [ref=e659] [cursor=pointer]
+              - generic [ref=e661] [cursor=pointer]:
+                - generic [ref=e662] [cursor=pointer]: 1 more flights at same price
+                - img [ref=e663] [cursor=pointer]
+            - generic [ref=e667]:
+              - generic [ref=e668]:
+                - generic [ref=e675]: Air India | AI-2303 | AI-2705
+                - generic [ref=e676]:
+                  - generic [ref=e677]:
+                    - generic [ref=e678]: BKK
+                    - generic [ref=e679]: 22:20
+                  - generic [ref=e680]:
+                    - generic [ref=e681]: 12h 55m
+                    - generic [ref=e686]: 1 stop - DEL
+                  - generic [ref=e687]:
+                    - generic [ref=e688]: CCU
+                    - generic [ref=e689]: 09:45
+                    - generic [ref=e690]: +1D
+                - generic [ref=e691]:
+                  - generic [ref=e692]: ₹44,171
+                  - generic [ref=e695]: Get ₹5000 off with FKSALE
+                - generic [ref=e696] [cursor=pointer]: Book
+              - generic [ref=e698] [cursor=pointer]:
+                - generic [ref=e699] [cursor=pointer]: Flight Details
+                - img [ref=e700] [cursor=pointer]
+            - generic [ref=e702]:
+              - generic [ref=e704]:
+                - generic [ref=e705]:
+                  - generic [ref=e712]: Air India | AI-2303 | AI-1791
+                  - generic [ref=e713]:
+                    - generic [ref=e714]:
+                      - generic [ref=e715]: BKK
+                      - generic [ref=e716]: 22:20
+                    - generic [ref=e717]:
+                      - generic [ref=e718]: 14h 55m
+                      - generic [ref=e723]: 1 stop - DEL
+                    - generic [ref=e724]:
+                      - generic [ref=e725]: CCU
+                      - generic [ref=e726]: 11:45
+                      - generic [ref=e727]: +1D
+                  - generic [ref=e728]:
+                    - generic [ref=e729]: ₹45,939
+                    - generic [ref=e732]: Get ₹5000 off with FKSALE
+                  - generic [ref=e733] [cursor=pointer]: Book
+                - generic [ref=e735] [cursor=pointer]:
+                  - generic [ref=e736] [cursor=pointer]: Flight Details
+                  - img [ref=e737] [cursor=pointer]
+              - generic [ref=e739] [cursor=pointer]:
+                - generic [ref=e740] [cursor=pointer]: 3 more flights at same price
+                - img [ref=e741] [cursor=pointer]
+        - img [ref=e745]
+  - contentinfo [ref=e748]:
+    - generic [ref=e750]:
+      - generic [ref=e751]:
+        - generic [ref=e752]:
+          - generic [ref=e753]: ABOUT
+          - link "Contact Us" [ref=e754] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+          - link "About Us" [ref=e755] [cursor=pointer]:
+            - /url: https://corporate.flipkart.net/corporate-home
+          - link "Careers" [ref=e756] [cursor=pointer]:
+            - /url: https://www.flipkartcareers.com/?otracker=footer_navlinks
+          - link "Flipkart Stories" [ref=e757] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/?otracker=footer_navlinks
+          - link "Press" [ref=e758] [cursor=pointer]:
+            - /url: http://stories.flipkart.com/category/top-stories/news/
+          - link "Corporate Information" [ref=e759] [cursor=pointer]:
+            - /url: /corporate-information
+        - generic [ref=e760]:
+          - generic [ref=e761]: GROUP COMPANIES
+          - link "Myntra" [ref=e762] [cursor=pointer]:
+            - /url: https://www.myntra.com/
+          - link "Cleartrip" [ref=e763] [cursor=pointer]:
+            - /url: https://www.cleartrip.com/
+          - link "Shopsy" [ref=e764] [cursor=pointer]:
+            - /url: https://www.shopsy.in/
+        - generic [ref=e765]:
+          - generic [ref=e766]: HELP
+          - link "Payments" [ref=e767] [cursor=pointer]:
+            - /url: /pages/payments
+          - link "Shipping" [ref=e768] [cursor=pointer]:
+            - /url: /pages/shipping
+          - link "Cancellation & Returns" [ref=e769] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+          - link "FAQ" [ref=e770] [cursor=pointer]:
+            - /url: /helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+        - generic [ref=e771]:
+          - generic [ref=e772]: CONSUMER POLICY
+          - link "Cancellation & Returns" [ref=e773] [cursor=pointer]:
+            - /url: /pages/returnpolicy?otracker=footer_navlinks
+          - link "Terms Of Use" [ref=e774] [cursor=pointer]:
+            - /url: /pages/terms?otracker=footer_navlinks
+          - link "Security" [ref=e775] [cursor=pointer]:
+            - /url: /pages/paymentsecurity?otracker=footer_navlinks
+          - link "Privacy" [ref=e776] [cursor=pointer]:
+            - /url: /pages/privacypolicy?otracker=footer_navlinks
+          - link "Sitemap" [ref=e777] [cursor=pointer]:
+            - /url: /sitemap?otracker=footer_navlinks
+          - link "Grievance Redressal" [ref=e778] [cursor=pointer]:
+            - /url: /pages/grievance-redressal-mechanism?otracker=footer_navlinks
+          - link "EPR Compliance" [ref=e779] [cursor=pointer]:
+            - /url: /pages/ewaste-compliance-tnc?otracker=footer_navlinks
+        - generic [ref=e781]:
+          - generic [ref=e783]: "Mail Us:"
+          - generic [ref=e786]:
+            - paragraph [ref=e787]: Flipkart Internet Private Limited,
+            - paragraph [ref=e788]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e789]: Clove Embassy Tech Village,
+            - paragraph [ref=e790]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e791]: Bengaluru, 560103,
+            - paragraph [ref=e792]: Karnataka, India
+          - generic [ref=e793]: Social
+          - generic [ref=e794]:
+            - link [ref=e796] [cursor=pointer]:
+              - /url: https://www.facebook.com/flipkart
+              - img [ref=e797] [cursor=pointer]
+            - link [ref=e799] [cursor=pointer]:
+              - /url: https://www.twitter.com/flipkart
+              - img [ref=e800] [cursor=pointer]
+            - link [ref=e802] [cursor=pointer]:
+              - /url: https://www.youtube.com/flipkart
+              - img [ref=e803] [cursor=pointer]
+            - link [ref=e805] [cursor=pointer]:
+              - /url: https://www.instagram.com/flipkart
+              - img [ref=e806] [cursor=pointer]
+        - generic [ref=e808]:
+          - generic [ref=e810]: "Registered Office Address:"
+          - generic [ref=e813]:
+            - paragraph [ref=e814]: Flipkart Internet Private Limited,
+            - paragraph [ref=e815]: Buildings Alyssa, Begonia &
+            - paragraph [ref=e816]: Clove Embassy Tech Village,
+            - paragraph [ref=e817]: Outer Ring Road, Devarabeesanahalli Village,
+            - paragraph [ref=e818]: Bengaluru, 560103,
+            - paragraph [ref=e819]: Karnataka, India
+            - paragraph [ref=e820]: "CIN : U51109KA2012PTC066107"
+            - paragraph [ref=e821]:
+              - text: "Telephone:"
+              - link "044-45614700" [ref=e822] [cursor=pointer]:
+                - /url: tel:044-45614700
+              - text: /
+              - link "044-67415800" [ref=e823] [cursor=pointer]:
+                - /url: tel:044-67415800
+      - generic [ref=e825]:
+        - generic [ref=e826]:
+          - img [ref=e827]
+          - link "Become a Seller" [ref=e828] [cursor=pointer]:
+            - /url: https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+            - generic [ref=e829] [cursor=pointer]: Become a Seller
+        - generic [ref=e830]:
+          - img [ref=e831]
+          - link "Advertise" [ref=e832] [cursor=pointer]:
+            - /url: https://brands.flipkart.com
+            - generic [ref=e833] [cursor=pointer]: Advertise
+        - generic [ref=e834]:
+          - img [ref=e835]
+          - link "Gift Cards" [ref=e836] [cursor=pointer]:
+            - /url: /the-gift-card-store?otracker=footer_navlinks
+            - generic [ref=e837] [cursor=pointer]: Gift Cards
+        - generic [ref=e838]:
+          - img [ref=e839]
+          - link "Help Center" [ref=e840] [cursor=pointer]:
+            - /url: /helpcentre?otracker=footer_navlinks
+            - generic [ref=e841] [cursor=pointer]: Help Center
+        - generic [ref=e842]:
+          - text: © 2007-2025
+          - generic [ref=e843]: Flipkart.com
+        - img [ref=e844]
+```

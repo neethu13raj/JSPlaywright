@@ -1,14 +1,10 @@
 
 import {expect, test} from '@playwright/test'
 //import { permission } from 'process'
-
 test('', async({browser}) => {
 
-test.slow()
-let context = await browser.newContext({
-
-    permission: [],
-})
+//test.slow()
+let context = await browser.newContext({permissions: []})
 let page = await context.newPage()
 
     await page.goto('https://www.spicejet.com/')
